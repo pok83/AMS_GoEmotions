@@ -96,15 +96,19 @@ and real-world discourse in social and clinical contexts using co-occurrence net
 
 ---
 
-## ▶️ Reproduction / 解析再現手順　
+# 🧠 AMS–GoEmotions Network Analysis
+*Linguistic network study of late-onset hypogonadism (LOH) symptoms using the GoEmotions corpus*
 
- Install environment　
+---
 
+## ▶️ Reproduction / 解析再現手順
+
+### 1️⃣ Install environment
 ```bash
 pip install pandas numpy nltk networkx matplotlib python-louvain igraph leidenalg
+```
 
- Run main analysis　
-
+###  2️⃣ Run main analysis
 python network_analysis_script.py \
   --input "AMS-GoEmotions.TXT.txt" \
   --ams_terms "AMS_terms.txt" \
@@ -112,25 +116,25 @@ python network_analysis_script.py \
   --window 2 \
   --outdir "outputs"
 
- Optional: Sensitivity analysis
+### 3️⃣ Optional: Sensitivity analysis
 python network_analysis_script.py --window 5
 python network_analysis_script.py --window 7
 python network_analysis_script.py --window 15
 
- Visualization
+### 4️⃣ Visualization
 Use any network viewer (e.g., Gephi, Cytoscape) to open:
 network_top300_withpos.graphml
 graph_weighted.gexf
 
-
-📊 Key Results / 主な結果
+---
+## 📊 Key Results / 主な結果
 | Figure       | Description                                                                             |
 | ------------ | --------------------------------------------------------------------------------------- |
 | **Figure 1** | Global co-occurrence network (AMS terms in red, non-AMS in blue).                       |
 | **Figure 2** | Domain-colored clusters (psychological=purple, sexual=orange, vitality/physical=green). |
 | **Figure 3** | Clinical corpus network showing AMS-related lexical clusters in educational texts.      |
 
-🧩 Related Data Summaries / 補足データ
+## 📂 Related Data Summaries / 補足データ
 | File                                 | Content                                                 |
 | ------------------------------------ | ------------------------------------------------------- |
 | `centrality_summary.csv`             | Mean/SD of degree, eigenvector, betweenness             |
@@ -139,14 +143,14 @@ graph_weighted.gexf
 | `AMS_terms_within_cluster_ranks.csv` | Rank of AMS terms within their communities              |
 | `cluster_spread_stats.csv`           | Cluster size, edge density, domain dispersion           |
 
-🩺 Clinical Corpus Overview / 臨床コーパス概要
+## 🩺 Clinical Corpus Overview / 臨床コーパス概要
 | Source                   | Document                              | Focus                                           |
 | ------------------------ | ------------------------------------- | ----------------------------------------------- |
 | **Mayo Clinic**          | *Male hypogonadism*                   | Symptoms, causes, treatment overview            |
 | **Stanford Health Care** | *Low testosterone*                    | Clinical overview and endocrine/urology context |
 | **UCSF Health**          | *Hypogonadism / Erectile dysfunction* | Endocrine and urologic patient education texts  |
 
-🧮 Environment / 実行環境
+## 🧮 Environment / 実行環境
 Python 3.10
 NetworkX v2.8
 igraph + leidenalg
@@ -154,7 +158,7 @@ pandas, numpy, scikit-learn
 matplotlib, unidecode, nltk
 Random seed fixed at 42 for reproducibility.
 
-👤 Contact / 連絡先
+## 👤 Contact / 連絡先
 
 Author: Kenta Ichino
 Affiliation: Juntendo University, Department of Urology
