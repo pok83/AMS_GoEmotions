@@ -1,0 +1,8 @@
+algo,cluster_id,size,avg_degree,ams_count,ams_psych,ams_sexual,ams_vitality
+Leiden,0,74,57.5945945945946,1,0,1,0
+Leiden,1,64,69.171875,1,0,1,0
+Leiden,2,58,63.87931034482759,3,0,0,3
+Leiden,3,56,66.94642857142857,2,0,0,2
+Leiden,4,53,70.9622641509434,5,2,3,0
+Leiden,5,1,0.0,1,0,0,1
+Leiden,6,1,0.0,1,0,0,1

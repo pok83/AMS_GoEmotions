@@ -1,0 +1,1640 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+	<link rel="stylesheet" type="text/css" href=/assets/ucsf/main.css?v=9cc847420db0c106c2a7f983614e5eab />
+
+	
+
+
+<!-- OneTrust Cookies Consent Notice start for ucsfhealth.org -->
+<script type="text/javascript" src="https://cdn.cookielaw.org/consent/15542477-8150-45a3-9953-e94fa799e80a/OtAutoBlock.js" ></script>
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="15542477-8150-45a3-9953-e94fa799e80a" ></script>
+<script type="text/javascript">
+  function OptanonWrapper() { 
+    // Check if banner div is available
+    if (document.getElementById('onetrust-banner-sdk')) {
+        // Get the buttons and container
+        var acceptBtn = document.getElementById("onetrust-accept-btn-handler");
+        var declineBtn = document.getElementById("onetrust-reject-all-handler");
+        var cookieSettingsBtn = document.getElementById("onetrust-pc-btn-handler");
+        var btnContainer = document.getElementById("onetrust-button-group");
+        // Set the order you want below...
+        btnContainer.append(acceptBtn, cookieSettingsBtn, declineBtn)
+    }
+  }
+</script>
+<!-- OneTrust Cookies Consent Notice end for ucsfhealth.org -->
+
+<!-- ucsf data layer -->
+<script src="https://datalayer.ucsfhealth.org/ucsf-data-layer.js" defer></script>
+
+<!-- ucsf  marketing data layer -->
+<script src="https://datalayer.ucsfhealth.org/ucsfhealth-marketing-data-layer.js" defer></script>
+
+<!-- adobe experience platform tag -->
+<script type="text/plain" class="optanon-category-C0007" src="https://assets.adobedtm.com/db5f13cb240b/b1130ce1ceae/launch-db8f55f3e131.min.js" defer></script>
+
+
+
+    <title>Erectile Dysfunction | Conditions | UCSF Health</title>
+
+
+
+
+    <link href="/-/media/project/ucsf/ucsf-health/header/favicon-32x32.png?rev=e809a21b00b748a3abf7a90f0667e530" rel="shortcut icon" />
+
+
+<link rel="canonical" href="https://www.ucsfhealth.org/conditions/erectile-dysfunction" />
+
+
+	<meta content="Conditions &amp; Treatments" name="mainNavName" />
+
+
+
+<meta property="fb:app_id"  content="1162986667203299" /><meta property="og:description"  content="Erectile dysfunction affects millions of men and occurs for a range of reasons, but there are also many treatments that allow you to continue a satisfying sexual life." /><meta property="og:type"  content="article" /><meta property="og:site_name"  content="ucsfhealth.org" /><meta property="og:image"  content="https://www.ucsfhealth.org/-/media/project/ucsf/ucsf-health/content/share/ucsf-fb-blue.jpg?rev=9b8b09c26ecd4875937f71208a53ae2b" /><meta property="og:title"  content="Erectile Dysfunction" /><meta property="og:description"  content="Erectile dysfunction affects millions of men and occurs for a range of reasons, but there are also many treatments that allow you to continue a satisfying sexual life." /><meta property="og:url"  content="https://www.ucsfhealth.org/conditions/erectile-dysfunction" />
+
+
+<meta  name="description" content="Erectile dysfunction affects millions of men and occurs for a range of reasons, but there are also many treatments that allow you to continue a satisfying sexual life." />
+
+
+<meta property="twitter:site"  content="@UCSFHospitals" /><meta property="twitter:image"  content="https://www.ucsfhealth.org/-/media/project/ucsf/ucsf-health/content/share/ucsf-twitter-blue.jpg?rev=2abaed29ae6945728363db67276f3f75" /><meta property="twitter:description"  content="Erectile dysfunction affects millions of men and occurs for a range of reasons, but there are also many treatments that allow you to continue a satisfying sexual life." /><meta property="twitter:creator"  content="@UCSFHospitals" /><meta property="twitter:title"  content="Erectile Dysfunction" /><meta property="twitter:card"  content="summary_large_image" /><meta property="twitter:description"  content="Erectile dysfunction affects millions of men and occurs for a range of reasons, but there are also many treatments that allow you to continue a satisfying sexual life." />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+
+
+<link rel="manifest" href="/manifest.json" />
+
+
+
+<meta name="format-detection" content="telephone=no">
+
+
+
+	
+</head>
+<body class="default-device bodyclass">
+	<a href="#content" class="skip-to-content">Skip to Main Content</a>
+	
+
+
+
+	<div id="wrapper">
+		<!-- #header -->
+		<header>
+			<div id="header" class="container-fluid">
+				
+
+
+    <div class="component rich-text paragraph1 ie-warning-banner">
+        <div class="component-content">
+<p>
+Looks like you&rsquo;re visiting UCSF Health on Internet Explorer. For the best experience, try <a rel="noopener noreferrer" href="https://www.google.com/chrome/" target="_blank">Chrome </a>or <a rel="noopener noreferrer" href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">Firefox</a>.</p>        </div>
+    </div>
+<div class="component">
+	<div class="component-content">
+
+		<div class="component">
+	<div class="component-content">
+		<div class="nav-search-overlay">
+			<div class="search-content">
+				<div class="search-header">
+					<img src="/-/media/project/ucsf/ucsf-health/images/logos/logo.png?h=76&amp;iar=0&amp;w=626&amp;rev=d583395ce9c04ec6a83dff0c67ef2e4c&amp;hash=661B5B6BDD2F563F400E662FE64AFB1B" alt="UCSF Health" width="626" height="76" />
+					<div class="search-close"></div>
+				</div>
+				<div class="search-form-wrapper">
+					<form data-autocomplete="/ucsfapi/search/getsuggestions"
+						  class="search-form display1" action="/search">
+						<div>
+							<input aria-label="search text" type="text" name="searchterms" placeholder="What can we help you find?" autocomplete="off" />
+							<button aria-label="search" type="submit" class="icon-ui-search"></button>
+						</div>
+					</form>
+					<div class="popular-searches autocomplete-results font-larger">
+						<div class="eyebrow">Popular Searches</div>
+						<form action="/search">
+								<button class="paragraph1" name="searchterms" value="Find a Doctor">Find a Doctor</button>
+								<button class="paragraph1" name="searchterms" value=" Refer a Patient"> Refer a Patient</button>
+								<button class="paragraph1" name="searchterms" value=" Clinics"> Clinics</button>
+								<button class="paragraph1" name="searchterms" value=" Conditions"> Conditions</button>
+								<button class="paragraph1" name="searchterms" value=" Treatments"> Treatments</button>
+								<button class="paragraph1" name="searchterms" value=" Locations &amp; Directions"> Locations &amp; Directions</button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+		<div class="nav-wrapper">
+			<div class="top-nav-wrapper">
+				<div class="top-nav">
+					<div class="title">
+						<a rel="noopener noreferrer" title="University of California San Francisco" href="https://www.ucsf.edu/" target="_blank">University of California San Francisco</a>
+					</div>
+				</div>
+			</div>
+			<div class="main-nav-wrapper">
+					<div class="main-nav container">
+						<input type="checkbox" id="mobile_nav_toggle" class="mobile-nav-check" aria-label="mobile_nav_toggle" />
+						<label class="mobile-nav-toggle" for="mobile_nav_toggle" aria-label="mobile_nav_toggle_label">
+							<div></div>
+						</label>
+						<div class="logo">
+							<a title="UCSF Home" href="/"><img src="/-/media/project/ucsf/ucsf-health/ezgifcom-gif-maker.png?h=27&amp;iar=0&amp;w=150&amp;rev=b49aee14cf934fb086632358c341cf97&amp;hash=1AC27DE6EDF5C0B6D348A6BD0A43F39F" alt="" width="150" height="27" /></a>
+						</div>
+						<span aria-label="search" class="nav-search "><span class="icon-ui-search"></span></span>
+
+						<div class="menu-content-wrapper">
+							<ul class="menu">
+									<li data-main-nav-name="Conditions &amp; Treatments">
+										<a>Conditions &amp; Treatments</a>
+										<div class="sub-nav container">
+											<a href="#" class="sub-nav-close">Conditions &amp; Treatments</a>
+												<div>
+													<a href="/treatments/responsive-neurostimulation" target="_self">
+														<img loading="lazy" src="/-/media/project/ucsf/ucsf-health/images/navigation/responsive-neurostimulation-376x188-2x.jpg?h=376&amp;iar=0&amp;w=752&amp;rev=7bc0bac0377344428084efa41ab4e936&amp;hash=A66A813384EF7C69793C8691B939DA7C" alt="" width="752" height="376" />
+														<span class="eyebrow">EPILEPSY BREAKTHROUGH</span>
+														<div class="paragraph1">
+<p><span>Stopping Seizures Before They Start</span></p>
+</div>
+													</a>
+												</div>
+																							<div class="meta-links">
+													<div class="component-content">
+														<ul class="use-arrow-icon">
+																<li>
+																	<p><a href="/conditions">Find Conditions</a></p>
+																</li>
+																<li>
+																	<p><a href="/treatments">Find Treatments</a></p>
+																</li>
+																<li>
+																	<p><a rel="noopener noreferrer" href="https://clinicaltrials.ucsf.edu" target="_blank">Clinical Trials</a></p>
+																</li>
+																<li>
+																	<p><a href="/education">Patient Education</a></p>
+																</li>
+																<li>
+																	<p><a href="/medical-tests">Medical Tests</a></p>
+																</li>
+														</ul>
+													</div>
+												</div>
+										</div>
+									</li>
+									<li data-main-nav-name="Doctors">
+										<a>Doctors</a>
+										<div class="sub-nav container">
+											<a href="#" class="sub-nav-close">Doctors</a>
+												<div>
+													<a href="/doctor-stories/jasleen-kukreja" target="_self">
+														<img loading="lazy" src="/-/media/project/ucsf/ucsf-health/images/navigation/jasleen-kukreja-376x188-2x.jpg?h=376&amp;iar=0&amp;w=752&amp;rev=4c99176bf937490b84533ea4639c34a3&amp;hash=A0AE58BF1530A6B90620551336B15D91" alt="" width="752" height="376" />
+														<span class="eyebrow">MEET OUR DOCTORS</span>
+														<div class="paragraph1">Dr. Jasleen Kukreja and the Life-Saving Gift of Breath</div>
+													</a>
+												</div>
+																							<div class="meta-links">
+													<div class="component-content">
+														<ul class="use-arrow-icon">
+																<li>
+																	<p><a href="/find-a-doctor">Find a Doctor</a></p>
+																</li>
+																<li>
+																	<p><a href="/doctor-stories">Doctor Stories</a></p>
+																</li>
+																<li>
+																	<p><a href="/second-opinion">Get a Second Opinion</a></p>
+																</li>
+														</ul>
+													</div>
+												</div>
+										</div>
+									</li>
+									<li data-main-nav-name="Clinics &amp; Locations">
+										<a>Clinics &amp; Locations</a>
+										<div class="sub-nav container">
+											<a href="#" class="sub-nav-close">Clinics &amp; Locations</a>
+												<div>
+													<a href="/lp/precision-cancer-medicine-building" target="_self">
+														<img loading="lazy" src="/-/media/project/ucsf/ucsf-health/images/navigation/pcmb-376x188-2x.jpg?h=376&amp;iar=0&amp;w=752&amp;rev=22258558633e46a99e3c385cbd9a55c5&amp;hash=05AAC46BF10ED201FACE98AB601B0F90" alt="" width="752" height="376" />
+														<span class="eyebrow">BAKAR PRECISION CANCER MEDICINE BUILDING</span>
+														<div class="paragraph1">Care, Convenience and Support at New Cancer Facility</div>
+													</a>
+												</div>
+																							<div class="meta-links">
+													<div class="component-content">
+														<ul class="use-arrow-icon">
+																<li>
+																	<p><a href="/clinics">Find a Clinic</a></p>
+																</li>
+																<li>
+																	<p><a href="/locations">Locations &amp; Directions</a></p>
+																</li>
+																<li>
+																	<p><a href="/list-of-clinics/urgent-care">Urgent Care</a></p>
+																</li>
+																<li>
+																	<p><a href="/clinics/emergency-department">Emergency Care</a></p>
+																</li>
+																<li>
+																	<p><a href="/about/our-affiliates">Partners &amp; Affiliates</a></p>
+																</li>
+																<li>
+																	<p><a rel="noopener noreferrer" href="https://www.ucsfbenioffchildrens.org/" target="_blank">UCSF Benioff Children&#39;s Hospitals</a></p>
+																</li>
+														</ul>
+													</div>
+												</div>
+										</div>
+									</li>
+									<li data-main-nav-name="Patients &amp; Visitors">
+										<a>Patients &amp; Visitors</a>
+										<div class="sub-nav container">
+											<a href="#" class="sub-nav-close">Patients &amp; Visitors</a>
+												<div>
+													<a href="" target="_self">
+														<img loading="lazy" src="/-/media/project/ucsf/ucsf-health/images/navigation/10-ways-to-get-the-most-from-doctor-visit-376x188-2x.jpg?h=376&amp;iar=0&amp;w=752&amp;rev=1199bec48a1f436e89d93f92a605fdae&amp;hash=37D3E3AF37E3D449EC8779910E4D3D0A" alt="" width="752" height="376" />
+														<span class="eyebrow">KNOW BEFORE YOU GO</span>
+														<div class="paragraph1"> 10 Ways to Get the Most Out of Your Doctor&rsquo;s Visit</div>
+													</a>
+												</div>
+																							<div class="meta-links">
+													<div class="component-content">
+														<ul class="use-arrow-icon">
+																<li>
+																	<p><a href="/your-hospital-stay">Your Hospital Stay</a></p>
+																</li>
+																<li>
+																	<p><a href="/for-visitors">For Visitors</a></p>
+																</li>
+																<li>
+																	<p><a href="/services/international-services">International Services</a></p>
+																</li>
+																<li>
+																	<p><a href="/education/self-care-for-caregivers">For Caregivers</a></p>
+																</li>
+																<li>
+																	<p><a href="/services">Support, Services &amp; Groups</a></p>
+																</li>
+														</ul>
+													</div>
+												</div>
+												<div class="meta-links">
+													<div class="component-content">
+														<ul class="use-arrow-icon">
+																<li>
+																	<p><a href="/billing-and-insurance">Billing &amp; Insurance</a></p>
+																</li>
+																<li>
+																	<p><a href="/billing-and-insurance/help-paying-your-bill">Help Paying Your Bill</a></p>
+																</li>
+																<li>
+																	<p><a href="/about/pricing-transparency">Pricing Transparency</a></p>
+																</li>
+																<li>
+																	<p><a href="/about/our-340b-story">340B Drug Pricing Program</a></p>
+																</li>
+																<li>
+																	<p><a href="/medical-records">Medical Records</a></p>
+																</li>
+																<li>
+																	<p><a href="/services/patient-relations">Patient Relations</a></p>
+																</li>
+														</ul>
+													</div>
+												</div>
+										</div>
+									</li>
+									<li data-main-nav-name="Why Choose Us?">
+										<a>Why Choose Us?</a>
+										<div class="sub-nav container">
+											<a href="#" class="sub-nav-close">Why Choose Us?</a>
+												<div>
+													<a href="" target="_self">
+														<img loading="lazy" src="/-/media/project/ucsf/ucsf-health/images/navigation/usnews-376x188-2x.jpg?h=376&amp;iar=0&amp;w=752&amp;rev=ceea5c834962474892a11e0877a76c60&amp;hash=5FDAA3936F2E054CC1408DDD1B92EB2B" alt="" width="752" height="376" />
+														<span class="eyebrow">U.S. News Best Hospital Rankings</span>
+														<div class="paragraph1">UCSF Health Ranked Among Nation's Top 10 Hospitals</div>
+													</a>
+												</div>
+																							<div class="meta-links">
+													<div class="component-content">
+														<ul class="use-arrow-icon">
+																<li>
+																	<p><a href="/about/our-mission">Our Mission</a></p>
+																</li>
+																<li>
+																	<p><a title="Quality of Patient Care" href="/about/quality-of-patient-care">Quality of Patient Care</a></p>
+																</li>
+																<li>
+																	<p><a href="/patient-stories">Patient Stories</a></p>
+																</li>
+																<li>
+																	<p><a href="/about/diversity-at-ucsf-health">Embracing Diversity</a></p>
+																</li>
+																<li>
+																	<p><a href="/about/our-leadership">Our Leadership</a></p>
+																</li>
+														</ul>
+													</div>
+												</div>
+										</div>
+									</li>
+							</ul>
+
+							<ul class="top-menu">
+									<li><a href="/refer-a-patient">Refer a Patient</a></li>
+																	<li><a href="/mychart">MyChart</a></li>
+																	<li><a href="/request-an-appointment">Request Appointment</a></li>
+																	<li><a href="/second-opinion">Get a Second Opinion</a></li>
+																	<li><a class="call-us">Call us: (888) 689-8273</a></li>
+							</ul>
+
+							<div class="mobile-nav-footer">
+								<a rel="noopener noreferrer" title="University of California San Francisco" href="https://www.ucsf.edu/" target="_blank">University of California San Francisco</a>
+							</div>
+						</div>
+
+					</div>
+			</div>
+		</div>
+
+	</div>
+</div>
+			</div>
+		</header>
+		<!-- /#header -->
+		<!-- #content -->
+		<main>
+			
+
+			<div id="content" class="container">
+				
+
+
+<div class="component conditions-hero conditions-hero-spc">
+	<div class="component-content">
+		<div class="conditions-hero-content">
+			<div class="conditions-hero-breadcrumb-wrapper eyebrow">
+<a title="Urology" href="/list-of-clinics/urology">Urology</a>							</div>
+			<h1 class="conditions-hero-content-header "><span>Erectile</span> <span>Dysfunction</span></h1>
+			<span class="lhn-anchor-mobile-open"></span>
+		</div>
+		<div class="conditions-hero-image">
+			<img src="/-/media/project/ucsf/ucsf-health/condition/single-page-condition-hero-2x.jpg?h=1113&amp;iar=0&amp;w=2881&amp;rev=9416dcb1fd1b4008b58f2bad07ea424d&amp;hash=2ED425C649BF29221F63E91CC053E972" alt="" width="2881" height="1113" />
+		</div>
+	</div>
+</div>
+<div class="component content container col-xs-12">
+    <div class="component-content">
+<div class="row sp-condition"><div class="col-lg-3"><div class="component share-print-email col-xs-12">
+	<div class="component-content">
+			<div class="share-component">
+				<a aria-label="Print Page" href="#" rel="nofollow" class="icon-ui-print" title="Print"></a>
+				<a aria-label="Share Page" data-email-body="Thought you might want to see this:" class="icon-ui-share" data-email-body="Thought you might want to see this:" data-email-subject="Take a look at this link from UCSF"></a>
+			</div>
+			<div class="clearfix"></div>
+	</div>
+</div>
+
+<aside class="component anchor-info-navigation anchor-info-nav-ucsf col-xs-12" aria-label="Table of Contents">
+	<div class="component-content">
+		<ul>
+				<li><a href="/conditions/erectile-dysfunction#Overview">Overview</a></li>
+				<li><a href="/conditions/erectile-dysfunction#Treatment">Treatment</a></li>
+				<li><a href="/conditions/erectile-dysfunction#Causes_of_ED">Causes of ED</a></li>
+				<li><a href="/conditions/erectile-dysfunction#Additional_information_and_resources">Additional information and resources</a></li>
+				<li><a href="/conditions/erectile-dysfunction#Where_to_get_care">Where to get care</a></li>
+				<li><a href="/conditions/erectile-dysfunction#Recommended_reading">Recommended reading</a></li>
+				<li><a href="/conditions/erectile-dysfunction#Support_services">Support services</a></li>
+		</ul>		
+	</div>
+</aside><div class="sp-condition-background-images"></div></div><div class="col-lg-9"><div class="component conditions-top-module">
+	<div class="component-content">
+			<h2 class="heading1 title-anchor field-title" id="Overview">
+				Overview
+			</h2>
+			<div class="font-larger condition-text rich-text">
+				<p>Erectile Dysfunction, or ED, is difficulty or inability to attain and maintain an erection sufficient for satisfactory sexual activity. ED is a relatively common problem, affecting up to 30 million men of all ages in the United States and more than 150 million worldwide. The ability to have an erection requires complex coordination among nerves, blood vessels, muscles and the brain.</p>
+<p>A variety of factors &ndash; frequently in combination &ndash; can cause ED. These factors include neurological, hormonal and vascular disorders, as well as the natural aging process and certain chronic diseases. ED is also a common side effect of treatments for prostate cancer. In addition, psychological issues, such as depression, anxiety or performance concerns, play at least some part in virtually every case of ED.</p>
+<h2>What is ED?</h2>
+<p>Male sexual function has traditionally been thought of as a linear process: A man feels sexual desire, blood flows into the penis, and it goes from flaccid to very firm &ndash; an erection.  After a period of sexual excitement or activity, the man experiences ejaculation (release of semen), which is typically accompanied by orgasm (intense pleasure and release of neuromuscular tension). It is important to understand that ejaculation and orgasm are separate processes that may occur independently. Also, men can experience ejaculation or orgasm without having an erection.</p>
+<p>The usual process of male sexual function can be derailed by various circumstances, including:</p>
+<ul>
+    <li>Decreased sexual desire, also referred to as decreased libido, is common and may occur when a man is depressed, anxious, stressed or having problems with his sexual partner. Some health conditions are associated with decreased desire, as are low blood levels of testosterone, the male hormone.</li>
+    <li>Problems with ejaculation (such as decreased volume and changes in consistency) can result from certain treatments for prostate problems, including medications, surgeries and radiation therapy. Ejaculation changes are also common as men age.</li>
+    <li>Though our current scientific understanding of the experience of orgasm is limited, we know that many factors &ndash; emotional, psychological, physical &ndash; contribute, and changes in these can diminish the experience. Changes in ejaculation also influence the perception of orgasm for some men, while others experience ejaculation but have a mild or even no sensation of orgasm.</li>
+</ul>
+<p>Men coping with ED do best when they let go of the idea that sexual function depends on the ability to have a rigid erection and an ejaculation. A careful assessment of sex life and the health of the sexual relationship are important to producing the best outcomes when addressing any type of sexual problem. Remember that mutually satisfying sexual relationships can be maintained in the presence of ED or other sexual challenges. For more information about this, refer to the books listed at the end of these pages.</p>
+<h2>Who gets ED</h2>
+<p>The single biggest factor associated with ED is aging. Men are at higher risk as they get older (see chart below). Having any of the following can elevate ED risk:</p>
+<ul>
+    <li>Chronic medical conditions, such as cancer, high blood pressure, high cholesterol, heart disease or diabetes</li>
+    <li>Vascular disease</li>
+    <li>Neurological injuries, such as from having a stroke</li>
+    <li>Hormone deficiency, including receiving androgyn deprivation therapy for prostate cancer</li>
+    <li>Smoking habit</li>
+    <li>Obesity</li>
+    <li>Sedentary lifestyle</li>
+    <li>Major pelvic surgery or radiation therapy, especially for prostate or bladder cancer</li>
+</ul>
+			</div>
+	</div>
+</div>
+
+
+<div class="component image-scroll col-xs-12">
+	<div class="component-content">
+		
+<div class="component image file-type-icon-media-link hide-gradient col-xs-12">
+    <div class="component-content">
+<img src="/-/media/project/ucsf/ucsf-health/education/misc-images/managing-erectile-dysfunction/chart-of-prevalence-974x397.jpg?h=397&amp;iar=0&amp;w=974&amp;rev=536167f077694a0b850915daa0ce6217&amp;hash=E85B855313B8CAFC0B69BABCA4FE4790" alt="" width="974" height="397" data-variantitemid="{265D3913-042C-456A-B909-6405A9BEF2F3}" data-variantfieldname="Image" loading="lazy" />    </div>
+</div>
+
+	</div>
+</div>
+
+    <div class="component rich-text paragraph1 col-xs-12">
+        <div class="component-content">
+<p>*Chronic disease includes other cancers, high blood pressure, heart disease, diabetes and a history of stroke.<br />
+<sup>&dagger;</sup>Risk factors include chronic vascular conditions (such as high blood pressure, diabetes or high cholesterol), tobacco use, obesity, lack of exercise, neurological injuries and hormone deficiencies.<br />
+Data from <em>Ann Intern Med. </em>2003 Aug 5; 139(3): 161-8. Printed with permission from the American College of Physicians.</p>        </div>
+    </div>
+
+
+    <div class="component rich-text paragraph1 col-xs-12">
+        <div class="component-content">
+<h2>Our approach to erectile dysfunction
+</h2>
+<p>UCSF is a national leader in treating urological disorders, including male sexual dysfunction, urinary incontinence, pelvic pain, urinary stone disease, male infertility and prostate disease. We offer the full array of therapies, including the latest techniques, and our team is committed to providing innovative, highly skilled care with compassion.</p>        </div>
+    </div>
+	<div class="component titled-rich-text rich-text col-xs-12">
+		<div class="component-content">
+<h2 class="heading1 title-anchor field-title">Treatment</h2><p>A number of treatments can help patients attain and maintain a rigid penis for sexual activity. Which is right for you depends on the cause of your ED, your age, your general health, and your and your doctor's preferences. Most often, providers recommend a stepwise approach that starts with the simplest or least intrusive option. While this approach is appropriate for most patients, you may choose to skip or avoid some of the available treatment options. The overarching goal – to re-establish sexual intimacy and pleasure – can be achieved in a number of ways. As you make treatment decisions, make sure your doctor understands your priorities.</p>
+<h2>Coping with ED</h2>
+<p>Treatments for ED are generally effective but don't work in every case. Patients may avoid certain treatments altogether for a variety of reasons. If you can't find an effective or acceptable solution, you still have options for enabling sexual intimacy and pleasure. Patients who can't achieve a rigid erection may still enjoy cuddling, genital caressing or oral sex. With a supportive partner, patience and willingness to explore different ways of being sexual, most patients are able to achieve satisfaction, including orgasm, regardless of whether they can get sufficiently erect for penetrative sex.</p>
+<p>A good way to resume your sex life combines being open to options with adopting a gradual approach that ensures you and your partner feel comfortable at every step. Sensual, mutually pleasuring activities with no performance goal can allow you to be intimate without stress.</p>
+<p>Sometimes partners need to redefine their sexual relationship after cancer treatment. In the past, they may have considered kissing, caressing and oral sex as simply intercourse foreplay, yet arousing one another and even reaching orgasm without intercourse can allow physical pleasure and emotional closeness to be shared without the need for a rigid erection. Your sex life should be based on what you and your partner mutually define as sexually pleasurable and satisfying, and this doesn't have to include penile hardness or penetration. Many patients use vibrators to achieve orgasm.</p>
+<p>Patients often overestimate their partner's feelings on the importance of penetration, so rather than making assumptions, patients should talk to their partners about what matters to them. If penetration is an important part of a couple's sex life, they have a number of medical options that will help with achieving a rigid erection for penetration.</p>
+<p>If you'd like sexual or marriage advice or counseling, please ask your provider for a referral. The <a rel="noopener noreferrer" href="https://www.aasect.org" target="_blank">American Association of Sexuality Educators, Counselors and Therapists</a> and <a rel="noopener noreferrer" href="https://sstarnet.org/" target="_blank">Society of Sex Therapy and Research</a> provide valuable information and searchable list of credentialed experts on sexual wellness.</p>
+<table>
+    <tbody>
+        <tr>
+            <td style="background-color: #8a8be2; text-align: left;"><strong>Type of therapy </strong></td>
+            <td style="background-color: #8a8be2; text-align: left;"><strong>Advantages </strong></td>
+            <td style="background-color: #8a8be2; text-align: left;"><strong>Disadvantages </strong></td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db; text-align: left;">Oral medication (Viagra, Levitra, Cialis, Stendra)  </td>
+            <td style="background-color: #d7d9db; text-align: left;">
+            <ul>
+                <li>Pills taken by mouth </li>
+                <li>  Effective in many patients  </li>
+            </ul>
+            </td>
+            <td style="background-color: #d7d9db; text-align: left;">
+            <ul>
+                <li>Not always effective in patients who had prostatectomy, particularly when a non-nerve-sparing approach was used. </li>
+                <li>May take 30 to 120 minutes for full effect. </li>
+                <li>Requires sexual stimulation to be effective. </li>
+                <li>Potential side effects include headache, flushing, stomach upset and muscle pain. </li>
+                <li>       Should not be taken with certain medications, especially nitrate medications (such as nitroglycerin tablets or isosorbide dinitrate), which are commonly taken for chest pain or other heart problems.  </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db; text-align: left;">Medicated urethral suppository for erections (Muse) </td>
+            <td style="background-color: #d7d9db; text-align: left;">
+            <ul>
+                <li>Small pellet placed in urethra </li>
+                <li>  Few systemic side effects  </li>
+            </ul>
+            </td>
+            <td style="background-color: #d7d9db; text-align: left;">
+            <ul>
+                <li>Can cause pain or burning. </li>
+                <li>Requires training to use. </li>
+                <li>Requires refrigeration. </li>
+                <li> Potential side effects include painful and prolonged erection lasting more than six hours (rarely), fainting, dizziness and pain, and vaginal burning for female sexual partners.  </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db; text-align: left;">Penile injections  </td>
+            <td style="background-color: #d7d9db; text-align: left;">
+            <ul>
+                <li>Highly effective </li>
+                <li>Few systemic side effects </li>
+                <li>Works in five to 10 minutes  </li>
+            </ul>
+            </td>
+            <td style="background-color: #d7d9db; text-align: left;">
+            <ul>
+                <li>Some medications require refrigeration. </li>
+                <li>Requires injecting penis. </li>
+                <li>In-office training is preferred. </li>
+                <li>Can cause penile pain. </li>
+                <li>Can cause prolonged erection. </li>
+                <li>     Theoretical risk of penile scarring.  </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db; text-align: left;">Vacuum device  </td>
+            <td style="background-color: #d7d9db; text-align: left;">
+            <ul>
+                <li>No systemic side effects </li>
+                <li>  Potentially low cost (onetime purchase)  </li>
+            </ul>
+            </td>
+            <td style="background-color: #d7d9db; text-align: left;">
+            <ul>
+                <li>Can cause numbness or bruising. </li>
+                <li>Erection sometimes described as less natural. </li>
+                <li>Requires using a tight ring at base of penis. </li>
+                <li> Some find it awkward to use.  </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db; text-align: left;">Penile prosthesis  </td>
+            <td style="background-color: #d7d9db; text-align: left;">
+            <ul>
+                <li>Highly effective </li>
+                <li>   Can be activated and deactivated in seconds  </li>
+            </ul>
+            </td>
+            <td style="background-color: #d7d9db; text-align: left;">
+            <ul>
+                <li>Requires anesthesia and surgery for placement. </li>
+                <li>Small risk of infection, which would require removal. </li>
+                <li>Using a mechanical device can be an adjustment. </li>
+                <li>May eventually stop working, requiring replacement surgery. </li>
+                <li>    The inflated penis tends not to be as long as naturally induced erections.  </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br />
+<h2>Oral medications</h2>
+<p>In the United States, four oral medications are available for treating ED: Viagra (sildenafil), Cialis (tadalafil), Levitra (vardenafil) and Stendra (avanafil). These drugs facilitate erections by improving blood flow to the penis. These medications must be followed by sexual stimulation – otherwise, they will have little effect. They also may not work if the cavernous nerves (which are involved in erections) are injured, as can happen with surgery or radiation therapy for prostate cancer. Overall, the likelihood of responding to these drugs is around 70% to 80%, depending on age, general health and other factors. Compared with patients taking a placebo, those taking any of these drugs report higher satisfaction with overall sexual function, orgasm, penile rigidity and erection maintenance.</p>
+<p>We also use oral medications as a form of penile rehabilitation for patients who have undergone radical prostatectomy, radiation therapy or hormone therapy. The underlying theory is that enhanced blood flow may spur recovery of spontaneous erections by keeping the penile tissues well supplied with blood. Although there's no evidence that use of these drugs will help patients recover the ability to have spontaneous erections after prostate cancer surgery, there's little harm in their judicious use for ED. The short-term enhancement of erectile response provided by the drugs may help facilitate sexual encounters and maintain intimacy while patients recover from prostate cancer treatment.</p>
+<p>Viagra and Levitra remain in the bloodstream and can help patients achieve erections for about six to eight hours. Cialis is a long-acting medication that may have an effect for 36 hours. Stendra stays in the circulation for a period somewhere between those of Viagra or Levitra and Cialis. Studies show that all four drugs are generally well tolerated. There's no convincing evidence that any one is better than the others, although individuals may have personal preferences.</p>
+<p>Patients at risk for heart attack or stroke should consult their providers before engaging in sexual activity, as exertion during sex can strain the heart. Patients who take nitrate medications shouldn't take any of these drugs, as the combination can cause a potentially life-threatening drop in blood pressure. Caution should also be exercised in patients who take alpha-blockers, which are commonly used for prostate problems and for high blood pressure; there is a small potential for a drop in blood pressure if both medications are taken at the same time. Doses of an ED drug and an alpha-blocker should ideally be separated by at least four hours.</p>
+<p>The following chart shows how we prescribe these medications at UCSF. Please consult doctor about the right dosage for you.</p>
+<table>
+    <tbody>
+        <tr>
+            <td colspan="2" style="background-color: #8a8be2; text-align: left;"><strong>How to take oral medications (Viagra/Levitra/Cialis/Stendra) </strong></td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db; text-align: left;">Viagra (sildenafil)  </td>
+            <td style="background-color: #d7d9db; text-align: left;">
+            <ul>
+                <li>Take 25-100 mg one hour before you wish to engage in sexual activity. </li>
+                <li>Viagra works best 30 minutes to four hours after you take it. </li>
+                <li>Viagra works best on an empty stomach.  Don't take it after a high-fat meal, as it will take longer to work.             </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db; text-align: left;">Levitra (vardenafil) </td>
+            <td style="background-color: #d7d9db; text-align: left;">
+            <ul>
+                <li>Take 5-20 mg one hour before you wish to engage in sexual activity. </li>
+                <li>Levitra works best on an empty stomach. Don't take it after a high-fat meal, as it will take longer to work.</li>
+                <li>Levitra works best 30 minutes to four hours after you take it. </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db; text-align: left;">Cialis (tadalafil) </td>
+            <td style="background-color: #d7d9db; text-align: left;">
+            <ul>
+                <li>Take 5-20 mg at least 2 hours before you wish to engage in sexual activity. </li>
+                <li>Cialis can be taken after meals. </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db; text-align: left;">Stendra (avanafil) </td>
+            <td style="background-color: #d7d9db; text-align: left;">
+            <ul>
+                <li>Take 50-200 mg 30 minutes before you wish to engage in sexual activity. </li>
+                <li>Stendra works best on an empty stomach. Don't take it after a high-fat meal, as it will take longer to work.</li>
+                <li>Stendra works best 30 minutes to four hours you take it. </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="background-color: #d7d9db; text-align: left;">For all of these medications, if you don't achieve an erection after six attempts that include stimulation, speak with your provider about adjusting the dose or trying a different treatment.  </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db; text-align: left;">Side effects for all oral medications listed above </td>
+            <td style="background-color: #d7d9db; text-align: left;">
+            <ul>
+                <li>Most common side effects include headache, facial flushing and upset stomach. </li>
+                <li>A small number of patients taking Viagra or Levitra complain of a "blue cast" to their vision, sensitivity to light or blurred vision. </li>
+                <li>Back pain and joint aches may occur with Cialis. </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db; text-align: left;">Things to remember for all oral medications listed above  </td>
+            <td style="background-color: #d7d9db; text-align: left;">
+            <ul>
+                <li>Do not use Viagra, Cialis, Levitra or Stendra more than once per day. </li>
+                <li>Do not use Viagra, Cialis, Levitra or Stendra if you take nitroglycerin, or nitrates (Nitrostat, Nitro-Bid, Nitro-Dur, Isordil, Deponit). </li>
+                Talk to your provider about using Viagra, Cialis, Levitra or Stendra if you take Flomax, Hytrin, Cardura, Rapaflo or Uroxatral. Though rare, using these medications in combination may lead to significant drops in blood pressure.         </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <br />
+    <h2>Penile rehabilitation</h2>
+    <p>Penile rehabilitation is a strategy for helping patients regain erectile function following surgery or radiation for prostate or bladder cancer. The theory behind the treatment is that poor blood flow after cancer treatment leads to scarring and shrinkage of the penis. In this context, even if the nerves recover over time, changes to the penis itself may make erections difficult. Theoretically, if blood flow to the penis can be maintained, the tissue may be less prone to scarring and shrinkage. This is typically accomplished by administering regular doses of Viagra, Levitra, Stendra or Cialis without the patient necessarily planning to have sex. In some cases, physical exercises or a vacuum erection device (sometimes called a penis pump) may also be used. </p>
+    <p>You should know, however, that after reviewing the available data, the American Urological Association's guideline panel on erectile dysfunction recommended informing all patients that there is not convincing evidence that penile rehabilitation works for recovery of spontaneous, unassisted erections. Be sure to consider the costs and potential short-term side effects as you decide whether to take medications as part of penile rehabilitation. </p>
+    <p>Regardless of their use in rehabilitation, ED medications can help patients achieve erection for sexual activity after prostate cancer treatment. We also encourage patients to maintain intimacy with sexual partners during the recovery process; the emotional connection is as important as the physical recovery. </p>
+    <p>There are numerous protocols for penile rehabilitation. One UCSF protocol is detailed below. Please understand that this protocol hasn't been shown to be superior to any other, and there are no data suggesting it will reliably help with recovery. This protocol therefore should be taken as a suggested but not necessary part of ED recovery.</p>
+    <table>
+        <tbody>
+            <tr>
+                <td style="background-color: #d7d9db; text-align: left;">Two weeks prior to prostatectomy </td>
+                <td style="background-color: #d7d9db; text-align: left;">
+                <ul>
+                    <li>Viagra 100 mg or Levitra 20 mg two times per week and Viagra 50 mg or Levitra 10 mg on days you're not taking the bigger dose. </li>
+                </ul>
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color: #d7d9db; text-align: left;">After catheter removal  </td>
+                <td style="background-color: #d7d9db; text-align: left;">
+                <ul>
+                    <li> Viagra 50 mg or Levitra 10 mg daily or Cialis 10 mg three times per week. Take in evening to enhance nocturnal erections. Take Viagra 100 mg, Levitra 20 mg or Cialis 20 mg at least weekly with sexual stimulation. </li>
+                </ul>
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color: #d7d9db; text-align: left;">Evaluation of sexual function 8 to 12 weeks after surgery  </td>
+                <td style="background-color: #d7d9db; text-align: left;">
+                <ul>
+                    <li>If you have a response to oral medications (penile fullness or erection), continue Viagra 50 mg or Levitra 10 mg daily four or five days per week and Viagra 100 mg or Levitra 20 mg two or three times per week. Alternatively, use Cialis 20 mg three times per week. </li>
+                    <li>If you have no or minimal response to oral medications, begin penile injections or vacuum erection instruction (or both). Consider beginning injections two or three times per week or using vacuum erection device two or three times per week. Continue Viagra 50 mg or Levitra 10 mg four or five days per week on days when not using injections. </li>
+                </ul>
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color: #d7d9db; text-align: left;">Evaluation of sexual function 12 months after surgery  </td>
+                <td style="background-color: #d7d9db; text-align: left;">
+                <ul>
+                    <li> If you have had no spontaneous erections after one year and are unsatisfied with penile injections or using a vacuum erection device, consider alternative ED treatments. For patients with acquired penile curvature (Peyronie's disease) or complex sexual concerns, earlier intervention may be warranted. </li>
+                </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <br />
+    <h2>Urethral suppository (Muse)</h2>
+    <p>To administer Muse, an acronym for medicated urethral system for erection, a small pellet of medication (prostaglandin E1) is placed inside the penile urethra. The medication is then absorbed and helps to produce an erection. </p>
+    <p>Muse may be used when oral pills are not an option or have failed. Large studies in both Europe and the United States have shown Muse to be effective – after dose adjustment – in 43% of patients with ED from various causes. The major advantage of this therapy is that it's applied locally and has few systemic side effects. However, Muse may cause significant penile pain and may be transferred to a partner during sex, leading to pain or discomfort for them. It should not be used by patients whose partners are pregnant because the main ingredient may induce uterine contractions. In rare cases, Muse may also lead to bleeding, dizziness or decreased blood pressure. </p>
+    <p>For patients who find Muse effective but painful, applying a small dose of lidocaine jelly to the urethra before placing the pellet may increase tolerance. Patients interested in trying Muse should receive instruction on proper technique in their provider's office; a test dose may be applied in this setting, so that side effects can be assessed. </p>
+    <table>
+        <tbody>
+            <tr>
+                <td style="background-color: #d7d9db; text-align: left;">How to use Muse </td>
+                <td style="background-color: #d7d9db; text-align: left;">
+                <ul>
+                    <li>Patients should be instructed in the office. Partners may also benefit from instruction. </li>
+                    <li>The medication is inserted after urination; after insertion, it helps to massage the penis between two hands to dissolve the pellet. </li>
+                    <li>The absorbed medication helps lead to an erection. </li>
+                </ul>
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color: #d7d9db; text-align: left;">Possible side effects </td>
+                <td style="background-color: #d7d9db; text-align: left;">
+                <ul>
+                    <li>Penile pain. </li>
+                    <li>Rarely causes priapism – a prolonged erection (lasting more than four hours). </li>
+                    <li>Fainting, dizziness, low blood pressure. </li>
+                </ul>
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color: #d7d9db; text-align: left;">Things to remember </td>
+                <td style="background-color: #d7d9db; text-align: left;">
+                <ul>
+                    <li>After placement, stimulation is required to increase blood flow to the penis. </li>
+                    <li>This medication should be refrigerated. </li>
+                    <li>Maximum use is one suppository per day. </li>
+                </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>		</div>
+	</div>
+
+
+
+<div class="component image-scroll col-xs-12">
+	<div class="component-content">
+		
+<div class="component image file-type-icon-media-link hide-gradient col-xs-12">
+    <div class="component-content">
+<img src="/-/media/project/ucsf/ucsf-health/education/misc-images/managing-erectile-dysfunction/muse-therapy-690x270.jpg?h=270&amp;iar=0&amp;w=690&amp;rev=cff63ae4986c41438c3623d4512c0bae&amp;hash=7FA5B45BC65B44D31C91A243FF0E2DEA" alt="" width="690" height="270" data-variantitemid="{F163D293-3036-442B-B871-CD78C6DFFCD1}" data-variantfieldname="Image" loading="lazy" />    </div>
+</div>
+
+	</div>
+</div>
+
+    <div class="component rich-text paragraph1 col-xs-12">
+        <div class="component-content">
+<h2>Penile injections</h2>
+<p>When oral medication fails, penile injections to induce erection are another possible ED treatment. While the idea of injecting the penis may be unappealing, the needle typically used for these injections is thin and short; most patients are not bothered by it. The most commonly used drugs are prostaglandin E1 alone or a combination of drugs that increase blood flow, such as papaverine and phentolamine. Drug combinations, sometimes called bimix or trimix, may be more effective than single drugs alone and less likely to cause side effects.</p>
+<p>Patients must have appropriate training and education before beginning penile injection therapy. The injections must be given in proper amounts with the appropriate technique in order to minimize the risk of penile scarring or priapism, a prolonged and painful erection that can cause permanent damage.</p>
+<p>The medication is injected on one side of the penis into the corpora cavernosa, spongy tissue on either side of the shaft that contains the blood vessels involved in producing erections. Patients can administer the injection themselves, enlist a partner to help, or use an auto-injector (a spring-loaded device that inserts the needle quickly, minimizing psychological hesitancy).</p>
+<p>Learn more about&nbsp;<a href="/education/patient-guide-to-penile-injections">penile injection therapy</a>.</p>
+<table>
+    <tbody>
+        <tr>
+            <td style="background-color: #d7d9db; text-align: left;">How to perform penile injections</td>
+            <td style="background-color: #d7d9db; text-align: left;">
+            <ul>
+                <li>If possible, patients should receive in-office training; if not, remote counseling and viewing of vetted video training materials may suffice.</li>
+                <li>Generally performed with an insulin syringe which has a small needle.</li>
+                <li>Skin and injection site are prepared with alcohol swab.</li>
+                <li>Medication is drawn up in a sterile manner.</li>
+                <li>Medication is injected on one side of the penis.</li>
+                <li>Pressure is held on the injection site for several minutes.</li>
+                <li>For more details on exactly where and how to inject the penis and other information on this therapy, see the&nbsp;<a href="/education/patient-guide-to-penile-injections">Penile Injections: A Patient Guide</a>&nbsp;or&nbsp;<a rel="noopener noreferrer" rel="noopener noreferrer" href="https://youtu.be/RB-s4jpqETE" target="_blank">Dr. Stacy Elliott's instructional video "Understanding Penile Injection"</a>&nbsp;on YouTube.</li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db; text-align: left;">Side effects</td>
+            <td style="background-color: #d7d9db; text-align: left;">
+            <ul>
+                <li>Occasionally associated with fainting, dizziness and low blood pressure.</li>
+                <li>Priapism, or a prolonged erection (lasting more than four hours), may occur.</li>
+                <li>Can cause pain, infection, bruising and scarring if patients are not trained properly.</li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db; text-align: left;">Things to remember</td>
+            <td style="background-color: #d7d9db; text-align: left;">
+            <ul>
+                <li>May require self-stimulation to increase blood flow to the penis.</li>
+                <li>If erection lasts more than four hours, seek medical care at your local emergency room or contact your urologist.</li>
+                <li>May be ineffective if patients have vascular disease or blood flow problems.</li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>        </div>
+    </div>
+
+
+
+<div class="component image-scroll col-xs-12">
+	<div class="component-content">
+		
+<div class="component image file-type-icon-media-link col-xs-12">
+    <div class="component-content">
+<img src="/-/media/project/ucsf/ucsf-health/condition/erectile-dysfunction-penile-injection-320x320-2x.jpg?h=640&amp;iar=0&amp;w=640&amp;rev=4c06ff2107c74554a9b8f65d77e252c7&amp;hash=D5DCCE9A36046E4FC5B94C52A670B3CC" alt="" width="640" height="640" data-variantitemid="{86D5E6BA-862D-449D-B607-E54996C76AAB}" data-variantfieldname="Image" loading="lazy" /><span class="image-caption field-imagecaption">Penile injection</span>    </div>
+</div>
+
+<div class="component image file-type-icon-media-link col-xs-12">
+    <div class="component-content">
+<img src="/-/media/project/ucsf/ucsf-health/education/misc-images/managing-erectile-dysfunction/auto-injection-photo-320x320-2x.jpg?h=640&amp;iar=0&amp;w=640&amp;rev=2fce7a68d7ff4f87826e36672f71ebeb&amp;hash=6EB810492E0B39BFB74FC2B70DEFF77B" alt="" width="640" height="640" data-variantitemid="{10FB2BD7-C220-4187-9129-6A498286F884}" data-variantfieldname="Image" loading="lazy" /><span class="image-caption field-imagecaption">Penile auto-injection</span>    </div>
+</div>
+
+	</div>
+</div>
+
+    <div class="component rich-text paragraph1 col-xs-12">
+        <div class="component-content">
+<h2>Vacuum erection device</h2>
+<p>A vacuum erection device, or penis pump, may be helpful for patients who have only partial erections or who don't respond to or want to use other treatments. The device consists of a plastic cylinder connected to a pump and a constriction ring. Either manual or battery power is used to create suction around the penis and draw blood into it; the constriction ring is then released around the base of the penis to keep blood in the penis and maintain the erection. The device may be used safely for up to 30 minutes, at which point the constriction ring should be removed. The advantages of such a device are that it's relatively inexpensive and easy to use and there's no concerns about drug side effects or interactions. Possible side effects of the device include temporary penile numbness, bruising, and semen trapped by the ring. Some patients also report that the erection they obtain with the device feels somewhat artificial.</p>        </div>
+    </div>
+
+
+
+<div class="component image-scroll col-xs-12">
+	<div class="component-content">
+		
+<div class="component image file-type-icon-media-link hide-gradient col-xs-12">
+    <div class="component-content">
+<img src="/-/media/project/ucsf/ucsf-health/education/misc-images/managing-erectile-dysfunction/vacuum-erection-device-690x500.jpg?h=500&amp;iar=0&amp;w=690&amp;rev=6ffcbb7bc78c4dcf81187898d73c6594&amp;hash=2E9E20FD4778400F4BA75C308E2C14E7" alt="" width="690" height="500" data-variantitemid="{0A102C95-1633-463E-9863-5297EF0FCBDD}" data-variantfieldname="Image" loading="lazy" />    </div>
+</div>
+
+	</div>
+</div>
+
+    <div class="component rich-text paragraph1 col-xs-12">
+        <div class="component-content">
+<h2>Penile prosthesis</h2>
+<p>For men with ED who don't tolerate or respond to other treatments, a penile prosthesis offers an effective yet more invasive alternative, requiring surgery. Prostheses come in either a semirigid form or as an inflatable device. Most men prefer the inflatable prosthesis because it permits a more natural appearance when the penis is flaccid.</p>
+<p>Patients are under general anesthesia (completely asleep) for surgical placement of the prosthesis. An incision is made in the skin at the penis-scrotum junction. The spongy tissue of the penis is exposed and dilated; the prosthesis is sized; and then it's placed inside the erectile tissue.</p>
+<p>The pump containing the inflation and deflation mechanism is placed in the scrotum. The patient can control his erection at will, using the hydraulic pump to inflate and a release button to deflate the prosthetic implant. Because the nerves that control penile sensation are not injured, penile sensation and the ability to have an orgasm are typically maintained after placement. Full penile length may not be restored to the patient's natural erect status.</p>
+<p>Despite the need for surgery, patient and partner satisfaction rates for penile prostheses are as high as 85%. Side effects are rare but include infection, pain, and device malfunction or failure.</p>
+<h2>Future directions in treatment</h2>
+<p>Significant strides in scientific understanding of the anatomy and physiology of sexual function are aiding the development of new therapies. For instance, more detailed knowledge of the cavernous nerves in the pelvis led to the refinement of nerve-sparing prostatectomy. Understanding the biochemistry of normal sexual function led to the development of ED medications, including Viagra, Cialis, Stendra and Levitra.</p>
+<p>Current research is focused on better understanding the specific physiological pathways responsible for normal sexual function, developing more effective agents for managing ED, and learning how cavernous nerves heal and what factors can hasten the healing process.</p>
+<p>An intriguing line of inquiry over the past 10 years has been treating the penis with low-intensity shock wave therapy (LiSWT). This counterintuitive approach to treating ED with energy transfer is based on a growing body of evidence suggesting that shock waves may stimulate new blood vessel growth, reduce scarring, and activate resident stem cells to help restore tissues. The pulses used for ED therapy are similar to &ndash; but less intense than &ndash; the shock waves that have been used for decades to treat urologic stones.</p>
+<p>A number of small, randomized, placebo-controlled studies have demonstrated benefits to erectile function in patients treated with shock waves to the penis. Unfortunately, the bulk of studies to date had limited follow-up, with most reporting out results at a mean of one month. Longer-term follow-up and data collection are topics of active inquiry, but currently there are no data to suggest that LiSWT will work as a single treatment for the majority of patients with severe ED related to prostate cancer treatment. LiSWT may eventually have a role as part of a multimodal protocol, but at this time it should be considered experimental.</p>        </div>
+    </div>
+	<div class="component titled-rich-text rich-text col-xs-12">
+		<div class="component-content">
+<h2 class="heading1 title-anchor field-title">Causes of ED</h2><p>ED is most commonly related to aging, but it also has a wide range of psychological, neurological, vascular, hormonal and pharmaceutical causes, and may result from radiation and surgical treatments for prostate and bladder cancer. This table lays out the basics, and more detailed explanations for each cause follow.</p>
+<table>
+    <tbody>
+        <tr>
+            <td style="background-color: #8a8be2;"><strong>Category of ED </strong></td>
+            <td style="background-color: #8a8be2;"><strong>Conditions associated with ED </strong></td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db;">Psychological </td>
+            <td style="background-color: #d7d9db;">
+            <ul>
+                <li>Depression and anxiety </li>
+                <li>Schizophrenia </li>
+                <li>Performance anxiety </li>
+                <li>Stress </li>
+                <li>Relationship problems</li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db;"><span>Neurological </span> </td>
+            <td style="background-color: #d7d9db;">
+            <ul>
+                <li>Pelvic surgery, injury or radiation </li>
+                <li>Spinal cord injury </li>
+                <li>Diabetic neuropathy </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db;">Vascular </td>
+            <td style="background-color: #d7d9db;">
+            <ul>
+                <li>Atherosclerosis </li>
+                <li>Peripheral vascular disease </li>
+                <li>Smoking </li>
+                <li>High blood pressure</li>
+                <li>Diabetes </li>
+                <li>Traumatic injury </li>
+                <li>Pelvic surgery, injury or radiation </li>
+                <li>Peyronie's disease  </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db;">Hormonal </td>
+            <td style="background-color: #d7d9db;">
+            <ul>
+                <li>Hypogonadism (low testosterone) </li>
+                <li>Hyperprolactinemia (high prolactin)  </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db;"><span>Drug induced</span> </td>
+            <td style="background-color: #d7d9db;">
+            <ul>
+                <li>Excessive alcohol consumption </li>
+                <li>Androgen deprivation therapy (use of LHRH agonists, such as Lupron or Zoladex) </li>
+                <li>Antihypertensives (medications that lower blood pressure)</li>
+                <li>Antidepressants </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db;"><span>Other conditions associated with ED </span> </td>
+            <td style="background-color: #d7d9db;">
+            <ul>
+                <li>Aging </li>
+                <li>Diabetes </li>
+                <li>Chronic kidney failure </li>
+                <li>Obesity </li>
+                <li>Heart disease </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br />
+<h2>Aging</h2>
+<p>Aging causes a progressive decline in sexual function even in healthy patients. Studies show that as men age, erections become less turgid (stiff) and the force and volume of ejaculation decrease. Also, with age, more time is needed to achieve another erection after orgasm (the so-called refractory period). Sensitivity to touch decreases over time, as do testosterone levels, and both changes can diminish sexual desire.</p>
+<p>While it's not possible to reverse the effects of aging, there's no age at which a person is too old for sex. Men can avoid or at least delay the most severe manifestations of age-associated sexual dysfunction by remaining physically active, sticking to a healthy diet, avoiding weight gain, not using tobacco, and generally doing things that promote heart health. </p>
+<h2>Cancer treatments</h2>
+<p>ED is the most common side effect of both <a href="/treatments/radical-prostatectomy">surgical</a> and <a href="/treatments/radiation-therapy-for-prostate-cancer">radiation</a> treatments for prostate cancer.</p>
+<p>The cavernous nerve bundles – the nerves that drive erection – are located next to the prostate gland. During a radical prostatectomy, these nerves may be injured. In many cases, this results in ED that is permanent, although the degree of dysfunction may be lessened through treatment. Because the prostate makes most of the fluid in semen, patients who have undergone prostatectomy don't experience ejaculation. </p>
+<p>Radiation to the prostate, bladder or rectum also can damage the cavernous nerves and lead to problems with erections and ejaculation. These effects usually manifest a few years after treatment. Although ED and absence of ejaculation are common after prostate surgery or radiation, sexual desire and the ability to achieve orgasm are still possible. Doctors may be able to use nerve-sparing approaches in surgery or radiation therapy that can preserve one or both nerve bundles. While the nerve-sparing technique preserves the possibility of penile erections, most patients nevertheless experience a decline in erectile function that may never be completely recovered. </p>
+<p><a href="/treatments/hormone-therapy-for-prostate-cancer">Hormone therapy for prostate cancer</a> (androgen deprivation therapy) can also cause ED. The drop in testosterone reduces libido and can lead to erection difficulties. Whether these effects are reversible is related to the patient's age, degree of sexual function he had before treatment, and length of time on hormone therapy.</p>
+<h2>Psychological conditions</h2>
+<p>Depression and performance anxiety both can lead to ED. Depression is associated with decreases in energy, interest in usual activities and libido. Performance anxiety, work stress and strained personal relationships also can affect erectile function in both conscious and subconscious ways.</p>
+<h2>Neurological conditions</h2>
+<p>Penile erection depends on an intact nervous system, so any neurological injury or disease can cause ED. Parkinson's disease, Alzheimer's disease, stroke or head injury can lead to ED by affecting the libido or by interfering with the nerve impulses responsible for erections. Spinal cord injuries cause a decrease in erections related to the extent of the injury. Pelvic surgery – such as radical prostatectomy, cystectomy or colectomy – may injure the nerves that control erection. Long-standing diabetes may affect some nerves and lead to ED.</p>
+<h2>Hormonal changes</h2>
+<p>Anything that decreases circulating testosterone in the body, including undergoing chemical or surgical castration or hormone therapy for prostate cancer, decreases libido and may make natural erections more difficult.</p>
+<h2>Vascular damage</h2>
+<p>A variety of conditions and habits can damage penile blood vessels over time and contribute to ED. These include:</p>
+<ul>
+    <li>High blood pressure</li>
+    <li>High LDL ("bad") cholesterol or low HDL ("good") cholesterol</li>
+    <li>Heart problems </li>
+    <li>Cigarette smoking </li>
+    <li>Diabetes mellitus  </li>
+    <li>Pelvic radiation therapy to treat prostate, bladder or rectal cancer </li>
+    <li>Peyronie's disease (scarring with curvature of the penis) </li>
+    <li>Traumatic injury</li>
+    <li>Damage to the penile spongy tissue that results in leaky veins (sometimes associated with aging)</li>
+</ul>
+<h2>Chronic disease</h2>
+<p>ED is common in patients with diabetes, cirrhosis (liver scarring), chronic kidney failure and many other chronic medical issues.</p>
+<h2>Drug effects</h2>
+<p>Many types of drugs are associated with developing ED. Here are some to be aware of:</p>
+<ul>
+    <li>Certain antidepressants (including Prozac, Zoloft and Paxil) and antipsychotics, especially those that regulate serotonin, noradrenaline or dopamine.</li>
+    <li>Beta-blockers and thiazide agents used to treat high blood pressure.</li>
+    <li>Cimetidine, a drug for acid reflux disease. </li>
+    <li>Heavy alcohol use or chronic alcoholism. </li>
+    <li>Estrogens and drugs with antiandrogenic action, such as ketoconazole and spironolactone, can lead to ED, decreased libido and breast enlargement. </li>
+    <li>Many drugs of abuse, including tobacco, marijuana and narcotics. (See table below.)</li>
+</ul>
+<table>
+    <tbody>
+        <tr>
+            <td style="background-color: #8a8be2;"><strong>Class of drug </strong></td>
+            <td style="background-color: #8a8be2;"><strong>Drug</strong> </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db;"><span>Antihypertensive</span> </td>
+            <td style="background-color: #d7d9db;">
+            <ul>
+                <li>Clonidine </li>
+                <li>Reserpine </li>
+                <li>Beta-blockers (atenolol, propranolol, metoprolol) </li>
+                <li>Verapamil </li>
+                <li>Guanethidine </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db;"><span>Antiandrogens</span></td>
+            <td style="background-color: #d7d9db;">
+            <ul>
+                <li>Ketoconazole (used for fungal infections as well as for prostate cancer treatment)</li>
+                <li>Cyproterone acetate </li>
+                <li>Estrogen </li>
+                <li>Flutamide </li>
+                <li>Finasteride </li>
+                <li>Gonadotropin-releasing hormone (GnRH) agonists (Lupron, Zoladex) </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db;"><span>Cardiac drugs </span> </td>
+            <td style="background-color: #d7d9db;">
+            <ul>
+                <li>Digoxin</li>
+                <li>Gemfibrozil</li>
+                <li>Clofibrate</li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db;"><span>Diuretics </span> </td>
+            <td style="background-color: #d7d9db;">
+            <ul>
+                <li>Thiazides (hydrochlorothiazide) </li>
+                <li>Spironolactone </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db;"><span>H2 antagonists </span> </td>
+            <td style="background-color: #d7d9db;">
+            <ul>
+                <li>Cimetidine</li>
+                <li>Ranitidine</li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db;"><span>Antidepressants </span> </td>
+            <td style="background-color: #d7d9db;">
+            <ul>
+                <li>Tricyclic (migraine) </li>
+                <li>Selective serotonin reuptake inhibitors, or SSRIs (Prozac, Zoloft, Paxil) </li>
+                <li>Phenothiazines </li>
+                <li>Benzodiazepines (Valium, Xanax) </li>
+                <li>Meprobamate </li>
+                <li>Barbiturates </li>
+                <li>Lithium </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #d7d9db;">Other drugs </td>
+            <td style="background-color: #d7d9db;">
+            <ul>
+                <li>Narcotics </li>
+                <li>Baclofen </li>
+                <li>Nonsteroidal anti-inflammatory drugs, or NSAIDs</li>
+                <li>Tobacco </li>
+                <li>Alcohol </li>
+                <li>Marijuana </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br />		</div>
+	</div>
+	<div class="component titled-rich-text rich-text col-xs-12">
+		<div class="component-content">
+<h2 class="heading1 title-anchor field-title">Additional information and resources</h2><h2 style="color: #052049; background-color: #ffffff; margin-top: 0px; margin-bottom: 0.5rem; letter-spacing: 0px;">Mechanisms of penile erection</h2>
+<p style="color: #052049; background-color: #ffffff; margin-top: 0px; margin-bottom: 1rem; letter-spacing: 0.2px;">The cavernous nerves travel from the underside of the penis to the prostate. They regulate blood flow within the penis. In the flaccid state, relatively little blood flows in through the arteries and there is free outflow via the small veins exiting the spongy tissue just under the thick tunica (membrane surrounding the spongy tissue). During erection, the smooth muscle in the penis relaxes while the arteries widen to bring in more blood. This expands the three cylinders of erectile tissue in the penis, thus lengthening and enlarging the penis. The expansion of these cylinders compresses the small veins, reducing the outflow of blood.</p>
+<p style="color: #052049; background-color: #ffffff; margin-top: 0px; margin-bottom: 1rem; letter-spacing: 0.2px;">The processes of penile erection are driven by the actions of nerves and blood vessels. Hormones, such as testosterone, also play important roles. Finally, a patient's psychological state and the health of his sexual relationship with a partner are critical determinants of sexual response. Stress, anxiety and depression activate the sympathetic nervous system; this is a natural response to any form of stress. However, that response tends to restrict blood flow into the penis and can make erections difficult or impossible. Careful attention to both mental and physical health is important in preserving erectile function.</p>
+<p style="color: #052049; background-color: #ffffff; margin-top: 0px; margin-bottom: 1rem; letter-spacing: 0.2px;">A normal erection requires the penis to have intact nerves and blood vessel systems. Nerves that travel to the penis include fibers from the autonomic nervous system &ndash; the part of the nervous system that functions independently of conscious thought &ndash; as well as the somatic nervous system &ndash; the part responsible for sensation and contraction of muscles attached to the penis.</p>
+<p style="color: #052049; background-color: #ffffff; margin-top: 0px; margin-bottom: 1rem; letter-spacing: 0.2px;">The autonomic nervous system controls the smooth muscle in the penis, prostate and urinary sphincter &ndash; muscle that is important for initiating erections and facilitating ejaculation. The autonomic nervous system has two parts. The sympathetic division tends to restrict penile blood flow and is important for closing the bladder neck to prevent urine leakage during sex. The parasympathetic division increases penile blood flow and stimulates erection. Coordination of these two components of the autonomic nervous system is critical to sexual response.</p>
+<p style="color: #052049; background-color: #ffffff; margin-top: 0px; margin-bottom: 1rem; letter-spacing: 0.2px;">Sensory nerves travel to the head and shaft of the penis; these nerves are responsible for conveying sensations (such as touch, temperature and pain) to the brain and may be important for stimulating sexual response.</p>
+<p style="color: #052049; background-color: #ffffff; margin-top: 0px; margin-bottom: 1rem; letter-spacing: 0.2px;">Motor nerves control contraction of the ischiocavernosus and bulbocavernosus muscles, which are necessary to producing a fully rigid erection and to ejecting semen during ejaculation.</p>
+<p style="color: #052049; background-color: #ffffff; margin-top: 0px; margin-bottom: 1rem; letter-spacing: 0.2px;">With sexual stimulation, parasympathetic cavernous nerves release chemicals (primarily nitric oxide) that significantly increase blood flow to the penis. The erectile tissue of the penis rapidly fills with blood and expands, becoming firm and erect. With increasing sexual arousal, the somatic nervous system causes the bulbocavernosus and ischiocavernosus muscles of the penis to contract, forcing additional blood into the penis and making it very rigid. At peak sexual arousal, the sympathetic nervous system causes contraction of the prostate and seminal vesicles, leading to emission, which is the deposition of seminal fluid into the urethra. The sympathetic nervous system also makes the bladder sphincter close, preventing the semen from leaking into the bladder. As the amount of fluid builds in the urethra, pressure increases and the sensation of the inevitability of ejaculation is experienced. The bulbocavernosus muscle, which is under control of the somatic nervous system, then contracts and expels the semen forcibly from the urethra. Orgasm normally coincides with ejaculation.</p>
+<p style="color: #052049; background-color: #ffffff; margin-top: 0px; margin-bottom: 1rem; letter-spacing: 0.2px;">Detumescence, or loss of erection, occurs shortly thereafter, as the nerves that trigger penile erection stop sending those signals.</p>		</div>
+	</div>
+
+
+
+<div class="component image-scroll col-xs-12">
+	<div class="component-content">
+		
+<div class="component image file-type-icon-media-link hide-gradient col-xs-12">
+    <div class="component-content">
+<img src="/-/media/project/ucsf/ucsf-health/education/misc-images/managing-erectile-dysfunction/mechanisms-of-erection-690x500.jpg?h=500&amp;iar=0&amp;w=690&amp;rev=0d45413a2360429baaabfdc625200793&amp;hash=5057EC541343CB628ABA122CC4E4A5B0" alt="" width="690" height="500" data-variantitemid="{49596AF1-4527-45C4-BCDF-D18C52FBD65A}" data-variantfieldname="Image" loading="lazy" />    </div>
+</div>
+
+	</div>
+</div>
+
+    <div class="component rich-text paragraph1 col-xs-12">
+        <div class="component-content">
+<h2>Books</h2>
+<p><strong>Saving Your Sex Life: A Guide for Men with Prostate Cancer,</strong>&nbsp;by John Mulhall, Hilton Publishing, 2010.</p>
+<p><strong>Going the Distance: Finding and Keeping Lifelong Love,&nbsp;</strong>by Lonnie Barbach and David L. Geisinger, Plume, 1993. Realistic book about maintaining intimacy.</p>
+<p><strong>Hold Me Tight: Seven Conversations for a Lifetime of Love,</strong>&nbsp;by Sue Johnson, Little Brown, Spark, 2008. Stellar book on communication and intimacy for couples.</p>
+<p><strong>Intimacy With Impotence: The Couple's Guide to Better Sex After Prostate Disease,</strong>&nbsp;by Ralph Alterowitz and Barbara Alterowitz, De Capo Lifelong Books, 2004. Written in an honest, compassionate style by a patient with prostate cancer and his wife. Discusses ED in nonmedical terms, with information on treatments. Gives practical advice about sex, covering everything from getting into the mood to common-sense suggestions for achieving sexual satisfaction and intimacy when erections are not possible.</p>
+<p><strong>The Lovin' Ain't Over: The Couple's Guide to Better Sex after Prostate Disease,</strong>&nbsp;by Ralph and Barbara Alterowitz, Health Education Literary Publisher, 1999.</p>
+<p><strong>Man Cancer Sex,</strong>&nbsp;by Anne Katz, Hygeia Media, 2010.</p>
+<p><strong>Men, Women and Prostate Cancer: A Medical and Psychological Guide for Women and the Men They Love,</strong>&nbsp;by Barbara Rubin Wainrib, Jack Maguire and Sandra Haber, New Harbinger Publications, 2000.</p>
+<h2>Websites</h2>
+<p><a rel="noopener noreferrer" rel="noopener noreferrer" href="https://urology.ucsf.edu/patient-care/cancer/prostate-cancer#.Yscgyy-B2b8" target="_blank">urology.ucsf.edu/patient-care/cancer/prostate-cancer</a></p>
+<p><a rel="noopener noreferrer" rel="noopener noreferrer" href="https://www.auanet.org/guidelines/guidelines/erectile-dysfunction-(ed)-guideline" target="_blank">Erectile Dysfunction: AUA Guideline</a></p>
+<p><a rel="noopener noreferrer" rel="noopener noreferrer" href="https://www.pcf.org/" target="_blank">Prostate Cancer Foundation</a>: funds high-impact research aimed at finding better treatments and a cure.</p>
+<p><a rel="noopener noreferrer" rel="noopener noreferrer" href="https://zerocancer.org/" target="_blank">Zero Cancer</a>: a large nonprofit prostate cancer education and support network.</p>
+<p><a rel="noopener noreferrer" rel="noopener noreferrer" href="http://www.menshealthnetwork.org/" target="_blank">Men's Health Network</a>: an educational nonprofit comprised of doctors, researchers, public health workers and other health professionals who focus on health awareness and disease prevention.</p>
+<h2>Other sources</h2>
+<p><strong>American Association for Marriage and Family Therapy:</strong>&nbsp;112 South Alfred St., Alexandria, VA 22314-3061; phone: (703) 838-9808, fax: (703) 838-9805</p>
+<p><strong><a rel="noopener noreferrer" rel="noopener noreferrer" href="https://www.aasect.org/" target="_blank">American Association of Sexuality Educators, Counselors and Therapists</a>:&nbsp;</strong>P.O. Box 5488, Richmond, VA 23220-0488; phone: (804) 752-0026</p>
+<p><strong><a rel="noopener noreferrer" rel="noopener noreferrer" href="https://www.cancer.org/" target="_blank">American Cancer Society</a>:</strong>&nbsp;phone: (800) 227-2345</p>
+<p><strong><a rel="noopener noreferrer" rel="noopener noreferrer" href="https://www.cancercare.org/" target="_blank">CancerCare</a>:</strong>&nbsp;phone: (800) 813-HOPE, (213) 712-8400</p>
+<p><strong><a rel="noopener noreferrer" rel="noopener noreferrer" href="https://www.urologyhealth.org/" target="_blank">Urology Care Foundation (American Urological Association)</a></strong></p>        </div>
+    </div>
+	<div class="component disclaimer col-xs-12">
+		<div class="component-content">
+<div class="field-ucsf-health-text"><p><em>This article was written by UCSF medical expert Alan W. Shindel, MD, MAS, and UCSF patient advocate Stan Rosenfeld. It was last reviewed in May 2022.</em></p>
+<p><em>This information is for educational purposes only and is not intended to replace the advice of your doctor or other health care provider. We encourage you to discuss any questions or concerns you may have with your provider.</em></p></div>		</div>
+	</div>
+	<div id="ucsf-advanced-map" class="component advanced-map col-xs-12">
+
+		<div class="component-content">
+			<div class="map-title">
+					<h2 class="heading1 title-anchor">
+						Where to get care
+						<span>(1)</span>
+					</h2>
+			</div>
+			<div class="map-container" data-api-call="/ucsfapi/advancedmap/getadvancedmapdata"
+				 data-query-string-param="datasourceid"
+				 data-datasource-id="4715e18f0fda4621b186e1b6f577ed47">
+				<div class="google-map"></div>
+				<div class="map-info">
+					<ul></ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="component accolades col-xs-12">
+		<div class="component-content">
+				<h2 class="heading1">Awards &amp; recognition</h2>
+					<ul>
+							<li class="component accolade">
+								<div class="component-content">
+									<div class="image-wrapper">
+										<img loading="lazy" src="/-/media/project/ucsf/ucsf-health/content/accolades/us-news-2025/badge-hospitals-honor-roll_generic-2025_2026.png?h=200&amp;iar=0&amp;w=200&amp;rev=9437291c6e584c1686207056185db1d9&amp;hash=2AE99C9F3D59EF53D9CF284156C49315" alt="" width="200" height="200" />
+									</div>
+									<p class="font-larger">Among the top hospitals in the nation</p>
+								</div>
+							</li>
+							<li class="component accolade">
+								<div class="component-content">
+									<div class="image-wrapper">
+										<img loading="lazy" src="/-/media/project/ucsf/ucsf-health/content/accolades/us-news-2025/badge-hospitals-specialty_urology-2025_2026.png?h=200&amp;iar=0&amp;w=200&amp;rev=faed22a274b64e73adb061a75bd7a1a7&amp;hash=87E8C42B1051CAFD3666B52AEE637756" alt="" width="200" height="200" />
+									</div>
+									<p class="font-larger">Best in Northern California for urology </p>
+								</div>
+							</li>
+							<li class="component accolade">
+								<div class="component-content">
+									<div class="image-wrapper">
+										<img loading="lazy" src="/-/media/project/ucsf/ucsf-health/content/accolades/n1-2x.png?h=152&amp;iar=0&amp;w=144&amp;rev=e36dbe80b2ce4c74861f5d9c4a358bdd&amp;hash=67922D4F1EAC194967DAA28A2BC8C44D" alt="n1-2x" width="144" height="152" />
+									</div>
+									<p class="font-larger">in NIH funding for urology research</p>
+								</div>
+							</li>
+					</ul>
+		</div>
+	</div>
+<div class="component article-cards cards-component col-xs-12">
+	<div class="component-content">
+			<div>
+				<h2 class="heading1 title-anchor">
+					Recommended reading
+				</h2>
+				<div class="view-all">
+					
+				</div>
+			</div>
+			<div class="cards">
+									<div class="card">
+						<div class="component-content">
+							<div class="card-content">
+									<a href="/education/erectile-dysfunction-causes" class="phantom-link" title="Erectile Dysfunction Causes"></a>
+								<img loading="lazy" src="/-/media/project/ucsf/ucsf-health/education/hero/erectile-dysfunction-causes-2x.jpg?h=376&amp;w=974&amp;rev=eded1ca7c5024ffcac7f85acc359d704&amp;hash=F32FEA76370BB3A9FA4024E29CF36A44" alt="" width="2880" height="1112" />
+								<p class="font-larger">
+									Erectile Dysfunction Causes
+								</p>
+								<p>
+									The greatest medical risk factors for erectile dysfunction include diabetes mellitus, heart disease, and hypertension. Learn more here.
+								</p>
+								<span class="field-read-more-link">
+									<span class="include-ucsf-arrow"></span>
+								</span>
+							</div>
+						</div>
+					</div>
+					<div class="card">
+						<div class="component-content">
+							<div class="card-content">
+									<a href="/education/oral-medications-for-erectile-dysfunction" class="phantom-link" title="Oral Medications for Erectile Dysfunction"></a>
+								<img loading="lazy" src="/-/media/project/ucsf/ucsf-health/education/hero/oral-medications-for-erectile-dysfunction-2x.jpg?h=376&amp;w=974&amp;rev=88f930378ad040faa3e98534729c2a8a&amp;hash=D7A38A7234DFE7900E6E6CBCFD313EA4" alt="" width="2880" height="1112" />
+								<p class="font-larger">
+									Oral Medications for Erectile Dysfunction
+								</p>
+								<p>
+									Find a list of oral medications for Erectile Dysfunction (ED) including, viagra, levitra, and cialis and possible side effects and important things to remember.
+								</p>
+								<span class="field-read-more-link">
+									<span class="include-ucsf-arrow"></span>
+								</span>
+							</div>
+						</div>
+					</div>
+					<div class="card">
+						<div class="component-content">
+							<div class="card-content">
+									<a href="/education/patient-guide-to-penile-injections" class="phantom-link" title="Penile Injections: A Patient Guide"></a>
+								<img loading="lazy" src="/-/media/project/ucsf/ucsf-health/education/hero/patient-guide-to-penile-injections-2x.jpg?h=376&amp;w=974&amp;rev=d4edc4fe5e464112b20b0b753ea45e51&amp;hash=57A52B5EB462AE9E2C9945C53565BA4D" alt="" width="2880" height="1112" />
+								<p class="font-larger">
+									Penile Injections: A Patient Guide
+								</p>
+								<p>
+									Although you probably find the idea of injecting something into your penis unappealing, many men are highly satisfied with this therapy. Learn why here.
+								</p>
+								<span class="field-read-more-link">
+									<span class="include-ucsf-arrow"></span>
+								</span>
+							</div>
+						</div>
+					</div>
+							</div>
+	</div>
+</div>
+
+	<div class="component related-conditions col-xs-12">
+		<div class="component-content">
+			<div>
+				<h2 class="heading1 title-anchor">
+					Related conditions
+				</h2>
+			</div>
+			<div>
+
+					<div class="meta-links">
+						<div class="component-content">
+							<ul class="use-arrow-icon vertical-sort  ">
+										<li class="">
+											<p class="font-smaller">
+												<a href="/conditions/alzheimers-disease" target="_self">
+													Alzheimer&#39;s disease
+												</a>
+											</p>
+										</li>
+										<li class="">
+											<p class="font-smaller">
+												<a href="/conditions/bladder-cancer" target="_self">
+													Bladder cancer
+												</a>
+											</p>
+										</li>
+										<li class="">
+											<p class="font-smaller">
+												<a href="/conditions/coronary-artery-disease" target="_self">
+													Coronary artery disease
+												</a>
+											</p>
+										</li>
+										<li class="">
+											<p class="font-smaller">
+												<a href="/conditions/diabetes-mellitus" target="_self">
+													Diabetes mellitus
+												</a>
+											</p>
+										</li>
+										<li class="">
+											<p class="font-smaller">
+												<a href="/conditions/parkinsons-disease" target="_self">
+													Parkinson&#39;s disease
+												</a>
+											</p>
+										</li>
+										<li class="">
+											<p class="font-smaller">
+												<a href="/conditions/pituitary-tumors" target="_self">
+													Pituitary tumors
+												</a>
+											</p>
+										</li>
+										<li class="">
+											<p class="font-smaller">
+												<a href="/conditions/prostate-cancer-localized" target="_self">
+													Prostate cancer - localized
+												</a>
+											</p>
+										</li>
+										<li class="">
+											<p class="font-smaller">
+												<a href="/conditions/stroke" target="_self">
+													Stroke
+												</a>
+											</p>
+										</li>
+							</ul>
+						</div>
+					</div>
+			</div>
+		</div>
+	</div>
+<div class="component patient-services cards-component col-xs-12">
+	<div class="component-content">
+				<div class="patient-services-header">
+					<h2 class="heading1 title-anchor">
+						Support services
+					</h2>
+					<div class="view-all">
+						
+					</div>
+				</div>
+				<div class="cards">
+
+
+						<div class="card">
+							<div class="component-content">
+								<div class="card-content">
+									<a href="/services/case-management-and-social-work" class="phantom-link" title="Case Management &amp; Social Work"></a>
+									<img loading="lazy" src="/-/media/project/ucsf/ucsf-health/service/hero/case-management-and-social-work-2x.jpg?h=376&amp;w=973&amp;rev=69b056ca73c648d799f509256f5cc501&amp;hash=4E0624CD2EAC134D105E92237A0E9487" alt="&quot;&quot;" width="2880" height="1112" />
+									<div class="field-icon patient-resource">
+										<div class="eyebrow">
+											Patient Resource
+										</div>
+									</div>
+									<p class="font-larger">
+										Case Management &amp; Social Work
+									</p>
+									<p>
+										Connect with a team that can help you find resources, solve problems and advocate for you during treatment at UCSF.
+									</p>
+									<span class="field-read-more-link"><span class="include-ucsf-arrow"></span></span>
+								</div>
+							</div>
+						</div>
+						<div class="card">
+							<div class="component-content">
+								<div class="card-content">
+									<a href="/services/mindfulness-based-stress-reduction-class" class="phantom-link" title="Mindfulness-Based Stress Reduction Class"></a>
+									<img loading="lazy" src="/-/media/project/ucsf/ucsf-health/service/hero/mindfulness-based-stress-reduction-class-2x.jpg?h=376&amp;w=973&amp;rev=878d128dd6ee4dca9e87bb797b090ff3&amp;hash=8926E46901B55372A1E52876153CF9FF" alt="" width="2880" height="1112" />
+									<div class="field-icon class">
+										<div class="eyebrow">
+											Class
+										</div>
+									</div>
+									<p class="font-larger">
+										Mindfulness-Based Stress Reduction Class
+									</p>
+									<p>
+										This eight-week class teaches mindfulness practices that can reduce stress and improve your overall health, such as meditation and body awareness.
+									</p>
+									<span class="field-read-more-link"><span class="include-ucsf-arrow"></span></span>
+								</div>
+							</div>
+						</div>
+						<div class="card">
+							<div class="component-content">
+								<div class="card-content">
+									<a href="/services/patient-relations" class="phantom-link" title="Patient Relations"></a>
+									<img loading="lazy" src="/-/media/project/ucsf/ucsf-health/service/hero/patient-relations-2x.jpg?h=376&amp;w=973&amp;rev=96c9a6c3db374e6d9a96ae9bcc3c36c2&amp;hash=BBAF1670311894061E561C8185BE02EA" alt="" width="2880" height="1112" />
+									<div class="field-icon patient-resource">
+										<div class="eyebrow">
+											Patient Resource
+										</div>
+									</div>
+									<p class="font-larger">
+										Patient Relations
+									</p>
+									<p>
+										We welcome feedback about your experience at UCSF Health. Find out how to contact us with comments, questions or concerns.
+									</p>
+									<span class="field-read-more-link"><span class="include-ucsf-arrow"></span></span>
+								</div>
+							</div>
+						</div>
+						<div class="card">
+							<div class="component-content">
+								<div class="card-content">
+									<a href="/services/spiritual-care-services" class="phantom-link" title="Spiritual Care Services"></a>
+									<img loading="lazy" src="/-/media/project/ucsf/ucsf-health/service/hero/spiritual-care-services-2x.jpg?h=376&amp;w=973&amp;rev=83edbdd2543f42f480a08ac0d9d5756b&amp;hash=0D777D7C28DB54E2950BA9BC5139CE8A" alt="" width="2880" height="1112" />
+									<div class="field-icon patient-resource">
+										<div class="eyebrow">
+											Patient Resource
+										</div>
+									</div>
+									<p class="font-larger">
+										Spiritual Care Services
+									</p>
+									<p>
+										Chaplains representing many faiths are available around the clock to provide support, comfort and counsel to patients, families and caregivers. 
+									</p>
+									<span class="field-read-more-link"><span class="include-ucsf-arrow"></span></span>
+								</div>
+							</div>
+						</div>
+
+				</div>
+	</div>
+</div></div><div class="page-content full-width"></div></div>    </div>
+</div>
+
+			</div>
+		</main>
+		<!-- /#content -->
+		<!-- #footer -->
+		<footer>
+			<div id="footer" class="container">
+				
+
+<div class="component footer-values col-xs-12">
+	<div class="component-content">
+<div></div>	</div>
+</div>
+
+<div class="component footer-content col-xs-12">
+	<div class="component-content">
+<div class="container"><div class="top-row">
+<div class="component image file-type-icon-media-link logo">
+    <div class="component-content">
+<img src="/-/media/project/ucsf/ucsf-health/images/logos/logowhite.png?h=26&amp;iar=0&amp;w=141&amp;rev=7a07669440bb454d9c7c3ef29f025f8b&amp;hash=F3B696610C78F98E03B340A55F44AC06" alt="UCSF Health" width="141" height="26" data-variantitemid="{43F4CA98-D35D-4B36-8558-CADA034604A7}" data-variantfieldname="Image" loading="lazy" />    </div>
+</div>
+<div class="top-social-row">
+<div class="component link-list social-footer">
+	<div class="component-content">
+		<div class="eyebrow">Follow UCSF Health:</div>
+				<ul>
+				<li class="item0 odd first">
+<a href="https://www.facebook.com/UCSFMedicalCenter/" target="_blank"  title="Facebook"><span class="icon-social-facebook"></span></a>				</li>
+				<li class="item1 even">
+<a href="https://x.com/ucsfhospitals" target="_blank"  title="X"><span class="icon-social-twitter"></span></a>				</li>
+				<li class="item2 odd">
+<a href="https://www.youtube.com/user/UCSFMedicalCenter" target="_blank"  title="https://www.youtube.com/user/UCSFMedicalCenter"><span class="icon-social-youtube"></span></a>				</li>
+				<li class="item3 even">
+<a href="https://www.instagram.com/ucsfhealth/" target="_blank"  title="Instagram"><span class="icon-social-instagram"></span></a>				</li>
+				<li class="item4 odd last">
+<a href="https://www.linkedin.com/company/ucsfhealth" target="_blank"  title="Linkedin"><span class="icon-social-linkedin"></span></a>				</li>
+		</ul>
+	</div>
+</div>
+</div></div>
+
+
+<div class="component row-splitter">
+        <div class=" footer-nav container-fluid">
+            <div class="row">
+                
+<div class="component link-list col-md-6 col-lg">
+	<div class="component-content">
+		<div class="eyebrow">Getting Care</div>
+				<ul>
+				<li class="item0 odd first">
+<a href="/find-a-doctor" data-variantitemid="{1AC773C8-F17A-4A0B-9496-DE34B3FDA596}" data-variantfieldname="Link">Find a Doctor</a>				</li>
+				<li class="item1 even">
+<a href="/clinics/emergency-department" data-variantitemid="{9AF6DB09-5E16-4E8F-AE94-621AFDFC7840}" title="Emergency Care" data-variantfieldname="Link">Emergency Care</a>				</li>
+				<li class="item2 odd">
+<a href="/list-of-clinics/primary-care" data-variantitemid="{B7B3FA6B-B1BD-4342-8EAF-4B60DB4294CD}" title="Primary Care" data-variantfieldname="Link">Primary Care</a>				</li>
+				<li class="item3 even">
+<a href="/clinics" data-variantitemid="{5A958CEB-5CC1-4ACA-9A21-8AD13E8349DD}" data-variantfieldname="Link">All Medical Services</a>				</li>
+				<li class="item4 odd">
+<a href="/services/international-services" data-variantitemid="{BF8BF095-A11D-46C5-95FF-AC0B07430B42}" data-variantfieldname="Link">International Services</a>				</li>
+				<li class="item5 even">
+<a href="/about/pricing-transparency" data-variantitemid="{3FD4811E-789A-4F66-8CBD-63505BDFC762}" data-variantfieldname="Link">Price Transparency</a>				</li>
+				<li class="item6 odd last">
+<a href="/billing-and-insurance/help-paying-your-bill" data-variantitemid="{508725AA-61CE-4A59-92B6-7E494C6C8EB2}" data-variantfieldname="Link">Help Paying Your Bill</a>				</li>
+		</ul>
+	</div>
+</div>
+
+<div class="component link-list col-md-6 col-lg">
+	<div class="component-content">
+		<div class="eyebrow">Getting Involved</div>
+				<ul>
+				<li class="item0 odd first">
+<a href="https://giving.ucsf.edu/" rel="noopener noreferrer" data-variantitemid="{29C54385-66F4-48A6-A7D3-905A0308F392}" title="Donate" data-variantfieldname="Link" target="_blank">Donate</a>				</li>
+				<li class="item1 even">
+<a href="https://ucsfhealth.samaritan.com/" rel="noopener noreferrer" data-variantitemid="{C534900F-91C6-4E07-85A7-2772BA5A67CB}" title="Volunteer" data-variantfieldname="Link" target="_blank">Volunteer</a>				</li>
+				<li class="item2 odd last">
+<a href="/about/career-information" data-variantitemid="{509A4FEF-0D26-4AF6-9B81-9D3B10415AF4}" data-variantfieldname="Link">Join Our Team</a>				</li>
+		</ul>
+	</div>
+</div>
+
+<div class="component link-list col-md-6 col-lg">
+	<div class="component-content">
+		<div class="eyebrow">About Us</div>
+				<ul>
+				<li class="item0 odd first">
+<a href="/locations" data-variantitemid="{F506296B-B7C2-4932-AA79-8ADBD7A5171F}" title="Locations &amp; Directions" data-variantfieldname="Link">Locations &amp; Directions</a>				</li>
+				<li class="item1 even">
+<a href="/contact-us" data-variantitemid="{D776CD8C-2EF9-4B7F-AED1-394868315243}" data-variantfieldname="Link">Contact Us</a>				</li>
+				<li class="item2 odd">
+<a href="/services/patient-relations" data-variantitemid="{9466A4FF-EEAE-47C6-8C3E-4486C4DEB05B}" data-variantfieldname="Link">Contact Patient Relations</a>				</li>
+				<li class="item3 even">
+<a href="https://www.ucsf.edu/news-media/journalists " rel="noopener noreferrer" data-variantitemid="{E2BC6CAA-8F60-46D7-9AFC-BD58E1D88C66}" data-variantfieldname="Link" target="_blank">Media Resources</a>				</li>
+				<li class="item4 odd">
+<a href="/services/accessibility-resources" data-variantitemid="{77A35480-B0AA-4719-807B-9342DB1F5184}" data-variantfieldname="Link">Accessibility Resources</a>				</li>
+				<li class="item5 even">
+<a href="/about/sexual-harassment-reporting-and-nondiscrimination-notice" data-variantitemid="{F15D3356-2084-49E7-BBB2-C93F06E7ABC1}" data-variantfieldname="Link">Report Misconduct</a>				</li>
+				<li class="item6 odd">
+<a href="/website-privacy-policy" data-variantitemid="{2BBA9C94-27D8-4C7D-BCFC-BFCF044153B4}" data-variantfieldname="Link">Website Privacy Policy</a>				</li>
+				<li class="item7 even">
+<a href="/about/quality-of-patient-care" data-variantitemid="{4FB09E1E-BF44-4F5C-8A02-D4FB43FB5626}" title="Quality of Patient Care" data-variantfieldname="Link">Quality of Patient Care</a>				</li>
+				<li class="item8 odd">
+<a href="/-/media/project/ucsf/ucsf-health/pdf/crisis-standards-of-care.pdf?rev=0d122f1cc1f5437aada5361d5f3ca7dc&amp;hash=6759377BF7908544EA7B188ADDC68A08" data-variantitemid="{90D74519-0779-4B00-BA3F-4AFB696BB4FC}" data-variantfieldname="Link">Crisis Standards of Care</a>				</li>
+				<li class="item9 even">
+<a href="/about" data-variantitemid="{F3E86A44-0143-4054-87F5-BE4D58DD4999}" data-variantfieldname="Link">Our Organization</a>				</li>
+				<li class="item10 odd">
+<a href="https://www.ucsf.edu/news" rel="noopener noreferrer" data-variantitemid="{5BC38D88-AC25-4465-9A7E-4333EC72E4AC}" data-variantfieldname="Link" target="_blank">UCSF News</a>				</li>
+				<li class="item11 even last">
+<a href="/-/media/project/ucsf/ucsf-health/pdf/ucsfhipaa-072021.pdf?rev=1ba3b481dc4a41fa9dbabb24299f34bb&amp;hash=0E63FF00C4BDCB9C50A33177E30FC62F" data-variantitemid="{CCEAAE80-5B3C-4FCF-95AF-C9874F0DB3D8}" data-variantfieldname="Link">Notice of Privacy Practices</a>				</li>
+		</ul>
+	</div>
+</div>
+
+<div class="component link-list col-md-6 col-lg">
+	<div class="component-content">
+		<div class="eyebrow">Research and Education</div>
+				<ul>
+				<li class="item0 odd first">
+<a href="https://clinicaltrials.ucsf.edu/" rel="noopener noreferrer" data-variantitemid="{6CBDBDFF-26BD-45A3-8F4B-6C7183A10749}" data-variantfieldname="Link" target="_blank">Clinical Trials</a>				</li>
+				<li class="item1 even">
+<a href="https://www.ucsf.edu" rel="noopener noreferrer" data-variantitemid="{341E340D-5DEF-45BA-8E48-A5EE829E219B}" title="UC San Francisco" data-variantfieldname="Link" target="_blank">UC San Francisco</a>				</li>
+				<li class="item2 odd">
+<a href="https://medschool.ucsf.edu/" rel="noopener noreferrer" data-variantitemid="{00E9070A-B2F5-44EF-B191-C7FBB0AD38B2}" title="UCSF School of Medicine" data-variantfieldname="Link" target="_blank">UCSF School of Medicine</a>				</li>
+				<li class="item3 even">
+<a href="https://nursing.ucsf.edu/" rel="noopener noreferrer" data-variantitemid="{8DD32DF1-839D-4E91-9D76-4D67402FDBCB}" title="UCSF School of Nursing" data-variantfieldname="Link" target="_blank">UCSF School of Nursing</a>				</li>
+				<li class="item4 odd last">
+<a href="https://pharmacy.ucsf.edu/" rel="noopener noreferrer" data-variantitemid="{81ED1BDE-45E1-4CD5-AB43-EC570F877DB9}" title="UCSF School of Pharmacy" data-variantfieldname="Link" target="_blank">UCSF School of Pharmacy</a>				</li>
+		</ul>
+	</div>
+</div>
+
+<div class="component link-list col-md-6 col-lg">
+	<div class="component-content">
+		<div class="eyebrow">Referring Physicians</div>
+				<ul>
+				<li class="item0 odd first">
+<a href="/refer-a-patient" data-variantitemid="{2215C675-3589-49C1-8DB2-D9357C299CD1}" title="Refer a Patient" data-variantfieldname="Link">Refer a Patient</a>				</li>
+				<li class="item1 even">
+<a href="/for-health-professionals/transfer-a-patient" data-variantitemid="{2CF89CF3-857D-4293-A6C3-AEACDFEE9F9F}" title="Transfer a Patient" data-variantfieldname="Link">Transfer a Patient</a>				</li>
+				<li class="item2 odd">
+<a href="/mdlink" data-variantitemid="{F216922D-7B96-45DF-A6F2-29AB25B350F2}" data-variantfieldname="Link">MDLink</a>				</li>
+				<li class="item3 even">
+<a href="/for-health-professionals/request-a-consultation" data-variantitemid="{9235B0AA-89B0-4E51-9C51-50388F4A46A5}" title="Request a Consultation" data-variantfieldname="Link">Request a Consultation</a>				</li>
+				<li class="item4 odd last">
+<a href="https://medconnection.ucsfhealth.org" rel="noopener noreferrer" data-variantitemid="{1EE9F372-4A58-4089-A473-B4D3A89B1820}" data-variantfieldname="Link" target="_blank">Physician Channel</a>				</li>
+		</ul>
+	</div>
+</div>
+
+            </div>
+        </div>
+        <div class=" bottom-social-row container-fluid">
+            <div class="row">
+                
+<div class="component link-list social-footer">
+	<div class="component-content">
+		<div class="eyebrow">Follow UCSF Health:</div>
+				<ul>
+				<li class="item0 odd first">
+<a href="https://www.facebook.com/UCSFMedicalCenter/" target="_blank"  title="Facebook"><span class="icon-social-facebook"></span></a>				</li>
+				<li class="item1 even">
+<a href="https://x.com/ucsfhospitals" target="_blank"  title="X"><span class="icon-social-twitter"></span></a>				</li>
+				<li class="item2 odd">
+<a href="https://www.youtube.com/user/UCSFMedicalCenter" target="_blank"  title="https://www.youtube.com/user/UCSFMedicalCenter"><span class="icon-social-youtube"></span></a>				</li>
+				<li class="item3 even">
+<a href="https://www.instagram.com/ucsfhealth/" target="_blank"  title="Instagram"><span class="icon-social-instagram"></span></a>				</li>
+				<li class="item4 odd last">
+<a href="https://www.linkedin.com/company/ucsfhealth" target="_blank"  title="Linkedin"><span class="icon-social-linkedin"></span></a>				</li>
+		</ul>
+	</div>
+</div>
+
+            </div>
+        </div>
+</div>
+
+    <div class="component rich-text copyright">
+        <div class="component-content">
+<span>© 2002 - </span><span>2025</span><span>.&nbsp;</span>The Regents of The University of California.        </div>
+    </div>
+
+<div class="component link-list footer-secondary-nav">
+	<div class="component-content">
+		<div class="eyebrow"></div>
+				<ul>
+				<li class="item0 odd first">
+<a href="/website-privacy-policy" data-variantitemid="{EE28BB0F-74F0-4D51-8EBE-B6C670E33A04}" data-variantfieldname="Link">Privacy Policy</a>				</li>
+				<li class="item1 even">
+<a href="/about/terms-of-use" data-variantitemid="{42863EE4-B140-4240-A7E0-A26699F458DC}" data-variantfieldname="Link">Terms and Conditions</a>				</li>
+				<li class="item2 odd last">
+<a data-variantitemid="{7AC8FA1E-4CD5-4BAE-A3B4-F9722170203D}" data-variantfieldname="Link">Some stock photos, posed by model.</a>				</li>
+		</ul>
+	</div>
+</div>
+</div>	</div>
+</div>
+
+			</div>
+		</footer>
+		<!-- /#footer -->
+	</div>
+	<script src=/assets/ucsf/main.js?v=fc3da29fef15f42892385817411ce1b2></script> 
+	
+
+
+<div class="share-menu">
+                    <span class="icon-ui-close"></span>
+                    <h4>Share</h4>
+                    <ul>
+                       <li class="email-link">
+                            <a href="#"><span class="icon-ui-mail"></span> Email Link</a>
+                        </li>
+                        <li class="copy-link">
+                            <span class="icon-ui-share"></span> Copy Link
+                            <span class="svg-ui-checkmark"></span>
+                        </li>
+                        <li class="facebook-share">
+                            <a href="https://www.facebook.com/sharer/sharer.php?u=" target="_blank" title="Share on Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;"><span class="icon-social-facebook"></span> Share on Facebook</a>
+                        </li>
+                        <li class="linkedin-share">
+                            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" title="Share on LinkedIn"><span class="icon-social-linkedin"></span> Share on LinkedIn</a>
+                        </li>   
+                        <li class="twitter-share">
+                           <a href="https://twitter.com/intent/tweet?text=" target="_blank" title="Share on X"><span class="icon-social-twitter"></span> Share on X</a>
+                        </li>
+                    </ul>
+                </div>
+
+
+</body>
+</html>

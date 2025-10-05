@@ -1,0 +1,3644 @@
+[anxiety] labels= split=train id=137
+I don't think aspergers causes me distress or anxiety. I think having to live in a society that privileges neurotypical modes of interaction causes me distress and anxiety
+
+[sad] labels= split=train id=387
+Sad. My condolences to her family.
+
+[sad] labels= split=train id=387
+Sad. My condolences to her family.
+
+[sad] labels= split=train id=523
+The sad thing is, relatively speaking these are actually pretty good living conditions. Check out Harris Ranch.
+
+[sad] labels= split=train id=523
+The sad thing is, relatively speaking these are actually pretty good living conditions. Check out Harris Ranch.
+
+[anxiety] labels= split=train id=577
+Being someone who has severe anxiety and in this predicament before, you need to do what’s best for YOU
+
+[well-being] labels= split=train id=647
+Wow this was an eye-opening response, and you’re right it helped us learn more, be compassionate and focus on a better well-being.
+
+[burnt out] labels= split=train id=662
+Well the house is burnt out so there's not a lot happening with it expect probably insurance folks need to investigate the damage.
+
+[orgasm] labels= split=train id=996
+Woman here - $50 per orgasm please! I could easily make $300 in a half hour wankfest...
+
+[sad] labels= split=train id=1053
+I get it. I hate that [NAME]. Taking advantage of sad people.
+
+[sad] labels= split=train id=1053
+I get it. I hate that [NAME]. Taking advantage of sad people.
+
+[strength] labels= split=train id=1096
+Wow talk about strength!
+
+[strength] labels= split=train id=1096
+Wow talk about strength!
+
+[sad] labels= split=train id=1448
+It's sad that we have to think of it as a miracle and not a regular occurrence :/
+
+[sad] labels= split=train id=1448
+It's sad that we have to think of it as a miracle and not a regular occurrence :/
+
+[sad] labels= split=train id=1671
+That was so sad. And she kept calling for mommy the whole time. Then they ditched her with grandma.
+
+[sad] labels= split=train id=1671
+That was so sad. And she kept calling for mommy the whole time. Then they ditched her with grandma.
+
+[penetration] labels= split=train id=1709
+Alright thanks to all. I will tr it with more wards the next time and boots and penetration. Thx for your support!
+
+[sad] labels= split=train id=1718
+Yeah, this is always my first thought when I read this kind of stuff, kinda sad to be honest 
+
+[sad] labels= split=train id=1718
+Yeah, this is always my first thought when I read this kind of stuff, kinda sad to be honest 
+
+[sad] labels= split=train id=1857
+The sad part is, they would do something like this. Totally obsessed with Green Bay instead of improving draft stock or the team.
+
+[sad] labels= split=train id=1857
+The sad part is, they would do something like this. Totally obsessed with Green Bay instead of improving draft stock or the team.
+
+[sad] labels= split=train id=1877
+This is sad but not cringe, I hope he finds someone to play with soon 😪
+
+[sad] labels= split=train id=1877
+This is sad but not cringe, I hope he finds someone to play with soon 😪
+
+[tired] labels= split=train id=2011
+I like [NAME]’ “I’m tired of losing, I’m not a loser”
+
+[sad] labels= split=train id=2018
+That is so sad, just goes to show we have a lot more to learn about the other beings we share this rock with : /
+
+[sad] labels= split=train id=2018
+That is so sad, just goes to show we have a lot more to learn about the other beings we share this rock with : /
+
+[tired] labels= split=train id=2045
+Looks like he's tired of your dad-jokes. Lol
+
+[tired] labels= split=train id=2129
+I am going to be so happy when they finally air that scaly foot Dr Pimple Popper episode because I’m tired of seeing it every five minutes.
+
+[sad] labels= split=train id=2269
+I try my damndest. Hard to be sad these days when I got this guy with me
+
+[sad] labels= split=train id=2269
+I try my damndest. Hard to be sad these days when I got this guy with me
+
+[anxiety] labels= split=train id=2296
+It should go well with kratom anyway. I need to just eliminate anxiety and not have cravings
+
+[strength] labels= split=train id=2311
+Those splits of Marla's still amaze me! Not only in terms of flexibility, but STRENGTH. Just imagine how heavy that leg is...
+
+[strength] labels= split=train id=2311
+Those splits of Marla's still amaze me! Not only in terms of flexibility, but STRENGTH. Just imagine how heavy that leg is...
+
+[sad] labels= split=train id=2392
+>he definitely doesn't value my pleasure this is very sad
+
+[sad] labels= split=train id=2392
+>he definitely doesn't value my pleasure this is very sad
+
+[tired] labels= split=train id=2427
+It’s 2019 dude chill out with the gender roles Edit: it’s 2019 I’m tired sorry
+
+[sad] labels= split=train id=2464
+Makes me sad at how brain damage effects boxers so much
+
+[sad] labels= split=train id=2464
+Makes me sad at how brain damage effects boxers so much
+
+[anxiety] labels= split=train id=2589
+I used to have anxiety when calling people but I no longer have them at least just 20-30% anxiety.
+
+[anxiety] labels= split=train id=2625
+How terrible. Imagine waiting this long only to die the day before release? I always get that minor anxiety before a highly anticipated album!!
+
+[sad] labels= split=train id=2685
+Sad face it is
+
+[sad] labels= split=train id=2685
+Sad face it is
+
+[strength] labels= split=train id=2991
+Oh recently I’ve started working out and concentrating on myself. Has helped improved my mental strength as well as physical. I feel ready for anything.
+
+[strength] labels= split=train id=2991
+Oh recently I’ve started working out and concentrating on myself. Has helped improved my mental strength as well as physical. I feel ready for anything.
+
+[sad] labels= split=train id=3028
+Sad truth is you cant run away from who you are no matter how hard you try :(
+
+[sad] labels= split=train id=3028
+Sad truth is you cant run away from who you are no matter how hard you try :(
+
+[tired] labels= split=train id=3148
+I’d go at [NAME] every possession. He is so tired out there
+
+[anxiety] labels= split=train id=3227
+Maybe time to see a doctor or psychologist? Although a bit of social anxiety is normal and not necessarily the disorder.
+
+[tired] labels= split=train id=3238
+[NAME] damn it I'm so tired of seeing Instagram between fights
+
+[sad] labels= split=train id=3279
+If your dog is an arctic breed they will go crazy with joy and be sad that you don’t share in their happiness for the bitter cold.
+
+[sad] labels= split=train id=3279
+If your dog is an arctic breed they will go crazy with joy and be sad that you don’t share in their happiness for the bitter cold.
+
+[sad] labels= split=train id=3288
+Mom will get sad. [NAME] still good. Hanging out with friends still good. Money buying foodie exp is still good.
+
+[sad] labels= split=train id=3288
+Mom will get sad. [NAME] still good. Hanging out with friends still good. Money buying foodie exp is still good.
+
+[sad] labels= split=train id=3342
+Such a sad, angry person. Take a break from reddit and go take up cycling or something.
+
+[sad] labels= split=train id=3342
+Such a sad, angry person. Take a break from reddit and go take up cycling or something.
+
+[sad] labels= split=train id=3373
+That last story was absolutely beautiful and sad.
+
+[sad] labels= split=train id=3373
+That last story was absolutely beautiful and sad.
+
+[sad] labels= split=train id=3393
+I can understand political acrimony but the death of humor is really disappointing. Very sad indeed.
+
+[sad] labels= split=train id=3393
+I can understand political acrimony but the death of humor is really disappointing. Very sad indeed.
+
+[sad] labels= split=train id=3451
+Can we ban posts about him now he's a predator? It just makes me sad now, Idk about anyone else
+
+[sad] labels= split=train id=3451
+Can we ban posts about him now he's a predator? It just makes me sad now, Idk about anyone else
+
+[sad] labels= split=train id=3480
+The truly sad thing is she's getting burned to legitimize Russiagate. It's a shame she wasn't a legit whistleblower.
+
+[sad] labels= split=train id=3480
+The truly sad thing is she's getting burned to legitimize Russiagate. It's a shame she wasn't a legit whistleblower.
+
+[sad] labels= split=train id=3487
+Upvoted because [NAME] is a good boi and can’t help it, but tbh it makes me sad to see him struggle like that..!
+
+[sad] labels= split=train id=3487
+Upvoted because [NAME] is a good boi and can’t help it, but tbh it makes me sad to see him struggle like that..!
+
+[sad] labels= split=train id=3762
+It is funny and sad, when faced with the option to laugh or cry I choose laugh
+
+[sad] labels= split=train id=3762
+It is funny and sad, when faced with the option to laugh or cry I choose laugh
+
+[sad] labels= split=train id=3838
+Listen to it while you're sad
+
+[sad] labels= split=train id=3838
+Listen to it while you're sad
+
+[tired] labels= split=train id=3847
+I'm tired i'm wasted I LOVE YOU DARLING.
+
+[sad] labels= split=train id=3878
+Agreed, if you think about the animals it's sad. If you think about zerocarbers' blood profiles it gets amusing.
+
+[sad] labels= split=train id=3878
+Agreed, if you think about the animals it's sad. If you think about zerocarbers' blood profiles it gets amusing.
+
+[sad] labels= split=train id=3926
+Is anyone else really sad about how much plastic surgery she's had? I guess [NAME] self esteem issues werent that much of an act
+
+[sad] labels= split=train id=3926
+Is anyone else really sad about how much plastic surgery she's had? I guess [NAME] self esteem issues werent that much of an act
+
+[strength] labels= split=train id=3929
+The fact that they didn't double up on gronk on any key plays tells me they weren't playing against NE strength.
+
+[strength] labels= split=train id=3929
+The fact that they didn't double up on gronk on any key plays tells me they weren't playing against NE strength.
+
+[orgasm] labels= split=train id=3982
+I cannot believe a woman in her 30s has never had an orgasm. I would have tried everything on the planet to have one.
+
+[sad] labels= split=train id=4014
+I'm sad we have you at home this year. I want to make a trip to see Allianz.
+
+[sad] labels= split=train id=4014
+I'm sad we have you at home this year. I want to make a trip to see Allianz.
+
+[energy] labels= split=train id=4276
+because energy drinks are the most fucked up you can get while still being sober
+
+[energy] labels= split=train id=4276
+because energy drinks are the most fucked up you can get while still being sober
+
+[energy] labels= split=train id=4276
+because energy drinks are the most fucked up you can get while still being sober
+
+[energy] labels= split=train id=4276
+because energy drinks are the most fucked up you can get while still being sober
+
+[sad] labels= split=train id=4385
+Possible sad tyre
+
+[sad] labels= split=train id=4385
+Possible sad tyre
+
+[tired] labels= split=train id=4586
+Very tired us can attendant: "here are your vagina slimes." ... thankfully the customer just laughed kt off.
+
+[intercourse] labels= split=train id=4710
+Maybe yes, maybe not. But in the end she still is an adult that choose to have sexual intercourse with a minor, regardless of the gender.
+
+[sad] labels= split=train id=4918
+Well they called and said there was a pricing discrepancy and they could not honor it. 😭 sad day.
+
+[sad] labels= split=train id=4918
+Well they called and said there was a pricing discrepancy and they could not honor it. 😭 sad day.
+
+[erection] labels= split=train id=4921
+No, he’s been with more women than I have been with men. He loves sex and has no problems with an erection. 
+
+[erection] labels= split=train id=4921
+No, he’s been with more women than I have been with men. He loves sex and has no problems with an erection. 
+
+[erection] labels= split=train id=4921
+No, he’s been with more women than I have been with men. He loves sex and has no problems with an erection. 
+
+[erection] labels= split=train id=4921
+No, he’s been with more women than I have been with men. He loves sex and has no problems with an erection. 
+
+[erection] labels= split=train id=4921
+No, he’s been with more women than I have been with men. He loves sex and has no problems with an erection. 
+
+[sad] labels= split=train id=4930
+So happy for [NAME]. So sad he's not here. Imagine this team with [NAME] instead of [NAME]. Ugh.
+
+[sad] labels= split=train id=4930
+So happy for [NAME]. So sad he's not here. Imagine this team with [NAME] instead of [NAME]. Ugh.
+
+[sad] labels= split=train id=4999
+It’s kinda sad that this made me lol.
+
+[sad] labels= split=train id=4999
+It’s kinda sad that this made me lol.
+
+[sad] labels= split=train id=5034
+This is kinda sad
+
+[sad] labels= split=train id=5034
+This is kinda sad
+
+[anxiety] labels= split=train id=5114
+i had all of those. checked myself with a GP and found out i had low iron, migraines and needed to visit the therapist re my anxiety.
+
+[mood] labels= split=train id=5329
+My coworkers mood rn. Sober AF.
+
+[mood] labels= split=train id=5329
+My coworkers mood rn. Sober AF.
+
+[mood] labels= split=train id=5329
+My coworkers mood rn. Sober AF.
+
+[mood] labels= split=train id=5329
+My coworkers mood rn. Sober AF.
+
+[anxiety] labels= split=train id=5521
+Nervously laughs in anxiety
+
+[sad] labels= split=train id=5668
+RIP. Sad for his family and the bull riding community.
+
+[sad] labels= split=train id=5668
+RIP. Sad for his family and the bull riding community.
+
+[mood] labels= split=train id=5858
+I’m easy going, I take everything with a smile. People around me often comments how I’m always in a good mood. 
+
+[mood] labels= split=train id=5858
+I’m easy going, I take everything with a smile. People around me often comments how I’m always in a good mood. 
+
+[mood] labels= split=train id=5858
+I’m easy going, I take everything with a smile. People around me often comments how I’m always in a good mood. 
+
+[mood] labels= split=train id=5858
+I’m easy going, I take everything with a smile. People around me often comments how I’m always in a good mood. 
+
+[exhaustion] labels= split=train id=6096
+Oh that's hard. I hope you get an amazing nap in the car. The exhaustion is real with babies.
+
+[sad] labels= split=train id=6169
+Thank fuck they died... I mean rip, so sad 💭🙏
+
+[sad] labels= split=train id=6169
+Thank fuck they died... I mean rip, so sad 💭🙏
+
+[erection] labels= split=train id=6230
+I will still shag her u fooking poof. gave im a rite fockin japester innit well u won't be having erection next few days.
+
+[erection] labels= split=train id=6230
+I will still shag her u fooking poof. gave im a rite fockin japester innit well u won't be having erection next few days.
+
+[erection] labels= split=train id=6230
+I will still shag her u fooking poof. gave im a rite fockin japester innit well u won't be having erection next few days.
+
+[erection] labels= split=train id=6230
+I will still shag her u fooking poof. gave im a rite fockin japester innit well u won't be having erection next few days.
+
+[erection] labels= split=train id=6230
+I will still shag her u fooking poof. gave im a rite fockin japester innit well u won't be having erection next few days.
+
+[sad] labels= split=train id=6319
+The only one to really be sad about losing is [NAME] tbh
+
+[sad] labels= split=train id=6319
+The only one to really be sad about losing is [NAME] tbh
+
+[sad] labels= split=train id=6320
+I understand why... But it's so sad we have to lie... It breaks my heart...
+
+[sad] labels= split=train id=6320
+I understand why... But it's so sad we have to lie... It breaks my heart...
+
+[sad] labels= split=train id=6353
+They're all the same, all the ratemes are a trap. It's just sad people keep falling for them because its so obvious it genuinely hurts.
+
+[sad] labels= split=train id=6353
+They're all the same, all the ratemes are a trap. It's just sad people keep falling for them because its so obvious it genuinely hurts.
+
+[sad] labels= split=train id=6492
+what a strange, sad, moronic 3 day old account...
+
+[sad] labels= split=train id=6492
+what a strange, sad, moronic 3 day old account...
+
+[sad] labels= split=train id=6541
+[NAME] was caught stealing his neighbors newspapers. He pockets all the money that is given to him and he does not use it effectively. [NAME] sad "life"
+
+[sad] labels= split=train id=6541
+[NAME] was caught stealing his neighbors newspapers. He pockets all the money that is given to him and he does not use it effectively. [NAME] sad "life"
+
+[sad] labels= split=train id=6561
+Seriously, it would make me sad to stop caring about my kid because they had x number of birthdays. 
+
+[sad] labels= split=train id=6561
+Seriously, it would make me sad to stop caring about my kid because they had x number of birthdays. 
+
+[tired] labels= split=train id=6776
+I too cuddle with this guy’s sister in law if his wife is tired
+
+[height] labels= split=train id=6821
+Hasn't he also lied about his height previously?
+
+[height] labels= split=train id=6821
+Hasn't he also lied about his height previously?
+
+[tired] labels= split=train id=6851
+Based on that cars wheels it is now very tired.
+
+[tired] labels= split=train id=7139
+Man your post really struck me I feel exactly the same way you do. I’m tired and I feel like it’s too much work.
+
+[sad] labels= split=train id=7290
+McDonalds without sauce is just sad... you take away my garlic mayo and my barbecue sauce and you take away my soul
+
+[sad] labels= split=train id=7290
+McDonalds without sauce is just sad... you take away my garlic mayo and my barbecue sauce and you take away my soul
+
+[strength] labels= split=train id=7312
+[NAME]. You're just a fountain of inspiration and strength.
+
+[strength] labels= split=train id=7312
+[NAME]. You're just a fountain of inspiration and strength.
+
+[anxiety] labels= split=train id=7553
+Congrats. Having a steady job (and one that I actually enjoy somewhat) is the #1 thing that helped me out with depression/anxiety.
+
+[enjoyment] labels= split=train id=7693
+Because they are defined by their enjoyment of bullying others.
+
+[sad] labels= split=train id=7985
+Sad/Sweet for her to put in the effort to fake it!
+
+[sad] labels= split=train id=7985
+Sad/Sweet for her to put in the effort to fake it!
+
+[sad] labels= split=train id=8073
+It’s sad that some parents can’t accept some simple mistakes.
+
+[sad] labels= split=train id=8073
+It’s sad that some parents can’t accept some simple mistakes.
+
+[sad] labels= split=train id=8089
+this is so sad Alexa play despacito
+
+[sad] labels= split=train id=8089
+this is so sad Alexa play despacito
+
+[sad] labels= split=train id=8235
+Withdrawal, psychic-shattering, and other activist groups, the principle is very sad.
+
+[sad] labels= split=train id=8235
+Withdrawal, psychic-shattering, and other activist groups, the principle is very sad.
+
+[nervousness] labels= split=train id=8400
+She reminds me of my crazy sister. Just a ball of nervousness and constantly just on the verge of crying.
+
+[strength] labels= split=train id=8449
+My heart is broken for this woman... I really hope she finds the strength to leave him
+
+[strength] labels= split=train id=8449
+My heart is broken for this woman... I really hope she finds the strength to leave him
+
+[anxiety] labels= split=train id=8517
+You have social anxiety go see a doctor
+
+[sad] labels= split=train id=8618
+if we follow this pannel she is non existent and you are just allucinating, im sorry to bring the sad news 
+
+[sad] labels= split=train id=8618
+if we follow this pannel she is non existent and you are just allucinating, im sorry to bring the sad news 
+
+[sad] labels= split=train id=8627
+That's sad. You can be acquaintances with women. Not like you are driving them to the nail salon or something .
+
+[sad] labels= split=train id=8627
+That's sad. You can be acquaintances with women. Not like you are driving them to the nail salon or something .
+
+[anxiety] labels= split=train id=8767
+The fact that they're flying their drone in the rain gives me anxiety.
+
+[sad] labels= split=train id=9093
+Occupation badges are dumb and I’m sad they made the transition to OCP.
+
+[sad] labels= split=train id=9093
+Occupation badges are dumb and I’m sad they made the transition to OCP.
+
+[sad] labels= split=train id=9143
+Is this funny but sad? This just seems like a normal meme to me
+
+[sad] labels= split=train id=9143
+Is this funny but sad? This just seems like a normal meme to me
+
+[sad] labels= split=train id=9226
+Sad but true
+
+[sad] labels= split=train id=9226
+Sad but true
+
+[sad] labels= split=train id=9232
+Oh that’s so sad that she thinks anyone cares about her opinion
+
+[sad] labels= split=train id=9232
+Oh that’s so sad that she thinks anyone cares about her opinion
+
+[sad] labels= split=train id=9314
+This is a good change. I've heard too many sad stories on Tinder about this sort of thing, looking for a way out. 
+
+[sad] labels= split=train id=9314
+This is a good change. I've heard too many sad stories on Tinder about this sort of thing, looking for a way out. 
+
+[sad] labels= split=train id=9647
+You know I’m sad the [NAME] hype is over because I actually think he’s been really good for us overall. I still trust him.
+
+[sad] labels= split=train id=9647
+You know I’m sad the [NAME] hype is over because I actually think he’s been really good for us overall. I still trust him.
+
+[sad] labels= split=train id=9718
+then its lost man. So sad!...its terrible
+
+[sad] labels= split=train id=9718
+then its lost man. So sad!...its terrible
+
+[tired] labels= split=train id=9734
+Ya ikr. I’m tired and idk how to take what’s goin on.
+
+[anxiety] labels= split=train id=9835
+Dissociation/ Derealization. Its a big symptom of anxiety.
+
+[sad] labels= split=train id=9944
+Sad but true lol
+
+[sad] labels= split=train id=9944
+Sad but true lol
+
+[tired] labels= split=train id=10175
+He’s just tired and needs to rest.
+
+[sad] labels= split=train id=10218
+I’ll miss you, [NAME] Today is a sad day for our high sock loving brethren [NAME]
+
+[sad] labels= split=train id=10218
+I’ll miss you, [NAME] Today is a sad day for our high sock loving brethren [NAME]
+
+[sad] labels= split=train id=10222
+It's sad, but yes, zero. 
+
+[sad] labels= split=train id=10222
+It's sad, but yes, zero. 
+
+[energy] labels= split=train id=10260
+I like the energy [NAME], [NAME], DFS put out.
+
+[energy] labels= split=train id=10260
+I like the energy [NAME], [NAME], DFS put out.
+
+[energy] labels= split=train id=10260
+I like the energy [NAME], [NAME], DFS put out.
+
+[energy] labels= split=train id=10260
+I like the energy [NAME], [NAME], DFS put out.
+
+[energy] labels= split=train id=10371
+I enjoyed [NAME] intermission report where he was very low energy until the end when he squeaked out a HI MOM =D because he's the best
+
+[energy] labels= split=train id=10371
+I enjoyed [NAME] intermission report where he was very low energy until the end when he squeaked out a HI MOM =D because he's the best
+
+[energy] labels= split=train id=10371
+I enjoyed [NAME] intermission report where he was very low energy until the end when he squeaked out a HI MOM =D because he's the best
+
+[energy] labels= split=train id=10371
+I enjoyed [NAME] intermission report where he was very low energy until the end when he squeaked out a HI MOM =D because he's the best
+
+[sad] labels= split=train id=10440
+Sad really. Are they really that threatened by people speaking a language? We all speak English everyday, not like we do for sectarian reasons.
+
+[sad] labels= split=train id=10440
+Sad really. Are they really that threatened by people speaking a language? We all speak English everyday, not like we do for sectarian reasons.
+
+[sad] labels= split=train id=10459
+It's kinda sad knowing that ibises are only scavenging our bins & rubbish due to their natural habitats drying out.
+
+[sad] labels= split=train id=10459
+It's kinda sad knowing that ibises are only scavenging our bins & rubbish due to their natural habitats drying out.
+
+[anxiety] labels= split=train id=10489
+i choose alcohol. not recommended and ofc doesnt help to overcome anxiety, it just reduces its symptoms for a while...
+
+[height] labels= split=train id=10628
+That was such a bad yellow, he had the height and positional advantage such a bad challenge
+
+[height] labels= split=train id=10628
+That was such a bad yellow, he had the height and positional advantage such a bad challenge
+
+[energy] labels= split=train id=10683
+Lore wise, this makes sense and I hate/love it with the same energy 
+
+[energy] labels= split=train id=10683
+Lore wise, this makes sense and I hate/love it with the same energy 
+
+[energy] labels= split=train id=10683
+Lore wise, this makes sense and I hate/love it with the same energy 
+
+[energy] labels= split=train id=10683
+Lore wise, this makes sense and I hate/love it with the same energy 
+
+[tired] labels= split=train id=10742
+Doesn't make me tired in the slightest. It makes my joints scream though.
+
+[mood] labels= split=train id=10783
+Yeah whether or not an animal is cute is pretty subjective, I was just in a bad mood when I wrote the post honestly.
+
+[mood] labels= split=train id=10783
+Yeah whether or not an animal is cute is pretty subjective, I was just in a bad mood when I wrote the post honestly.
+
+[mood] labels= split=train id=10783
+Yeah whether or not an animal is cute is pretty subjective, I was just in a bad mood when I wrote the post honestly.
+
+[mood] labels= split=train id=10783
+Yeah whether or not an animal is cute is pretty subjective, I was just in a bad mood when I wrote the post honestly.
+
+[anxiety] labels= split=train id=10813
+Why the social anxiety? You are going on an adventure with friends and are excited not anxious
+
+[sad] labels= split=train id=10883
+I agree with everything you said. I still fell sad for her but this is the consequences of her own choices
+
+[sad] labels= split=train id=10883
+I agree with everything you said. I still fell sad for her but this is the consequences of her own choices
+
+[falling asleep] labels= split=train id=10893
+I do, and I've experienced a similar situation falling asleep. Like my mind is fixated on an object that keeps getting bigger and bigger.
+
+[falling asleep] labels= split=train id=10893
+I do, and I've experienced a similar situation falling asleep. Like my mind is fixated on an object that keeps getting bigger and bigger.
+
+[energy] labels= split=train id=10906
+You're not kidding about the savage energy part. Just look at this man.
+
+[energy] labels= split=train id=10906
+You're not kidding about the savage energy part. Just look at this man.
+
+[energy] labels= split=train id=10906
+You're not kidding about the savage energy part. Just look at this man.
+
+[energy] labels= split=train id=10906
+You're not kidding about the savage energy part. Just look at this man.
+
+[sad] labels= split=train id=11052
+From one eating disorder to another. That's not recovery that's just sad.
+
+[sad] labels= split=train id=11052
+From one eating disorder to another. That's not recovery that's just sad.
+
+[sad] labels= split=train id=11133
+That's really sad and shocking to hear this Really embarrassed to be a human being on this earth...
+
+[sad] labels= split=train id=11133
+That's really sad and shocking to hear this Really embarrassed to be a human being on this earth...
+
+[tired] labels= split=train id=11166
+And then there's "having to listen to parents bragging about how hard they have it" tired.
+
+[sad] labels= split=train id=11188
+They usually do hoss, hence the steak and beer hard to be sad with good food. 
+
+[sad] labels= split=train id=11188
+They usually do hoss, hence the steak and beer hard to be sad with good food. 
+
+[sad] labels= split=train id=11265
+My organs love me. I wonder how emotionally damaged a person has to be to come up with these. It's weird and sad.
+
+[sad] labels= split=train id=11265
+My organs love me. I wonder how emotionally damaged a person has to be to come up with these. It's weird and sad.
+
+[sad] labels= split=train id=11274
+This is very accurately funny and sad. 🤦🏻‍♂️
+
+[sad] labels= split=train id=11274
+This is very accurately funny and sad. 🤦🏻‍♂️
+
+[tired] labels= split=train id=11323
+I’m tired from working hard and I want someone to snuggle me to sleep
+
+[height] labels= split=train id=11383
+It’s shame that despite the years of dedication, persistence, and hard work. His efforts are reduced because of his height.
+
+[height] labels= split=train id=11383
+It’s shame that despite the years of dedication, persistence, and hard work. His efforts are reduced because of his height.
+
+[sad] labels= split=train id=11685
+That's really sad to hear, I can't imagine. I'm wishing the best for you
+
+[sad] labels= split=train id=11685
+That's really sad to hear, I can't imagine. I'm wishing the best for you
+
+[sad] labels= split=train id=11690
+Man, this analogy is frighteningly spot on. Makes me sad for the province.
+
+[sad] labels= split=train id=11690
+Man, this analogy is frighteningly spot on. Makes me sad for the province.
+
+[sad] labels= split=train id=11908
+I'm the same. I prefer sad depressed dudes and idk why. I know I like taking care of people though..
+
+[sad] labels= split=train id=11908
+I'm the same. I prefer sad depressed dudes and idk why. I know I like taking care of people though..
+
+[sad] labels= split=train id=12200
+Hang on so Im not allowed to stroke your dog? Thats sad.
+
+[sad] labels= split=train id=12200
+Hang on so Im not allowed to stroke your dog? Thats sad.
+
+[anxiety] labels= split=train id=12263
+Imagining doing something this drastic all alone is just... I can't fathom the anxiety. Man.
+
+[anxiety] labels= split=train id=12277
+gotta love my s-tier talking to people anxiety haha wait no i don't 😎
+
+[sad] labels= split=train id=12484
+You absolutely dodged a bullet. You can be sad about it because it sucks to be broken up with but you def dodged a bullet.
+
+[sad] labels= split=train id=12484
+You absolutely dodged a bullet. You can be sad about it because it sucks to be broken up with but you def dodged a bullet.
+
+[sad] labels= split=train id=12524
+This is just sad. So, so sad.
+
+[sad] labels= split=train id=12524
+This is just sad. So, so sad.
+
+[tired] labels= split=train id=12554
+Or he just tired of her and this cute chick just slid into the DM just in time
+
+[sad] labels= split=train id=12580
+That moment when you can't even get mad when you realise it's another sad boring troll with nothing better to do than creating alt accounts .
+
+[sad] labels= split=train id=12580
+That moment when you can't even get mad when you realise it's another sad boring troll with nothing better to do than creating alt accounts .
+
+[orgasm] labels= split=train id=12643
+This girl was kinda like that. She would orgasm walking around if her jeans were too tight.
+
+[sad] labels= split=train id=12886
+Apathetic. Not happy, not sad, just don't care
+
+[sad] labels= split=train id=12886
+Apathetic. Not happy, not sad, just don't care
+
+[sad] labels= split=train id=12945
+That is so sad. So your sisters got to ruin their bodies and forego a career? Yikes.
+
+[sad] labels= split=train id=12945
+That is so sad. So your sisters got to ruin their bodies and forego a career? Yikes.
+
+[enjoyment] labels= split=train id=13045
+“How dare you use your breasts for their biological function instead of my enjoyment!”
+
+[sad] labels= split=train id=13145
+Not defending [NAME] at all but this is just super sad if it’s true...
+
+[sad] labels= split=train id=13145
+Not defending [NAME] at all but this is just super sad if it’s true...
+
+[sad] labels= split=train id=13303
+>The ABC’s hard-hitting investigation :/ Such a sad article.
+
+[sad] labels= split=train id=13303
+>The ABC’s hard-hitting investigation :/ Such a sad article.
+
+[strength] labels= split=train id=13376
+Thanks man, words give me strength
+
+[strength] labels= split=train id=13376
+Thanks man, words give me strength
+
+[sad] labels= split=train id=13414
+Sad but exciting to see him in a place where he might perform well. Hopefully he stays injury free.
+
+[sad] labels= split=train id=13414
+Sad but exciting to see him in a place where he might perform well. Hopefully he stays injury free.
+
+[height] labels= split=train id=13453
+My height is definitely a huge (ironically) factor. Im 5'1 no girl would date a guy 5'1.
+
+[height] labels= split=train id=13453
+My height is definitely a huge (ironically) factor. Im 5'1 no girl would date a guy 5'1.
+
+[sad] labels= split=train id=13529
+That's just sad and depressing. Was the race closing before she finished? Well, at least she did it.
+
+[sad] labels= split=train id=13529
+That's just sad and depressing. Was the race closing before she finished? Well, at least she did it.
+
+[sad] labels= split=train id=13648
+I'm kinda the opposite. I always look dour and sad even when I'm not...
+
+[sad] labels= split=train id=13648
+I'm kinda the opposite. I always look dour and sad even when I'm not...
+
+[sad] labels= split=train id=13653
+Really that's not very sad at all
+
+[sad] labels= split=train id=13653
+Really that's not very sad at all
+
+[strength] labels= split=train id=13660
+>call people faggots > lovingly describe the beauty and strength of a man's physique
+
+[strength] labels= split=train id=13660
+>call people faggots > lovingly describe the beauty and strength of a man's physique
+
+[sad] labels= split=train id=13790
+What a sad end for this franchise. I doubt Fallout 5 will redeem it at this point... what a damn shame
+
+[sad] labels= split=train id=13790
+What a sad end for this franchise. I doubt Fallout 5 will redeem it at this point... what a damn shame
+
+[satisfaction] labels= split=train id=13792
+Stop thinking about yourself. Go help someone and work hard at being useful. There's no satisfaction or fulfillment in self-obsession. Get over yourself.
+
+[satisfaction] labels= split=train id=13792
+Stop thinking about yourself. Go help someone and work hard at being useful. There's no satisfaction or fulfillment in self-obsession. Get over yourself.
+
+[satisfaction] labels= split=train id=13792
+Stop thinking about yourself. Go help someone and work hard at being useful. There's no satisfaction or fulfillment in self-obsession. Get over yourself.
+
+[anxiety] labels= split=train id=13844
+His mind is free of anxiety he is now able to concentrate
+
+[sad] labels= split=train id=13851
+It would hilarious, but also kind of sad.
+
+[sad] labels= split=train id=13851
+It would hilarious, but also kind of sad.
+
+[sad] labels= split=train id=13962
+Well that’s sad. It might’ve been funny if it was fake.
+
+[sad] labels= split=train id=13962
+Well that’s sad. It might’ve been funny if it was fake.
+
+[sad] labels= split=train id=14055
+Kinda sad to laugh at people who really need serious help.
+
+[sad] labels= split=train id=14055
+Kinda sad to laugh at people who really need serious help.
+
+[sad] labels= split=train id=14204
+Thanks. I'm still sad till this day. But whatever happens, I'm at peace with his decision.
+
+[sad] labels= split=train id=14204
+Thanks. I'm still sad till this day. But whatever happens, I'm at peace with his decision.
+
+[sad] labels= split=train id=14315
+Fingerprints not [NAME] or [NAME] red is [NAME] don’t just make things up now that is sad !
+
+[sad] labels= split=train id=14315
+Fingerprints not [NAME] or [NAME] red is [NAME] don’t just make things up now that is sad !
+
+[sad] labels= split=train id=14372
+Agree with that XI but sad that [NAME] is our best choice.
+
+[sad] labels= split=train id=14372
+Agree with that XI but sad that [NAME] is our best choice.
+
+[sad] labels= split=train id=14405
+Yup. How sad is it to admit I'm jealous of the ravens run game and defense 😣
+
+[sad] labels= split=train id=14405
+Yup. How sad is it to admit I'm jealous of the ravens run game and defense 😣
+
+[sad] labels= split=train id=14420
+Tomorrow [NAME] tweets “See! I told you [NAME] took responsibility! No shutdown! No collusion! Bad! Sad!
+
+[sad] labels= split=train id=14420
+Tomorrow [NAME] tweets “See! I told you [NAME] took responsibility! No shutdown! No collusion! Bad! Sad!
+
+[sad] labels= split=train id=14558
+That such a sad flop [NAME]
+
+[sad] labels= split=train id=14558
+That such a sad flop [NAME]
+
+[sad] labels= split=train id=14691
+Nooooooooo I was a student staff member at the WCC and this makes me so sad and angryyyyy
+
+[sad] labels= split=train id=14691
+Nooooooooo I was a student staff member at the WCC and this makes me so sad and angryyyyy
+
+[satisfaction] labels= split=train id=14730
+Guys a complete troll who has no idea about cancer or the physical pain it can cause. Move on and don’t give the cunt the satisfaction.
+
+[satisfaction] labels= split=train id=14730
+Guys a complete troll who has no idea about cancer or the physical pain it can cause. Move on and don’t give the cunt the satisfaction.
+
+[satisfaction] labels= split=train id=14730
+Guys a complete troll who has no idea about cancer or the physical pain it can cause. Move on and don’t give the cunt the satisfaction.
+
+[energy] labels= split=train id=14896
+[NAME] is playing with so much energy today. New year, new haircut, maybe he's feeling like it's an opportunity for a fresh start. 
+
+[energy] labels= split=train id=14896
+[NAME] is playing with so much energy today. New year, new haircut, maybe he's feeling like it's an opportunity for a fresh start. 
+
+[energy] labels= split=train id=14896
+[NAME] is playing with so much energy today. New year, new haircut, maybe he's feeling like it's an opportunity for a fresh start. 
+
+[energy] labels= split=train id=14896
+[NAME] is playing with so much energy today. New year, new haircut, maybe he's feeling like it's an opportunity for a fresh start. 
+
+[mood] labels= split=train id=14967
+Well, I guess that explains my gf mood now 
+
+[mood] labels= split=train id=14967
+Well, I guess that explains my gf mood now 
+
+[mood] labels= split=train id=14967
+Well, I guess that explains my gf mood now 
+
+[mood] labels= split=train id=14967
+Well, I guess that explains my gf mood now 
+
+[tired] labels= split=train id=14998
+I'm just tired of feeling the same way everyday it's really grinding me down, that sucks about your summer school.
+
+[sad] labels= split=train id=15034
+somebody's sad lol lol
+
+[sad] labels= split=train id=15034
+somebody's sad lol lol
+
+[sad] labels= split=train id=15053
+>the satisfaction of knowing how bent out of shape you're getting What a sad existence.
+
+[sad] labels= split=train id=15053
+>the satisfaction of knowing how bent out of shape you're getting What a sad existence.
+
+[satisfaction] labels= split=train id=15053
+>the satisfaction of knowing how bent out of shape you're getting What a sad existence.
+
+[satisfaction] labels= split=train id=15053
+>the satisfaction of knowing how bent out of shape you're getting What a sad existence.
+
+[satisfaction] labels= split=train id=15053
+>the satisfaction of knowing how bent out of shape you're getting What a sad existence.
+
+[sad] labels= split=train id=15101
+You die > mom will be sad
+
+[sad] labels= split=train id=15101
+You die > mom will be sad
+
+[sad] labels= split=train id=15332
+I'm still so sad we never got to see [NAME] witnessing his miracle baby's first steps. ☹️
+
+[sad] labels= split=train id=15332
+I'm still so sad we never got to see [NAME] witnessing his miracle baby's first steps. ☹️
+
+[sad] labels= split=train id=15366
+These leaks are actually very credible. It's sad that you guys let Hate and anger blind you from enjoying the experience.
+
+[sad] labels= split=train id=15366
+These leaks are actually very credible. It's sad that you guys let Hate and anger blind you from enjoying the experience.
+
+[sad] labels= split=train id=15396
+Wow. Racists are really coming out of the woodwork to excuse and defend racism. How sad.
+
+[sad] labels= split=train id=15396
+Wow. Racists are really coming out of the woodwork to excuse and defend racism. How sad.
+
+[mood] labels= split=train id=15420
+This is a powerful mood.
+
+[mood] labels= split=train id=15420
+This is a powerful mood.
+
+[mood] labels= split=train id=15420
+This is a powerful mood.
+
+[mood] labels= split=train id=15420
+This is a powerful mood.
+
+[sad] labels= split=train id=15473
+sorry this happened to you. id be sad and angry too if i worked hard on something, and someone took that away
+
+[sad] labels= split=train id=15473
+sorry this happened to you. id be sad and angry too if i worked hard on something, and someone took that away
+
+[sad] labels= split=train id=15566
+It would be funny and sad if he gets heart complications again
+
+[sad] labels= split=train id=15566
+It would be funny and sad if he gets heart complications again
+
+[sad] labels= split=train id=15695
+Yes no one wants to believe my religion and how to make people happy so it makes me sad
+
+[sad] labels= split=train id=15695
+Yes no one wants to believe my religion and how to make people happy so it makes me sad
+
+[anxiety] labels= split=train id=15791
+FWIW I had a terrible series of experiences at CFA and would never recommend anyone with anxiety go there.
+
+[sad] labels= split=train id=15904
+I just get sad when I see people commenting on articles and videos about him that they think he's on drugs.
+
+[sad] labels= split=train id=15904
+I just get sad when I see people commenting on articles and videos about him that they think he's on drugs.
+
+[anxiety] labels= split=train id=15934
+I have pretty bad anxiety and have recently adopted two kittens. I definitely feel less anxious when I'm around them as they are such sweet animals.
+
+[sad] labels= split=train id=16240
+People really spend more than $10 in an app game? I mean an actual video game I can understand but that's just...sad
+
+[sad] labels= split=train id=16240
+People really spend more than $10 in an app game? I mean an actual video game I can understand but that's just...sad
+
+[sad] labels= split=train id=16302
+sad that the Euphoric tipbot is no more
+
+[sad] labels= split=train id=16302
+sad that the Euphoric tipbot is no more
+
+[sad] labels= split=train id=16545
+That's just sad if it's for a game
+
+[sad] labels= split=train id=16545
+That's just sad if it's for a game
+
+[sad] labels= split=train id=16570
+Friend of the younger sister of girl who was killed. She told me it was a bad acid trip. Very sad, family is holding a vigil tomorrow night. 
+
+[sad] labels= split=train id=16570
+Friend of the younger sister of girl who was killed. She told me it was a bad acid trip. Very sad, family is holding a vigil tomorrow night. 
+
+[sad] labels= split=train id=16930
+Your life must be miserable. That's sad somehow
+
+[sad] labels= split=train id=16930
+Your life must be miserable. That's sad somehow
+
+[strength] labels= split=train id=16936
+Sooooo much upper body strength. My GOD the muscles. He's positively rrrrrrrripped!!
+
+[strength] labels= split=train id=16936
+Sooooo much upper body strength. My GOD the muscles. He's positively rrrrrrrripped!!
+
+[sad] labels= split=train id=16960
+This is so sad. [NAME], play 'bitch lasagna'
+
+[sad] labels= split=train id=16960
+This is so sad. [NAME], play 'bitch lasagna'
+
+[sad] labels= split=train id=17008
+[NAME] did a YT vid and now everyone trying to be like him. Sad!
+
+[sad] labels= split=train id=17008
+[NAME] did a YT vid and now everyone trying to be like him. Sad!
+
+[sad] labels= split=train id=17025
+So Green Bay doesn't get him... I'd be sad for the kid.
+
+[sad] labels= split=train id=17025
+So Green Bay doesn't get him... I'd be sad for the kid.
+
+[sad] labels= split=train id=17072
+This is like the third repost of this. But yes, very sad indeed.
+
+[sad] labels= split=train id=17072
+This is like the third repost of this. But yes, very sad indeed.
+
+[energy] labels= split=train id=17176
+Can’t believe we’re letting [NAME] go. So much energy since he’s come on.
+
+[energy] labels= split=train id=17176
+Can’t believe we’re letting [NAME] go. So much energy since he’s come on.
+
+[energy] labels= split=train id=17176
+Can’t believe we’re letting [NAME] go. So much energy since he’s come on.
+
+[energy] labels= split=train id=17176
+Can’t believe we’re letting [NAME] go. So much energy since he’s come on.
+
+[sad] labels= split=train id=17200
+That's kind of sad to be honest.
+
+[sad] labels= split=train id=17200
+That's kind of sad to be honest.
+
+[sad] labels= split=train id=17235
+Sad... RIP
+
+[sad] labels= split=train id=17235
+Sad... RIP
+
+[sad] labels= split=train id=17292
+I agree. She seemed to truly love [NAME] . [NAME] loves the life [NAME] provides fir him. It’s a sad situation.
+
+[sad] labels= split=train id=17292
+I agree. She seemed to truly love [NAME] . [NAME] loves the life [NAME] provides fir him. It’s a sad situation.
+
+[sad] labels= split=train id=17313
+The fact this isn't a [NAME] Attorney at Law Gif about this makes me kinda sad.
+
+[sad] labels= split=train id=17313
+The fact this isn't a [NAME] Attorney at Law Gif about this makes me kinda sad.
+
+[height] labels= split=train id=17615
+Women can pick on a man's height but all hell breaks loose if you tell their make up is garbage and they might have a weight problem.
+
+[height] labels= split=train id=17615
+Women can pick on a man's height but all hell breaks loose if you tell their make up is garbage and they might have a weight problem.
+
+[energy] labels= split=train id=17627
+[NAME] consistently being the guy with most energy. We need him on the floor more.
+
+[energy] labels= split=train id=17627
+[NAME] consistently being the guy with most energy. We need him on the floor more.
+
+[energy] labels= split=train id=17627
+[NAME] consistently being the guy with most energy. We need him on the floor more.
+
+[energy] labels= split=train id=17627
+[NAME] consistently being the guy with most energy. We need him on the floor more.
+
+[libido] labels= split=train id=17673
+Huh...I always heard that libido decreasing after a few months is normal even for NTs.
+
+[libido] labels= split=train id=17673
+Huh...I always heard that libido decreasing after a few months is normal even for NTs.
+
+[libido] labels= split=train id=17673
+Huh...I always heard that libido decreasing after a few months is normal even for NTs.
+
+[sad] labels= split=train id=17787
+I'm pretty sure [NAME] was just joking. Not really sad cringe.
+
+[sad] labels= split=train id=17787
+I'm pretty sure [NAME] was just joking. Not really sad cringe.
+
+[anxiety] labels= split=train id=17804
+*Busy hands bring clean minds.* Keep busy, time will pass, and you will have less anxiety about being alone.
+
+[sad] labels= split=train id=17828
+Lol [NAME]. Everyone ignores me. This just sounds like something a child would say. Sad.
+
+[sad] labels= split=train id=17828
+Lol [NAME]. Everyone ignores me. This just sounds like something a child would say. Sad.
+
+[sad] labels= split=train id=17976
+It's so sad
+
+[sad] labels= split=train id=17976
+It's so sad
+
+[sad] labels= split=train id=18024
+All the things you've been thinking about, fangirls, make me sad.
+
+[sad] labels= split=train id=18024
+All the things you've been thinking about, fangirls, make me sad.
+
+[sad] labels= split=train id=18244
+That's really sad. I used to live not far from there and spent a lot of time in that park. Fished in those ponds many times.
+
+[sad] labels= split=train id=18244
+That's really sad. I used to live not far from there and spent a lot of time in that park. Fished in those ponds many times.
+
+[sad] labels= split=train id=18256
+"Sad" but "true" There you go I fixed it for you.
+
+[sad] labels= split=train id=18256
+"Sad" but "true" There you go I fixed it for you.
+
+[sad] labels= split=train id=18271
+Sad thing is, I wanted to, but I’m stupidly awkward...
+
+[sad] labels= split=train id=18271
+Sad thing is, I wanted to, but I’m stupidly awkward...
+
+[anxiety] labels= split=train id=18310
+Weird I'm short and have anxiety and depression and somehow I'm not an incel.
+
+[sad] labels= split=train id=18378
+[NAME] living in y’all heads rent free lol. It’s kinda sad ngl. EDIT: Thanks for proving my point, guys 😘😘😘
+
+[sad] labels= split=train id=18378
+[NAME] living in y’all heads rent free lol. It’s kinda sad ngl. EDIT: Thanks for proving my point, guys 😘😘😘
+
+[sad] labels= split=train id=18407
+I BELIEVE! I am sad that likely no one else will see it besides me...
+
+[sad] labels= split=train id=18407
+I BELIEVE! I am sad that likely no one else will see it besides me...
+
+[sad] labels= split=train id=18409
+This is such a lame idea. Instead of getting better and outplaying your opponent, you just want to make your opponent worse. Sad.
+
+[sad] labels= split=train id=18409
+This is such a lame idea. Instead of getting better and outplaying your opponent, you just want to make your opponent worse. Sad.
+
+[tired] labels= split=train id=18518
+Right there with you. 20 years together and suddenly its over. I'm tired of crying and hurting. We'll get through this.
+
+[sad] labels= split=train id=18523
+Very sad news for the man. Widespread travel disruption is expected for the evening commute
+
+[sad] labels= split=train id=18523
+Very sad news for the man. Widespread travel disruption is expected for the evening commute
+
+[sad] labels= split=train id=18602
+Makes me sad I'll never be with a beautiful woman.
+
+[sad] labels= split=train id=18602
+Makes me sad I'll never be with a beautiful woman.
+
+[sweating] labels= split=train id=18654
+Mine starts sweating and wondering why it’s so hot if the ac is on! 🤣😂
+
+[sad] labels= split=train id=18671
+It is sad they didn't have a 4k highspeed camera running on this... I feel like the world lost an amazing possibility
+
+[sad] labels= split=train id=18671
+It is sad they didn't have a 4k highspeed camera running on this... I feel like the world lost an amazing possibility
+
+[grumpy] labels= split=train id=18718
+He’s a grumpy boyo
+
+[grumpy] labels= split=train id=18718
+He’s a grumpy boyo
+
+[sad] labels= split=train id=18878
+That's really the only standard of your life, whether or not it makes liberals furious? Sad.
+
+[sad] labels= split=train id=18878
+That's really the only standard of your life, whether or not it makes liberals furious? Sad.
+
+[sad] labels= split=train id=19010
+I'm sad that you are against abortion. Can I drop my unwanted baby off at your door ?
+
+[sad] labels= split=train id=19010
+I'm sad that you are against abortion. Can I drop my unwanted baby off at your door ?
+
+[sweating] labels= split=train id=19075
+I scored 9 points... I totally love it that everybody is sweating ;D
+
+[sad] labels= split=train id=19564
+Nothing seems to intrigue or satisfy me only drugs and thats sad.
+
+[sad] labels= split=train id=19564
+Nothing seems to intrigue or satisfy me only drugs and thats sad.
+
+[energy] labels= split=train id=19698
+You are delusional if you think big oil and existing deeply entrenched and rich traditional energy can’t pay scientists more money than new renewable energy can.
+
+[energy] labels= split=train id=19698
+You are delusional if you think big oil and existing deeply entrenched and rich traditional energy can’t pay scientists more money than new renewable energy can.
+
+[energy] labels= split=train id=19698
+You are delusional if you think big oil and existing deeply entrenched and rich traditional energy can’t pay scientists more money than new renewable energy can.
+
+[energy] labels= split=train id=19698
+You are delusional if you think big oil and existing deeply entrenched and rich traditional energy can’t pay scientists more money than new renewable energy can.
+
+[tired] labels= split=train id=19973
+My hands are tired from typing “and everyone clapped”. That kid’s name though? [NAME]!
+
+[sad] labels= split=train id=19986
+You've been a sad boi around here for the last week straight, you'd do well to take a break.
+
+[sad] labels= split=train id=19986
+You've been a sad boi around here for the last week straight, you'd do well to take a break.
+
+[sad] labels= split=train id=19994
+True. You always gotta be careful. It's pretty sad actually. I feel used and abused.
+
+[sad] labels= split=train id=19994
+True. You always gotta be careful. It's pretty sad actually. I feel used and abused.
+
+[tired] labels= split=train id=20083
+If being tired doesn’t work. Ask for a BJ
+
+[sad] labels= split=train id=20225
+Someone will actually spend their money on this too, that’s the sad part
+
+[sad] labels= split=train id=20225
+Someone will actually spend their money on this too, that’s the sad part
+
+[sad] labels= split=train id=20260
+It's creepy but also sad that the guy was bathing in your fountain, hey at least it wasn't your pool. 
+
+[sad] labels= split=train id=20260
+It's creepy but also sad that the guy was bathing in your fountain, hey at least it wasn't your pool. 
+
+[sad] labels= split=train id=20313
+Orange fan sad. :(
+
+[sad] labels= split=train id=20313
+Orange fan sad. :(
+
+[sad] labels= split=train id=20341
+How many gallons do we need is my favorite so far. The sad part is that it was always pleasant.
+
+[sad] labels= split=train id=20341
+How many gallons do we need is my favorite so far. The sad part is that it was always pleasant.
+
+[sad] labels= split=train id=20481
+True Story! That's the sad Part of it...
+
+[sad] labels= split=train id=20481
+True Story! That's the sad Part of it...
+
+[anxiety] labels= split=train id=20492
+Hard. Social anxiety/general fear/uggoness kept me from actually getting dates and i was extremely awkward when I finally stopped anxie-puking to actually go on the date.
+
+[sad] labels= split=train id=20562
+I know he will be, I'm just nervous. His face is just going to be so sad 😢
+
+[sad] labels= split=train id=20562
+I know he will be, I'm just nervous. His face is just going to be so sad 😢
+
+[anxiety] labels= split=train id=20954
+Because the false accusation makes my anxiety worse
+
+[sad] labels= split=train id=20970
+That's so sad.
+
+[sad] labels= split=train id=20970
+That's so sad.
+
+[penetration] labels= split=train id=21004
+He's not surprised they spent money, he's wondering how much they paid to have this much penetration of their marketing.
+
+[energy] labels= split=train id=21115
+[NAME] is giving y'all some weird energy. I wish [NAME] would do that
+
+[energy] labels= split=train id=21115
+[NAME] is giving y'all some weird energy. I wish [NAME] would do that
+
+[energy] labels= split=train id=21115
+[NAME] is giving y'all some weird energy. I wish [NAME] would do that
+
+[energy] labels= split=train id=21115
+[NAME] is giving y'all some weird energy. I wish [NAME] would do that
+
+[sad] labels= split=train id=21140
+that number 3 is soooo familiar and sad.
+
+[sad] labels= split=train id=21140
+that number 3 is soooo familiar and sad.
+
+[sad] labels= split=train id=21171
+The sad thing is his is still glitched. Just a couple days ago I died from [NAME] lightsaber about 5 seconds after someone else killed him.
+
+[sad] labels= split=train id=21171
+The sad thing is his is still glitched. Just a couple days ago I died from [NAME] lightsaber about 5 seconds after someone else killed him.
+
+[sad] labels= split=train id=21229
+I'll second this notion. One of the first things to go is texting when I start getting sad.
+
+[sad] labels= split=train id=21229
+I'll second this notion. One of the first things to go is texting when I start getting sad.
+
+[sad] labels= split=train id=21267
+I was sad when the Hawks lost [NAME] but this Schottenheimer guy seems pretty cool.
+
+[sad] labels= split=train id=21267
+I was sad when the Hawks lost [NAME] but this Schottenheimer guy seems pretty cool.
+
+[anxiety] labels= split=train id=21313
+This post gave me incredible anxiety until I saw the back tires rolling sideways which was amazing.
+
+[satisfaction] labels= split=train id=21346
+Sorry, but this one is funny. Wake up at 3am jabbing with a needle, patient satisfaction survey, what could possibly go wrong??
+
+[satisfaction] labels= split=train id=21346
+Sorry, but this one is funny. Wake up at 3am jabbing with a needle, patient satisfaction survey, what could possibly go wrong??
+
+[satisfaction] labels= split=train id=21346
+Sorry, but this one is funny. Wake up at 3am jabbing with a needle, patient satisfaction survey, what could possibly go wrong??
+
+[sad] labels= split=train id=21653
+He looked so sad when he was talking about how it feels to be getting criticised 😢.
+
+[sad] labels= split=train id=21653
+He looked so sad when he was talking about how it feels to be getting criticised 😢.
+
+[energy] labels= split=train id=21757
+It probably won’t affect it at all other than you might have more energy.
+
+[energy] labels= split=train id=21757
+It probably won’t affect it at all other than you might have more energy.
+
+[energy] labels= split=train id=21757
+It probably won’t affect it at all other than you might have more energy.
+
+[energy] labels= split=train id=21757
+It probably won’t affect it at all other than you might have more energy.
+
+[height] labels= split=train id=21783
+Its almost as if everyone is too afraid to be politically incorrect to admit that height and race are a factor.
+
+[height] labels= split=train id=21783
+Its almost as if everyone is too afraid to be politically incorrect to admit that height and race are a factor.
+
+[energy] labels= split=train id=21831
+Not just bad, but actively shortens your life because you have finite energy 
+
+[energy] labels= split=train id=21831
+Not just bad, but actively shortens your life because you have finite energy 
+
+[energy] labels= split=train id=21831
+Not just bad, but actively shortens your life because you have finite energy 
+
+[energy] labels= split=train id=21831
+Not just bad, but actively shortens your life because you have finite energy 
+
+[sad] labels= split=train id=21849
+we have a "righty" complaining about "lefties" making up BS, while they make up BS... sad.
+
+[sad] labels= split=train id=21849
+we have a "righty" complaining about "lefties" making up BS, while they make up BS... sad.
+
+[sad] labels= split=train id=21953
+It’s so sad that i can play all these Zelda games on my 3DS but not my Switch. I have like 12 Zelda games on my 3DS
+
+[sad] labels= split=train id=21953
+It’s so sad that i can play all these Zelda games on my 3DS but not my Switch. I have like 12 Zelda games on my 3DS
+
+[tired] labels= split=train id=22035
+Could you make a ten hour version? I’m tired of having to replay this so often
+
+[anxiety] labels= split=train id=22075
+Or you just get rejected and then not murdered and your anxiety worsens until you can no longer approach women or even men.
+
+[sad] labels= split=train id=22199
+You have to find the right woman honestly and its sad that divorce is so punishing
+
+[sad] labels= split=train id=22199
+You have to find the right woman honestly and its sad that divorce is so punishing
+
+[sad] labels= split=train id=22235
+Such a sad way to think of life all because these people believe there's something greater than this.
+
+[sad] labels= split=train id=22235
+Such a sad way to think of life all because these people believe there's something greater than this.
+
+[sad] labels= split=train id=22625
+I'm afraid you're completely correct. Sad, but true.
+
+[sad] labels= split=train id=22625
+I'm afraid you're completely correct. Sad, but true.
+
+[sad] labels= split=train id=22811
+How sad that you think because [NAME] wants something we should no longer want it. Grow up you child. Life does not revolve around you or [NAME].
+
+[sad] labels= split=train id=22811
+How sad that you think because [NAME] wants something we should no longer want it. Grow up you child. Life does not revolve around you or [NAME].
+
+[anxiety] labels= split=train id=22818
+she said (i swear to [NAME]) her doctors told her she wasnt bipolar and has "anxiety caused by other people" 
+
+[anxiety] labels= split=train id=22900
+Probably just do the job and try to work out your anxiety rather than taking the path of least resistance which offers no character growth. Best of luck
+
+[energy] labels= split=train id=22992
+Yes, I dont trust people very much so I tend to push them away, and I feel like I dont have enough energy to keep up with people 
+
+[energy] labels= split=train id=22992
+Yes, I dont trust people very much so I tend to push them away, and I feel like I dont have enough energy to keep up with people 
+
+[energy] labels= split=train id=22992
+Yes, I dont trust people very much so I tend to push them away, and I feel like I dont have enough energy to keep up with people 
+
+[energy] labels= split=train id=22992
+Yes, I dont trust people very much so I tend to push them away, and I feel like I dont have enough energy to keep up with people 
+
+[sad] labels= split=train id=23073
+One of my best friends got caught up in Primerica, it was both sad and hilarious 
+
+[sad] labels= split=train id=23073
+One of my best friends got caught up in Primerica, it was both sad and hilarious 
+
+[sad] labels= split=train id=23170
+The sad part is that we are not trying to tank
+
+[sad] labels= split=train id=23170
+The sad part is that we are not trying to tank
+
+[sad] labels= split=train id=23415
+This made me incredibly happy and incredibly sad. Sometimes this universe robs us of the wrong people.
+
+[sad] labels= split=train id=23415
+This made me incredibly happy and incredibly sad. Sometimes this universe robs us of the wrong people.
+
+[sad] labels= split=train id=23443
+If we don’t get [NAME], [NAME], [NAME], or [NAME]..... I’ll be so sad 
+
+[sad] labels= split=train id=23443
+If we don’t get [NAME], [NAME], [NAME], or [NAME]..... I’ll be so sad 
+
+[sad] labels= split=train id=23501
+See as sad as I am I can’t hate anyone here.
+
+[sad] labels= split=train id=23501
+See as sad as I am I can’t hate anyone here.
+
+[sad] labels= split=train id=23517
+Alexa play Sad!
+
+[sad] labels= split=train id=23517
+Alexa play Sad!
+
+[sad] labels= split=train id=23535
+Bingo! “I tried but those dirty libtards wouldn’t fund it. Sad.” Will be involved somewhere
+
+[sad] labels= split=train id=23535
+Bingo! “I tried but those dirty libtards wouldn’t fund it. Sad.” Will be involved somewhere
+
+[anxiety] labels= split=train id=23563
+Intrusive thoughts happen in anxiety disorders, although I'm not sure if that's what you're describing here
+
+[sad] labels= split=train id=23645
+kid still sad after eating food, because it WASN'T A HAPPY MEAL.
+
+[sad] labels= split=train id=23645
+kid still sad after eating food, because it WASN'T A HAPPY MEAL.
+
+[sad] labels= split=train id=23695
+i can change mood for no reason on seconds. Im happy ish. To sad or frustrated to anger and rage and not always in that order.
+
+[sad] labels= split=train id=23695
+i can change mood for no reason on seconds. Im happy ish. To sad or frustrated to anger and rage and not always in that order.
+
+[mood] labels= split=train id=23695
+i can change mood for no reason on seconds. Im happy ish. To sad or frustrated to anger and rage and not always in that order.
+
+[mood] labels= split=train id=23695
+i can change mood for no reason on seconds. Im happy ish. To sad or frustrated to anger and rage and not always in that order.
+
+[mood] labels= split=train id=23695
+i can change mood for no reason on seconds. Im happy ish. To sad or frustrated to anger and rage and not always in that order.
+
+[mood] labels= split=train id=23695
+i can change mood for no reason on seconds. Im happy ish. To sad or frustrated to anger and rage and not always in that order.
+
+[strength] labels= split=train id=23741
+[NAME] over there kneeling in front of a picture of [NAME] riding a dinosaur thanking his savior for giving him the strength to be conniving little twat
+
+[strength] labels= split=train id=23741
+[NAME] over there kneeling in front of a picture of [NAME] riding a dinosaur thanking his savior for giving him the strength to be conniving little twat
+
+[sad] labels= split=train id=23745
+Man I'm sad, he was my favorite [NAME] when he left ([NAME] heir apparent) and I was ecstatic when he returned
+
+[sad] labels= split=train id=23745
+Man I'm sad, he was my favorite [NAME] when he left ([NAME] heir apparent) and I was ecstatic when he returned
+
+[sad] labels= split=train id=23766
+Kinda sad if that's what you got out of the ad lol
+
+[sad] labels= split=train id=23766
+Kinda sad if that's what you got out of the ad lol
+
+[sad] labels= split=train id=23903
+Wow, now I am sad
+
+[sad] labels= split=train id=23903
+Wow, now I am sad
+
+[sad] labels= split=train id=23914
+Lol, pretty sad that even in your fake revenge fantasies you come across as a huge asshole.
+
+[sad] labels= split=train id=23914
+Lol, pretty sad that even in your fake revenge fantasies you come across as a huge asshole.
+
+[sad] labels= split=train id=24019
+This is the sad truth for the exact reason he mentioned, they want a short fix to avoid doing this type of hard work.
+
+[sad] labels= split=train id=24019
+This is the sad truth for the exact reason he mentioned, they want a short fix to avoid doing this type of hard work.
+
+[sad] labels= split=train id=24185
+as a woman, I can tell ya it’s not uncommon for that to happen, haha. [NAME] make it extra sad though.
+
+[sad] labels= split=train id=24185
+as a woman, I can tell ya it’s not uncommon for that to happen, haha. [NAME] make it extra sad though.
+
+[anxiety] labels= split=train id=24217
+I am on month 9 post discard. The anxiety has lifted tremendously, and the depression is still looming but not as bad. 
+
+[sad] labels= split=train id=24373
+What's really sad is that [NAME] wants to outlaw gay dads. I'm literally shaking.
+
+[sad] labels= split=train id=24373
+What's really sad is that [NAME] wants to outlaw gay dads. I'm literally shaking.
+
+[orgasm] labels= split=train id=24403
+Do you orgasm when you’re on your own? Are you a virgin?
+
+[sad] labels= split=train id=24431
+Lol now that I see it put in this way, it's even more sad. Thanks :(
+
+[sad] labels= split=train id=24431
+Lol now that I see it put in this way, it's even more sad. Thanks :(
+
+[sad] labels= split=train id=24471
+Sad if step kids are nice children I am sorry they are in this dynamic
+
+[sad] labels= split=train id=24471
+Sad if step kids are nice children I am sorry they are in this dynamic
+
+[sad] labels= split=train id=24499
+Eh, loser. It’s sad how some people don’t care about their relatives.
+
+[sad] labels= split=train id=24499
+Eh, loser. It’s sad how some people don’t care about their relatives.
+
+[sad] labels= split=train id=24521
+Im all for putting rapists in jail, and honestly i dont like [NAME] politically but they tried so hard to taint an innocent man in jail and thats sad
+
+[sad] labels= split=train id=24521
+Im all for putting rapists in jail, and honestly i dont like [NAME] politically but they tried so hard to taint an innocent man in jail and thats sad
+
+[tired] labels= split=train id=24523
+I knoooow like why do people exist just to make things worse I’m so tired of all these alts/ weird question askers
+
+[sad] labels= split=train id=24551
+Beautiful yet sad that his relationship ended in ‘45 the same way most of mine do...with cheating
+
+[sad] labels= split=train id=24551
+Beautiful yet sad that his relationship ended in ‘45 the same way most of mine do...with cheating
+
+[sad] labels= split=train id=24607
+Even if you think me and him aren't soulmates, youve gotta be pretty sad to think soulmates don't exist. 
+
+[sad] labels= split=train id=24607
+Even if you think me and him aren't soulmates, youve gotta be pretty sad to think soulmates don't exist. 
+
+[sad] labels= split=train id=24637
+This makes me so sad :’( Well done OP!
+
+[sad] labels= split=train id=24637
+This makes me so sad :’( Well done OP!
+
+[sad] labels= split=train id=24702
+Sorry man [NAME] doesnt care about hard working [NAME]. Sad
+
+[sad] labels= split=train id=24702
+Sorry man [NAME] doesnt care about hard working [NAME]. Sad
+
+[sad] labels= split=train id=24884
+Sad for the people who contracted measles. Angry at the parents who didn't vaccinate their kids against measles.
+
+[sad] labels= split=train id=24884
+Sad for the people who contracted measles. Angry at the parents who didn't vaccinate their kids against measles.
+
+[sad] labels= split=train id=24940
+this video makes me sad
+
+[sad] labels= split=train id=24940
+this video makes me sad
+
+[anxiety] labels= split=train id=24977
+Psychiatrist and the right meds help. Just something to normalize those high anxiety days
+
+[sad] labels= split=train id=25006
+Oh that's so sad
+
+[sad] labels= split=train id=25006
+Oh that's so sad
+
+[sad] labels= split=train id=25033
+I get your point. But really, the low prices is just a trap to get more men in lookout for action. It's sad.
+
+[sad] labels= split=train id=25033
+I get your point. But really, the low prices is just a trap to get more men in lookout for action. It's sad.
+
+[sad] labels= split=train id=25208
+But you’re so so loved! Please find some to talk to! I hope you can overcome this sad part of life.
+
+[sad] labels= split=train id=25208
+But you’re so so loved! Please find some to talk to! I hope you can overcome this sad part of life.
+
+[sad] labels= split=train id=25216
+Very sad. It’s the child I feel for most.
+
+[sad] labels= split=train id=25216
+Very sad. It’s the child I feel for most.
+
+[anxiety] labels= split=train id=25430
+That's so good to hear and I know stress/anxiety is a factor but idk how to get rid of it, glad for you though.
+
+[sad] labels= split=train id=25668
+Im really sad, and there is alot more goin on but i dont know how to tell it.
+
+[sad] labels= split=train id=25668
+Im really sad, and there is alot more goin on but i dont know how to tell it.
+
+[sad] labels= split=train id=25708
+I'm a parent and am telling you that dude is sad and insecure as fuck.
+
+[sad] labels= split=train id=25708
+I'm a parent and am telling you that dude is sad and insecure as fuck.
+
+[sad] labels= split=train id=25730
+Very sad. People like this are ruining Aus.
+
+[sad] labels= split=train id=25730
+Very sad. People like this are ruining Aus.
+
+[anxiety] labels= split=train id=25890
+And every [NAME] on Reddit has an anxiety attack...
+
+[sad] labels= split=train id=25922
+as a Ducks fan, this thread makes me sad...
+
+[sad] labels= split=train id=25922
+as a Ducks fan, this thread makes me sad...
+
+[enjoyment] labels= split=train id=26172
+> that hurts my enjoyment of society. Then what could you possibly mean by this?
+
+[tired] labels= split=train id=26187
+Bring on the mosquito to destroy those tired legs
+
+[sad] labels= split=train id=26283
+I was sad to see emails from multiple downtown restaurants offering free delivery through grubhub. Deliveries are going to be brutal.
+
+[sad] labels= split=train id=26283
+I was sad to see emails from multiple downtown restaurants offering free delivery through grubhub. Deliveries are going to be brutal.
+
+[sad] labels= split=train id=26383
+One of the most reasonable comments I've ever read on the site (sad, right?). Salute to you
+
+[sad] labels= split=train id=26383
+One of the most reasonable comments I've ever read on the site (sad, right?). Salute to you
+
+[sad] labels= split=train id=26572
+I know! Or close the door of the room where the baby is sleeping? It's too sad for the poor thing to be locked inside.
+
+[sad] labels= split=train id=26572
+I know! Or close the door of the room where the baby is sleeping? It's too sad for the poor thing to be locked inside.
+
+[anxiety] labels= split=train id=26672
+I have this too, so don't worry. We are not crazy. Just regular humans who happen to have an anxiety issue. 
+
+[sad] labels= split=train id=26680
+I should have known what awaits behind the oilymama hashtag and yet I searched. Now I’m sad.
+
+[sad] labels= split=train id=26680
+I should have known what awaits behind the oilymama hashtag and yet I searched. Now I’m sad.
+
+[sad] labels= split=train id=26805
+So sad—but not surprising. It would be interesting to know if there’s a difference between countries with and without socialised health care.
+
+[sad] labels= split=train id=26805
+So sad—but not surprising. It would be interesting to know if there’s a difference between countries with and without socialised health care.
+
+[sad] labels= split=train id=26864
+Thank you for saying that I just haven’t felt right and I’m so sad constantly
+
+[sad] labels= split=train id=26864
+Thank you for saying that I just haven’t felt right and I’m so sad constantly
+
+[sad] labels= split=train id=26874
+Nah it's not that, [NAME] is just boring and sad
+
+[sad] labels= split=train id=26874
+Nah it's not that, [NAME] is just boring and sad
+
+[grumpy] labels= split=train id=26968
+[NAME] I'd love it just to see grumpy writers complain.
+
+[grumpy] labels= split=train id=26968
+[NAME] I'd love it just to see grumpy writers complain.
+
+[sad] labels= split=train id=27355
+For Citynews dot ca that is really sad.
+
+[sad] labels= split=train id=27355
+For Citynews dot ca that is really sad.
+
+[sad] labels= split=train id=27372
+A sad amount of time was spent making this.
+
+[sad] labels= split=train id=27372
+A sad amount of time was spent making this.
+
+[sad] labels= split=train id=27586
+Is the Queen movie bad? That makes me sad. I'm still watch it anyway.
+
+[sad] labels= split=train id=27586
+Is the Queen movie bad? That makes me sad. I'm still watch it anyway.
+
+[sad] labels= split=train id=27602
+I was so sad when they took SG1 off of Netflix. I guess it’s on Prime now? I need to rewatch that show.
+
+[sad] labels= split=train id=27602
+I was so sad when they took SG1 off of Netflix. I guess it’s on Prime now? I need to rewatch that show.
+
+[sad] labels= split=train id=27716
+Honestly? No. I just feel sad for you guys
+
+[sad] labels= split=train id=27716
+Honestly? No. I just feel sad for you guys
+
+[nervousness] labels= split=train id=27722
+When you feel nervousness, tell yourself it's just excitement. Makes a world of difference. :)
+
+[sad] labels= split=train id=27817
+Some people have no shame or sense of self-worth. It’s sad.
+
+[sad] labels= split=train id=27817
+Some people have no shame or sense of self-worth. It’s sad.
+
+[anxiety] labels= split=train id=27966
+Oh, their theme gives me anxiety.
+
+[energy] labels= split=train id=28028
+I miss seeing us have desperate intense energy. Maybe next game
+
+[energy] labels= split=train id=28028
+I miss seeing us have desperate intense energy. Maybe next game
+
+[energy] labels= split=train id=28028
+I miss seeing us have desperate intense energy. Maybe next game
+
+[energy] labels= split=train id=28028
+I miss seeing us have desperate intense energy. Maybe next game
+
+[anxiety] labels= split=train id=28097
+Jokes on you. I have anxiety so I do this a lot
+
+[sad] labels= split=train id=28149
+I used to do the same exact thing! Now I love the fat on my steak and watching them cut it off in japanese restaurants makes me sad.
+
+[sad] labels= split=train id=28149
+I used to do the same exact thing! Now I love the fat on my steak and watching them cut it off in japanese restaurants makes me sad.
+
+[tired] labels= split=train id=28179
+I feel like this happens to me every single time I shop there. I dont go in anymore because I'm tired of being followed.
+
+[orgasm] labels= split=train id=28270
+Tbf having an orgasm at his age could cause one.
+
+[sad] labels= split=train id=28305
+You know we can see your post history, right? Orange fan sad.
+
+[sad] labels= split=train id=28305
+You know we can see your post history, right? Orange fan sad.
+
+[sad] labels= split=train id=28467
+Yeah people used it as precedence. That’s very sad. What’s your point? What abhorrent treatment?
+
+[sad] labels= split=train id=28467
+Yeah people used it as precedence. That’s very sad. What’s your point? What abhorrent treatment?
+
+[mood] labels= split=train id=28509
+Ugh yeah it’s really tiring. I’m in a public place right now and just had like, 3 mood swings. 
+
+[mood] labels= split=train id=28509
+Ugh yeah it’s really tiring. I’m in a public place right now and just had like, 3 mood swings. 
+
+[mood] labels= split=train id=28509
+Ugh yeah it’s really tiring. I’m in a public place right now and just had like, 3 mood swings. 
+
+[mood] labels= split=train id=28509
+Ugh yeah it’s really tiring. I’m in a public place right now and just had like, 3 mood swings. 
+
+[mood] labels= split=train id=28533
+she’s a huge mood
+
+[mood] labels= split=train id=28533
+she’s a huge mood
+
+[mood] labels= split=train id=28533
+she’s a huge mood
+
+[mood] labels= split=train id=28533
+she’s a huge mood
+
+[sad] labels= split=train id=28643
+Yeah, I was very sad to read that!
+
+[sad] labels= split=train id=28643
+Yeah, I was very sad to read that!
+
+[sad] labels= split=train id=28748
+This made me sad
+
+[sad] labels= split=train id=28748
+This made me sad
+
+[sad] labels= split=train id=28842
+I high key thought this same thing then it was sad boy hours when I broke things up
+
+[sad] labels= split=train id=28842
+I high key thought this same thing then it was sad boy hours when I broke things up
+
+[sad] labels= split=train id=29041
+how sad you feel about this makes me sadder than the actual story lol. you sound like a really kind person.
+
+[sad] labels= split=train id=29041
+how sad you feel about this makes me sadder than the actual story lol. you sound like a really kind person.
+
+[tired] labels= split=train id=29131
+> I’m tired of being realistic and open minded. Me too! Now it is all about being selfish and aloof. Not even kidding.
+
+[tired] labels= split=train id=29173
+Honestly just tired of this shit, people who'd rather see us tank than push for playoffs. Literally want us to be the fucking Suns.
+
+[sad] labels= split=train id=29260
+Not all of us young teens eat tide pods Mom would be sad
+
+[sad] labels= split=train id=29260
+Not all of us young teens eat tide pods Mom would be sad
+
+[sad] labels= split=train id=29653
+I'm so sad.
+
+[sad] labels= split=train id=29653
+I'm so sad.
+
+[tired] labels= split=train id=29742
+Anyone else want a TE early? Tired of fucking around with the position even if [NAME] did look pretty mean for a few weeks
+
+[anxiety] labels= split=train id=29766
+Dont worry, as you get older that will stop working or possibly even cause anxiety. 
+
+[sad] labels= split=train id=29771
+I'm sad that I gave that shit article a page view.
+
+[sad] labels= split=train id=29771
+I'm sad that I gave that shit article a page view.
+
+[strength] labels= split=train id=29799
+I mean... It also has Strength as a "fantasy power"? I don't get this joke 
+
+[strength] labels= split=train id=29799
+I mean... It also has Strength as a "fantasy power"? I don't get this joke 
+
+[orgasm] labels= split=train id=29814
+Could be tripping or having an orgasm from dry humping, but it's pretty clear that they aren't full on having sex
+
+[sad] labels= split=train id=29891
+Banner price is down to 100k donuts. And I still don't have enough..... (sad face)
+
+[sad] labels= split=train id=29891
+Banner price is down to 100k donuts. And I still don't have enough..... (sad face)
+
+[sad] labels= split=train id=30113
+Topic change #4. This is getting sad.
+
+[sad] labels= split=train id=30113
+Topic change #4. This is getting sad.
+
+[sad] labels= split=train id=30181
+I mean she’s barely into college so she’s only maybe 18-20 but to be this oblivious is pretty sad.
+
+[sad] labels= split=train id=30181
+I mean she’s barely into college so she’s only maybe 18-20 but to be this oblivious is pretty sad.
+
+[tired] labels= split=train id=30727
+It's like how I feel after I eat McDonalds. Satisfied, disappointed, sad, full, tired. 
+
+[sad] labels= split=train id=30727
+It's like how I feel after I eat McDonalds. Satisfied, disappointed, sad, full, tired. 
+
+[sad] labels= split=train id=30727
+It's like how I feel after I eat McDonalds. Satisfied, disappointed, sad, full, tired. 
+
+[energy] labels= split=train id=30818
+He's controversial from what I know. A canny leader to be sure, but his coziness with Dominion Energy has unnerved some [NAME]. 
+
+[energy] labels= split=train id=30818
+He's controversial from what I know. A canny leader to be sure, but his coziness with Dominion Energy has unnerved some [NAME]. 
+
+[energy] labels= split=train id=30818
+He's controversial from what I know. A canny leader to be sure, but his coziness with Dominion Energy has unnerved some [NAME]. 
+
+[energy] labels= split=train id=30818
+He's controversial from what I know. A canny leader to be sure, but his coziness with Dominion Energy has unnerved some [NAME]. 
+
+[tired] labels= split=train id=30877
+Yep. I’m an introvert with a big group of friends. I get tired even after spending just an hour with friends sometimes.
+
+[tired] labels= split=train id=30938
+Way too tired for work today so taking the day off. Feels pretty great!
+
+[energy] labels= split=train id=30969
+Yeah it's takes some time but use all that negative energy and focus on yourself.
+
+[energy] labels= split=train id=30969
+Yeah it's takes some time but use all that negative energy and focus on yourself.
+
+[energy] labels= split=train id=30969
+Yeah it's takes some time but use all that negative energy and focus on yourself.
+
+[energy] labels= split=train id=30969
+Yeah it's takes some time but use all that negative energy and focus on yourself.
+
+[energy] labels= split=train id=31066
+[NAME] pretty famous for that. I love the show but there is an entire episode that is blatant anti-nuclear energy fear mongering.
+
+[energy] labels= split=train id=31066
+[NAME] pretty famous for that. I love the show but there is an entire episode that is blatant anti-nuclear energy fear mongering.
+
+[energy] labels= split=train id=31066
+[NAME] pretty famous for that. I love the show but there is an entire episode that is blatant anti-nuclear energy fear mongering.
+
+[energy] labels= split=train id=31066
+[NAME] pretty famous for that. I love the show but there is an entire episode that is blatant anti-nuclear energy fear mongering.
+
+[energy] labels= split=train id=31163
+Her bi energy is so strong tbh
+
+[energy] labels= split=train id=31163
+Her bi energy is so strong tbh
+
+[energy] labels= split=train id=31163
+Her bi energy is so strong tbh
+
+[energy] labels= split=train id=31163
+Her bi energy is so strong tbh
+
+[energy] labels= split=train id=31189
+For now maybe We can however solve the energy crisis with money, the migrant crisis not so much.
+
+[energy] labels= split=train id=31189
+For now maybe We can however solve the energy crisis with money, the migrant crisis not so much.
+
+[energy] labels= split=train id=31189
+For now maybe We can however solve the energy crisis with money, the migrant crisis not so much.
+
+[energy] labels= split=train id=31189
+For now maybe We can however solve the energy crisis with money, the migrant crisis not so much.
+
+[anxiety] labels= split=train id=31260
+yes. i hate being bored. it's the cause of much of my depression and anxiety.
+
+[tired] labels= split=train id=31295
+No, but you wouldn't believe what I'm not tired of seeing...
+
+[libido] labels= split=train id=31489
+Ive initiated with men I dont have ahigh attraction to. I have a high libido. Your post seems overly simplistic of gender.
+
+[libido] labels= split=train id=31489
+Ive initiated with men I dont have ahigh attraction to. I have a high libido. Your post seems overly simplistic of gender.
+
+[libido] labels= split=train id=31489
+Ive initiated with men I dont have ahigh attraction to. I have a high libido. Your post seems overly simplistic of gender.
+
+[tired] labels= split=train id=31550
+She really does and She really isn't! She's an old, tired ass, busted up, con artist hoe!
+
+[sad] labels= split=train id=31627
+Agreed. Sadly, it's not uncommon enough, and it makes me sad because of the implications about mutual respect or the lack thereof.
+
+[sad] labels= split=train id=31627
+Agreed. Sadly, it's not uncommon enough, and it makes me sad because of the implications about mutual respect or the lack thereof.
+
+[libido] labels= split=train id=31759
+As a high libido female, I feel the same with posts from males. It's slightly relieving to know someone else struggles the same way.
+
+[libido] labels= split=train id=31759
+As a high libido female, I feel the same with posts from males. It's slightly relieving to know someone else struggles the same way.
+
+[libido] labels= split=train id=31759
+As a high libido female, I feel the same with posts from males. It's slightly relieving to know someone else struggles the same way.
+
+[sad] labels= split=train id=31761
+You are a sad person
+
+[sad] labels= split=train id=31761
+You are a sad person
+
+[anxiety] labels= split=train id=31766
+I'm the opposite. I love spending time with friends but initiating it always gives me anxiety, so I generally wait for them to do something.
+
+[sad] labels= split=train id=31847
+I know and that made me sad!
+
+[sad] labels= split=train id=31847
+I know and that made me sad!
+
+[sad] labels= split=train id=31874
+Depression is being sad when there's no reason to be. Losing two ws back to back now that's a reason to be sad
+
+[sad] labels= split=train id=31874
+Depression is being sad when there's no reason to be. Losing two ws back to back now that's a reason to be sad
+
+[sad] labels= split=train id=32074
+Damn it. Don't mention [NAME]. Just makes me sad thinking what could have been.
+
+[sad] labels= split=train id=32074
+Damn it. Don't mention [NAME]. Just makes me sad thinking what could have been.
+
+[sad] labels= split=train id=32448
+Nah, substance abuse is sad, period. 
+
+[sad] labels= split=train id=32448
+Nah, substance abuse is sad, period. 
+
+[sad] labels= split=train id=32901
+You lost everything. So sad. Lots of lies from you. Next time do better. I love this. Friend. :)
+
+[sad] labels= split=train id=32901
+You lost everything. So sad. Lots of lies from you. Next time do better. I love this. Friend. :)
+
+[anxiety] labels= split=train id=32997
+This gave me ultimate anxiety
+
+[sad] labels= split=train id=33028
+Cant you tell how sad she is from her face?
+
+[sad] labels= split=train id=33028
+Cant you tell how sad she is from her face?
+
+[sad] labels= split=train id=33044
+That’s sad, although I’m aware they historically haven’t been weaned off of authoritarianism.
+
+[sad] labels= split=train id=33044
+That’s sad, although I’m aware they historically haven’t been weaned off of authoritarianism.
+
+[anxiety] labels= split=train id=33072
+This gives me anxiety and heartburn just looking at it!
+
+[sad] labels= split=train id=33098
+Marginal taxes was taught in my high school economic literacy class, it's so sad that so many people don't even understand the basics of our tax system 
+
+[sad] labels= split=train id=33098
+Marginal taxes was taught in my high school economic literacy class, it's so sad that so many people don't even understand the basics of our tax system 
+
+[tired] labels= split=train id=33279
+Tired of watching [NAME] choke, hope she's better in the deciding doubles 
+
+[sad] labels= split=train id=33370
+I really like the hot pot at Lucky Bamboo. Their dim sum made me sad.
+
+[sad] labels= split=train id=33370
+I really like the hot pot at Lucky Bamboo. Their dim sum made me sad.
+
+[anxiety] labels= split=train id=33389
+I'm 25 and I still don't have a license. I'm terrified of driving and get anxiety every time I'm behind the wheel.
+
+[anxiety] labels= split=train id=33415
+Thing is...it's the media the masses take in that is driving this anxiety [NAME] or AP reader isn't falling for this
+
+[sad] labels= split=train id=33422
+Totally fair. I would be sad in your situation. :( I hope you find it. You're not wrong to want those things!
+
+[sad] labels= split=train id=33422
+Totally fair. I would be sad in your situation. :( I hope you find it. You're not wrong to want those things!
+
+[anxiety] labels= split=train id=33464
+Acne scars unfortunately and also out of anxiety I tend to pick at my skin.
+
+[energy] labels= split=train id=33580
+One time at the moment, but I did feel so full of energy after.
+
+[energy] labels= split=train id=33580
+One time at the moment, but I did feel so full of energy after.
+
+[energy] labels= split=train id=33580
+One time at the moment, but I did feel so full of energy after.
+
+[energy] labels= split=train id=33580
+One time at the moment, but I did feel so full of energy after.
+
+[well-being] labels= split=train id=33729
+How ignorant of to care about the safety and well-being of others! Shame!
+
+[sad] labels= split=train id=33822
+Sad because you don't get any women?
+
+[sad] labels= split=train id=33822
+Sad because you don't get any women?
+
+[sad] labels= split=train id=33918
+I never used the word mean. Chill. I said weak and it is. Its sad aswell.
+
+[sad] labels= split=train id=33918
+I never used the word mean. Chill. I said weak and it is. Its sad aswell.
+
+[sad] labels= split=train id=33947
+Sad part is there’s Flames fans that think this is true
+
+[sad] labels= split=train id=33947
+Sad part is there’s Flames fans that think this is true
+
+[sad] labels= split=train id=33970
+If many people truly see that as a consequence, I'd suggest SD's public [NAME] needs some work. Sad.
+
+[sad] labels= split=train id=33970
+If many people truly see that as a consequence, I'd suggest SD's public [NAME] needs some work. Sad.
+
+[sad] labels= split=train id=34028
+A mix of useful idiots and active grifters. It's a sad sign of our culture that these people make a living this way.
+
+[sad] labels= split=train id=34028
+A mix of useful idiots and active grifters. It's a sad sign of our culture that these people make a living this way.
+
+[sad] labels= split=train id=34089
+Everyone is sad on this sub dont take it personally if you don't get any replies.
+
+[sad] labels= split=train id=34089
+Everyone is sad on this sub dont take it personally if you don't get any replies.
+
+[sad] labels= split=train id=34131
+i’m running, hiding & avoiding this man. poor girl. her story is a sad one 
+
+[sad] labels= split=train id=34131
+i’m running, hiding & avoiding this man. poor girl. her story is a sad one 
+
+[endurance] labels= split=train id=34177
+Thanks, I'd never heard this information. Only "humans have the best endurance"
+
+[endurance] labels= split=train id=34177
+Thanks, I'd never heard this information. Only "humans have the best endurance"
+
+[energy] labels= split=train id=34243
+Add a _little_ sugar to the water when you feed downed bees. Acts like artificial nectar and gives them enough energy to get going again.
+
+[energy] labels= split=train id=34243
+Add a _little_ sugar to the water when you feed downed bees. Acts like artificial nectar and gives them enough energy to get going again.
+
+[energy] labels= split=train id=34243
+Add a _little_ sugar to the water when you feed downed bees. Acts like artificial nectar and gives them enough energy to get going again.
+
+[energy] labels= split=train id=34243
+Add a _little_ sugar to the water when you feed downed bees. Acts like artificial nectar and gives them enough energy to get going again.
+
+[energy] labels= split=train id=34267
+I couldn't muster up the energy to read through it all. They're on a different level, and it's not a compliment.
+
+[energy] labels= split=train id=34267
+I couldn't muster up the energy to read through it all. They're on a different level, and it's not a compliment.
+
+[energy] labels= split=train id=34267
+I couldn't muster up the energy to read through it all. They're on a different level, and it's not a compliment.
+
+[energy] labels= split=train id=34267
+I couldn't muster up the energy to read through it all. They're on a different level, and it's not a compliment.
+
+[sad] labels= split=train id=34270
+Must be sad that you waste your time idolizing "Pros" and being a absolute poser in front of your freinds 
+
+[sad] labels= split=train id=34270
+Must be sad that you waste your time idolizing "Pros" and being a absolute poser in front of your freinds 
+
+[sad] labels= split=train id=34398
+Hey, it's good of you to do this, she may be sad but in the end it will be better for her. Proud of you!
+
+[sad] labels= split=train id=34398
+Hey, it's good of you to do this, she may be sad but in the end it will be better for her. Proud of you!
+
+[tired] labels= split=train id=34400
+I've been at work all night, Im just tired af
+
+[tired] labels= split=train id=34404
+Virtually no happiness anymore, exhausted with trying, meds not working properly and just tired of it all.
+
+[sad] labels= split=train id=34636
+They’re honestly a cult at this point. It’s not just sad, but incredibly scary.
+
+[sad] labels= split=train id=34636
+They’re honestly a cult at this point. It’s not just sad, but incredibly scary.
+
+[sad] labels= split=train id=34812
+This is so sad. #playdespacito
+
+[sad] labels= split=train id=34812
+This is so sad. #playdespacito
+
+[tired] labels= split=train id=35064
+Please just give [NAME] some rest. He looks tired.
+
+[sad] labels= split=train id=35098
+What country? That sounds like a sad septic system. I'm sorry.
+
+[sad] labels= split=train id=35098
+What country? That sounds like a sad septic system. I'm sorry.
+
+[sad] labels= split=train id=35117
+Sometimes though, I wish I could be sad for a whole week; that would be a blessing. 
+
+[sad] labels= split=train id=35117
+Sometimes though, I wish I could be sad for a whole week; that would be a blessing. 
+
+[energy] labels= split=train id=35131
+Why does your flair say "Wasted Energy"? 
+
+[energy] labels= split=train id=35131
+Why does your flair say "Wasted Energy"? 
+
+[energy] labels= split=train id=35131
+Why does your flair say "Wasted Energy"? 
+
+[energy] labels= split=train id=35131
+Why does your flair say "Wasted Energy"? 
+
+[sad] labels= split=train id=35270
+> Is it weird to have more sympathy for animals than humans? It's frighteningly common, so not *weird*, but it's definitely sad
+
+[sad] labels= split=train id=35270
+> Is it weird to have more sympathy for animals than humans? It's frighteningly common, so not *weird*, but it's definitely sad
+
+[burnt out] labels= split=train id=35469
+Just when I thought I was burnt out on comic book movies! Hell yes, let’s go! 
+
+[penetration] labels= split=train id=35596
+There has been the odd occasion without condoms. No deep penetration, but never the less. Some. I feel awful.
+
+[mood] labels= split=train id=35644
+This story puts me in the mood for a jolly rancher
+
+[mood] labels= split=train id=35644
+This story puts me in the mood for a jolly rancher
+
+[mood] labels= split=train id=35644
+This story puts me in the mood for a jolly rancher
+
+[mood] labels= split=train id=35644
+This story puts me in the mood for a jolly rancher
+
+[sad] labels= split=train id=35670
+Yea feel sad for that kid, that native guy is an anti [NAME] activist who destroyed his life 
+
+[sad] labels= split=train id=35670
+Yea feel sad for that kid, that native guy is an anti [NAME] activist who destroyed his life 
+
+[tired] labels= split=train id=35808
+I've found that reading before bed helps my brain get tired without needing to exhaust myself by staying up very late.
+
+[anxiety] labels= split=train id=36156
+Benzos do not help anxiety long term. they make it worse
+
+[sad] labels= split=train id=36164
+I'm so sad for you, I'm so so sorry. 💔
+
+[sad] labels= split=train id=36164
+I'm so sad for you, I'm so so sorry. 💔
+
+[energy] labels= split=train id=36476
+I've isolated myself to the extent that i only focus my energy on myself/work.as lonely as it sounds its been such a breath of fresh air.
+
+[energy] labels= split=train id=36476
+I've isolated myself to the extent that i only focus my energy on myself/work.as lonely as it sounds its been such a breath of fresh air.
+
+[energy] labels= split=train id=36476
+I've isolated myself to the extent that i only focus my energy on myself/work.as lonely as it sounds its been such a breath of fresh air.
+
+[energy] labels= split=train id=36476
+I've isolated myself to the extent that i only focus my energy on myself/work.as lonely as it sounds its been such a breath of fresh air.
+
+[sad] labels= split=train id=36520
+The “sad [NAME]” tops it off
+
+[sad] labels= split=train id=36520
+The “sad [NAME]” tops it off
+
+[energy] labels= split=train id=36660
+Feel the energy! Amazing PK and two great goals!
+
+[energy] labels= split=train id=36660
+Feel the energy! Amazing PK and two great goals!
+
+[energy] labels= split=train id=36660
+Feel the energy! Amazing PK and two great goals!
+
+[energy] labels= split=train id=36660
+Feel the energy! Amazing PK and two great goals!
+
+[sex life] labels= split=train id=36702
+The fact that she told you your sex life is over is insane to me.
+
+[anxiety] labels= split=train id=36734
+Second this. I have an anxiety disorder that has resulted in me never working a job, but my career is making YouTube videos self employed atm. 
+
+[tired] labels= split=train id=36784
+I get migraines too and I’m sooo tired the first two days of my period
+
+[energy] labels= split=train id=36794
+At SkyZone with the kid getting some energy out. Next up is a dentist visit...ugh
+
+[energy] labels= split=train id=36794
+At SkyZone with the kid getting some energy out. Next up is a dentist visit...ugh
+
+[energy] labels= split=train id=36794
+At SkyZone with the kid getting some energy out. Next up is a dentist visit...ugh
+
+[energy] labels= split=train id=36794
+At SkyZone with the kid getting some energy out. Next up is a dentist visit...ugh
+
+[sad] labels= split=train id=36930
+The sad truth is that all the feelings you get are real and genuine in that moment
+
+[sad] labels= split=train id=36930
+The sad truth is that all the feelings you get are real and genuine in that moment
+
+[sad] labels= split=train id=36936
+I wouldn't even call this a CB, she wasn't offered anything and turned it down. Still sad, though. 
+
+[sad] labels= split=train id=36936
+I wouldn't even call this a CB, she wasn't offered anything and turned it down. Still sad, though. 
+
+[anxiety] labels= split=train id=37041
+That sounds terrible! I get hay fever some years, I also have eczema and anxiety, all at once sounds like pure hell.
+
+[sad] labels= split=train id=37101
+And the sad part is this goes on for decades and decades grrrrrrr
+
+[sad] labels= split=train id=37101
+And the sad part is this goes on for decades and decades grrrrrrr
+
+[sad] labels= split=train id=37360
+Not sad or cringe.
+
+[sad] labels= split=train id=37360
+Not sad or cringe.
+
+[energy] labels= split=train id=37468
+I hope it heals well! I will bring out the Oww Mah Layg dancers to encourage healing and positive energy to help you and cheer you on! 🎶💃Oww💃Mah💃Layg💃🎶
+
+[energy] labels= split=train id=37468
+I hope it heals well! I will bring out the Oww Mah Layg dancers to encourage healing and positive energy to help you and cheer you on! 🎶💃Oww💃Mah💃Layg💃🎶
+
+[energy] labels= split=train id=37468
+I hope it heals well! I will bring out the Oww Mah Layg dancers to encourage healing and positive energy to help you and cheer you on! 🎶💃Oww💃Mah💃Layg💃🎶
+
+[energy] labels= split=train id=37468
+I hope it heals well! I will bring out the Oww Mah Layg dancers to encourage healing and positive energy to help you and cheer you on! 🎶💃Oww💃Mah💃Layg💃🎶
+
+[sad] labels= split=train id=37555
+Oh poor guy. That’s so sad. I can see why she is an ex friend.
+
+[sad] labels= split=train id=37555
+Oh poor guy. That’s so sad. I can see why she is an ex friend.
+
+[sad] labels= split=train id=37583
+For a second there I read the subreddit as "furry and sad". Pretty disappointed.
+
+[sad] labels= split=train id=37583
+For a second there I read the subreddit as "furry and sad". Pretty disappointed.
+
+[tired] labels= split=train id=37853
+Hi Tired, I'm Dad. And I'm very disappointed in you for following your older brother's example and becoming a trap that poses for /b/
+
+[tired] labels= split=train id=37857
+I must of not fully understood what you meant... damn tired redditing
+
+[sad] labels= split=train id=37972
+Still, it’s legal weed. Sorry, sad [NAME] here..
+
+[sad] labels= split=train id=37972
+Still, it’s legal weed. Sorry, sad [NAME] here..
+
+[tired] labels= split=train id=38152
+please fire this fuck head im tired of losing games because of our power play
+
+[tired] labels= split=train id=38169
+Even he's tired of marriage.
+
+[sad] labels= split=train id=38308
+True, and so sad to see. Somewhere along the way, the governing of a country my mutual consensus turned into a national sport with 2 teams.
+
+[sad] labels= split=train id=38308
+True, and so sad to see. Somewhere along the way, the governing of a country my mutual consensus turned into a national sport with 2 teams.
+
+[mood] labels= split=train id=38452
+but it's the music that really sets the mood
+
+[mood] labels= split=train id=38452
+but it's the music that really sets the mood
+
+[mood] labels= split=train id=38452
+but it's the music that really sets the mood
+
+[mood] labels= split=train id=38452
+but it's the music that really sets the mood
+
+[strength] labels= split=train id=38500
+you can use your inhuman orang-utan strength to tear them from limb to lim thats an option
+
+[strength] labels= split=train id=38500
+you can use your inhuman orang-utan strength to tear them from limb to lim thats an option
+
+[sad] labels= split=train id=38589
+It's sad that nearly everything seems ok as long as [NAME] told you to do it.
+
+[sad] labels= split=train id=38589
+It's sad that nearly everything seems ok as long as [NAME] told you to do it.
+
+[sad] labels= split=train id=38653
+I love the wire, never sad any thing bad about it just that it's from two decades ago
+
+[sad] labels= split=train id=38653
+I love the wire, never sad any thing bad about it just that it's from two decades ago
+
+[height] labels= split=train id=38667
+Wanna trade lives? I'd gladly take normal height with hair and have the same experience.
+
+[height] labels= split=train id=38667
+Wanna trade lives? I'd gladly take normal height with hair and have the same experience.
+
+[mood] labels= split=train id=38686
+> its exactly the opposite of what I do to get a girl in the mood This is super creepy
+
+[mood] labels= split=train id=38686
+> its exactly the opposite of what I do to get a girl in the mood This is super creepy
+
+[mood] labels= split=train id=38686
+> its exactly the opposite of what I do to get a girl in the mood This is super creepy
+
+[mood] labels= split=train id=38686
+> its exactly the opposite of what I do to get a girl in the mood This is super creepy
+
+[sad] labels= split=train id=38824
+It’s really sad to see
+
+[sad] labels= split=train id=38824
+It’s really sad to see
+
+[sad] labels= split=train id=38847
+It's just sad; she was just nice and normal before she messed with her looks
+
+[sad] labels= split=train id=38847
+It's just sad; she was just nice and normal before she messed with her looks
+
+[sad] labels= split=train id=38850
+I feel a little sad for her. That she thinks the only options or something to do is having kids. Fuck her tho.
+
+[sad] labels= split=train id=38850
+I feel a little sad for her. That she thinks the only options or something to do is having kids. Fuck her tho.
+
+[tired] labels= split=train id=38975
+For goodness sake give [NAME] a rest. After the last game he said he was so tired from running so much.
+
+[sad] labels= split=train id=39011
+U get an updoot from one sad person to another
+
+[sad] labels= split=train id=39011
+U get an updoot from one sad person to another
+
+[height] labels= split=train id=39300
+I'm from the UK, I thought you must have been joking. Queen were the height of cool at several points in their career.
+
+[height] labels= split=train id=39300
+I'm from the UK, I thought you must have been joking. Queen were the height of cool at several points in their career.
+
+[sad] labels= split=train id=39369
+I am now sad the latest Thief was so mediocre, because the actual City the game took place in was a great little world.
+
+[sad] labels= split=train id=39369
+I am now sad the latest Thief was so mediocre, because the actual City the game took place in was a great little world.
+
+[sad] labels= split=train id=39400
+Me thinks this crosses the line of dignity. Makes me sad. It’s one thing to expose things but another to mock it.
+
+[sad] labels= split=train id=39400
+Me thinks this crosses the line of dignity. Makes me sad. It’s one thing to expose things but another to mock it.
+
+[sad] labels= split=train id=39562
+What a sad post. I cannot believe people actually follow their advice.
+
+[sad] labels= split=train id=39562
+What a sad post. I cannot believe people actually follow their advice.
+
+[sad] labels= split=train id=39606
+He is holding you hostage. Sad state of affairs.
+
+[sad] labels= split=train id=39606
+He is holding you hostage. Sad state of affairs.
+
+[sad] labels= split=train id=39623
+And unfortunately videos like this act as a constant reminder that most people are complete dumbasses. Sad really.
+
+[sad] labels= split=train id=39623
+And unfortunately videos like this act as a constant reminder that most people are complete dumbasses. Sad really.
+
+[anxiety] labels= split=train id=39671
+Just the name of it gives me anxiety
+
+[sad] labels= split=train id=39693
+Someone who’s to sad and empty to care about toast... me I guess?
+
+[sad] labels= split=train id=39693
+Someone who’s to sad and empty to care about toast... me I guess?
+
+[sad] labels= split=train id=39778
+I thought it was something about the dog not smelling your drugs, but now i'm just sad that you didn't get to pet it :(
+
+[sad] labels= split=train id=39778
+I thought it was something about the dog not smelling your drugs, but now i'm just sad that you didn't get to pet it :(
+
+[sad] labels= split=train id=39810
+Good catch. I guess I was just remembering the shift after the first debate. That's pretty sad, tbh. 
+
+[sad] labels= split=train id=39810
+Good catch. I guess I was just remembering the shift after the first debate. That's pretty sad, tbh. 
+
+[anxiety] labels= split=train id=39815
+You know, I didn’t have an anxiety attack all day. Thanks for ensuring it happened. 
+
+[libido] labels= split=train id=39938
+I actually didn't realize that my libido had gone down after getting off hormones, and only noticed it after it reappeared with the IUD :'V
+
+[libido] labels= split=train id=39938
+I actually didn't realize that my libido had gone down after getting off hormones, and only noticed it after it reappeared with the IUD :'V
+
+[libido] labels= split=train id=39938
+I actually didn't realize that my libido had gone down after getting off hormones, and only noticed it after it reappeared with the IUD :'V
+
+[satisfaction] labels= split=train id=40014
+But the satisfaction of getting a headshot is better with the USP.
+
+[satisfaction] labels= split=train id=40014
+But the satisfaction of getting a headshot is better with the USP.
+
+[satisfaction] labels= split=train id=40014
+But the satisfaction of getting a headshot is better with the USP.
+
+[tired] labels= split=train id=40092
+It got tired
+
+[sad] labels= split=train id=40169
+Siri "calling mom would be sad"
+
+[sad] labels= split=train id=40169
+Siri "calling mom would be sad"
+
+[sad] labels= split=train id=40299
+I was thinking it’s sad that a team that hasn’t had a FRP for what seems like a decade has a better record than us.
+
+[sad] labels= split=train id=40299
+I was thinking it’s sad that a team that hasn’t had a FRP for what seems like a decade has a better record than us.
+
+[erection] labels= split=train id=40338
+Pretentious erection is going to be the name of the lawyer funk band that I’m going to bring into existence someday.
+
+[erection] labels= split=train id=40338
+Pretentious erection is going to be the name of the lawyer funk band that I’m going to bring into existence someday.
+
+[erection] labels= split=train id=40338
+Pretentious erection is going to be the name of the lawyer funk band that I’m going to bring into existence someday.
+
+[erection] labels= split=train id=40338
+Pretentious erection is going to be the name of the lawyer funk band that I’m going to bring into existence someday.
+
+[erection] labels= split=train id=40338
+Pretentious erection is going to be the name of the lawyer funk band that I’m going to bring into existence someday.
+
+[height] labels= split=train id=40462
+From what you're saying, we can estimate the age of every person we see by their height.
+
+[height] labels= split=train id=40462
+From what you're saying, we can estimate the age of every person we see by their height.
+
+[anxiety] labels= split=train id=40494
+You must have depression and anxiety.
+
+[sad] labels= split=train id=40532
+Laws don’t apply when you’ve got money. Sad but true.
+
+[sad] labels= split=train id=40532
+Laws don’t apply when you’ve got money. Sad but true.
+
+[sad] labels= split=train id=40944
+Sounds pretty typical from Toyota really. Been hearing the same story from too many people. Sad really because they were always the best.
+
+[sad] labels= split=train id=40944
+Sounds pretty typical from Toyota really. Been hearing the same story from too many people. Sad really because they were always the best.
+
+[sad] labels= split=train id=41027
+Damn i am sad that got deleted
+
+[sad] labels= split=train id=41027
+Damn i am sad that got deleted
+
+[sad] labels= split=train id=41069
+And the human babies - don’t forget them! Totally wicked! Sad!
+
+[sad] labels= split=train id=41069
+And the human babies - don’t forget them! Totally wicked! Sad!
+
+[anxiety] labels= split=train id=41388
+Make a doctor's appointment and say you are experiencing lack of sleep because of anxiety. Doesn't get easier.
+
+[strength] labels= split=train id=41580
+Don't beat yourself up, you'll find the strength to be above other people's scheming.
+
+[strength] labels= split=train id=41580
+Don't beat yourself up, you'll find the strength to be above other people's scheming.
+
+[strength] labels= split=train id=41739
+it looks like American Ninja Warrior but more strength focused instead of agility focused. I'll probably catch an episode or two.
+
+[strength] labels= split=train id=41739
+it looks like American Ninja Warrior but more strength focused instead of agility focused. I'll probably catch an episode or two.
+
+[sad] labels= split=train id=41944
+ that’s actually sad, feel bad for him :/
+
+[sad] labels= split=train id=41944
+ that’s actually sad, feel bad for him :/
+
+[sad] labels= split=train id=42047
+Thanks for the reply. Why'd you delete the sad sack comment?
+
+[sad] labels= split=train id=42047
+Thanks for the reply. Why'd you delete the sad sack comment?
+
+[sad] labels= split=train id=42109
+The sad thing is that most of them are gone the next election anyway.
+
+[sad] labels= split=train id=42109
+The sad thing is that most of them are gone the next election anyway.
+
+[sad] labels= split=train id=42255
+Oh, boo fuckety hoo. Let me play a sad song for you on the world's smallest violin.
+
+[sad] labels= split=train id=42255
+Oh, boo fuckety hoo. Let me play a sad song for you on the world's smallest violin.
+
+[tired] labels= split=train id=42309
+Yeah me too, because I would’ve been a lot more pissed if they would’ve got tired of waiting and left.
+
+[sad] labels= split=train id=42316
+Yes, very sad but that's the reality of competitive online gaming right now
+
+[sad] labels= split=train id=42316
+Yes, very sad but that's the reality of competitive online gaming right now
+
+[sad] labels= split=train id=42439
+I wish this was me.. To have lots of friends.. *Sad dragon noises*
+
+[sad] labels= split=train id=42439
+I wish this was me.. To have lots of friends.. *Sad dragon noises*
+
+[nervousness] labels= split=train id=42494
+most issues with nervousness and anxiety can be eliminated by eliminating the bad habits that are causing them to begin with, instead of 'just exercising/meditating' more
+
+[anxiety] labels= split=train id=42494
+most issues with nervousness and anxiety can be eliminated by eliminating the bad habits that are causing them to begin with, instead of 'just exercising/meditating' more
+
+[sad] labels= split=train id=42531
+It's so sad that people don't vaccinate their children. For every upvote to this post, I'll vaccinate my child in protest. 
+
+[sad] labels= split=train id=42531
+It's so sad that people don't vaccinate their children. For every upvote to this post, I'll vaccinate my child in protest. 
+
+[tired] labels= split=train id=42535
+Dude. I was hoping this would actually be helpful. I'm so tired of helping little kids open their milk cartons at the elementary I work at.
+
+[energy] labels= split=train id=42602
+He was a bony old bastard and probably jealous of their big cat energy.
+
+[energy] labels= split=train id=42602
+He was a bony old bastard and probably jealous of their big cat energy.
+
+[energy] labels= split=train id=42602
+He was a bony old bastard and probably jealous of their big cat energy.
+
+[energy] labels= split=train id=42602
+He was a bony old bastard and probably jealous of their big cat energy.
+
+[enjoyment] labels= split=train id=42667
+That’s why it’s petty revenge. It may have been petty to take a bit of enjoyment in it, but she made her own bed
+
+[sad] labels= split=train id=42689
+Sad and very true though. Case in point.
+
+[sad] labels= split=train id=42689
+Sad and very true though. Case in point.
+
+[satisfaction] labels= split=train id=42714
+The idea that fb might be slowly killing mlms out there gives me a glimmer of satisfaction...
+
+[satisfaction] labels= split=train id=42714
+The idea that fb might be slowly killing mlms out there gives me a glimmer of satisfaction...
+
+[satisfaction] labels= split=train id=42714
+The idea that fb might be slowly killing mlms out there gives me a glimmer of satisfaction...
+
+[sad] labels= split=train id=42823
+sad knight noises...
+
+[sad] labels= split=train id=42823
+sad knight noises...
+
+[sad] labels= split=train id=42826
+This is so sweet and it makes me so happy. But also so sad because I hate seeing families torn apart.
+
+[sad] labels= split=train id=42826
+This is so sweet and it makes me so happy. But also so sad because I hate seeing families torn apart.
+
+[anxiety] labels= split=train id=42963
+1 is spot on. Anxiety completely disappears. I like when that happens. One less issue
+
+[strength] labels= split=train id=43170
+I'm a doctor. The doctor examining him with severe back pain after an injury should test for sensibility, muscle strength, and reflexes at least.
+
+[strength] labels= split=train id=43170
+I'm a doctor. The doctor examining him with severe back pain after an injury should test for sensibility, muscle strength, and reflexes at least.
+
+[tired] labels= split=train id=43227
+I’m tired of these stupid posts. Stop trying to become a meme. You’re ruining this sub!
+
+[energy] labels= split=train id=43346
+Thank you! That's the nicest thing I heard today! I hope you get the same positive energy you put in out ten fold!
+
+[energy] labels= split=train id=43346
+Thank you! That's the nicest thing I heard today! I hope you get the same positive energy you put in out ten fold!
+
+[energy] labels= split=train id=43346
+Thank you! That's the nicest thing I heard today! I hope you get the same positive energy you put in out ten fold!
+
+[energy] labels= split=train id=43346
+Thank you! That's the nicest thing I heard today! I hope you get the same positive energy you put in out ten fold!
+
+[sad] labels= split=train id=43384
+My inevitable famine is when I run out of pop tarts and get sad
+
+[sad] labels= split=train id=43384
+My inevitable famine is when I run out of pop tarts and get sad
+
+[sad] labels= split=validation id=2
+I've never been this sad in my life!
+
+[sad] labels= split=validation id=2
+I've never been this sad in my life!
+
+[tired] labels= split=validation id=20
+Hoarders unite! 2388 stars here, 19 rewards, 20 by tomorrow. Highest reward was 23. No Visa card. Too tired of playing credit card roulette.
+
+[sad] labels= split=validation id=35
+*[NAME] making [NAME] even more sad.*
+
+[sad] labels= split=validation id=35
+*[NAME] making [NAME] even more sad.*
+
+[sad] labels= split=validation id=54
+Wow, out of all of that, only one person mentioned helping parents because they loved their parents. SAD.
+
+[sad] labels= split=validation id=54
+Wow, out of all of that, only one person mentioned helping parents because they loved their parents. SAD.
+
+[tired] labels= split=validation id=56
+I am confused. I don't understand how that relates to what I said. Could you explain? Sorry, maybe I'm just tired lol
+
+[sad] labels= split=validation id=278
+You are extremely rude and condescending, and in my opinion it’s sad that you’re a teacher. 
+
+[sad] labels= split=validation id=278
+You are extremely rude and condescending, and in my opinion it’s sad that you’re a teacher. 
+
+[sad] labels= split=validation id=337
+Omg TDG has a new singer? That's so sad. I was rocking out to them in middle school too. Simpler times.
+
+[sad] labels= split=validation id=337
+Omg TDG has a new singer? That's so sad. I was rocking out to them in middle school too. Simpler times.
+
+[sad] labels= split=validation id=446
+Man i was so sad when i found out vodka had calories
+
+[sad] labels= split=validation id=446
+Man i was so sad when i found out vodka had calories
+
+[strength] labels= split=validation id=479
+That dress is made with industrial strength lycra/polyester and thread. I'm amazed it didn't blow up and kill innocent bystanders at the restaurant.
+
+[strength] labels= split=validation id=479
+That dress is made with industrial strength lycra/polyester and thread. I'm amazed it didn't blow up and kill innocent bystanders at the restaurant.
+
+[sad] labels= split=validation id=605
+What a sad story.
+
+[sad] labels= split=validation id=605
+What a sad story.
+
+[anxiety] labels= split=validation id=626
+wow your the best, you take away all my anxiety...EDIT IT CAME BACK
+
+[sad] labels= split=validation id=635
+Yeah.. like 30ish BBs deep I don’t think about it twice, just re-jam and be a sad boy. But we are so fucking deep...
+
+[sad] labels= split=validation id=635
+Yeah.. like 30ish BBs deep I don’t think about it twice, just re-jam and be a sad boy. But we are so fucking deep...
+
+[sad] labels= split=validation id=909
+Truly a sad day when you can get fired just for having a *heated gaming moment*. We really do live in a society.
+
+[sad] labels= split=validation id=909
+Truly a sad day when you can get fired just for having a *heated gaming moment*. We really do live in a society.
+
+[sad] labels= split=validation id=923
+No not funny just sad
+
+[sad] labels= split=validation id=923
+No not funny just sad
+
+[satisfaction] labels= split=validation id=1053
+INJECT A GIF OF BASTIAN NODDING IN SATISFACTION FROM THE BOX INTO MY VEINS
+
+[satisfaction] labels= split=validation id=1053
+INJECT A GIF OF BASTIAN NODDING IN SATISFACTION FROM THE BOX INTO MY VEINS
+
+[satisfaction] labels= split=validation id=1053
+INJECT A GIF OF BASTIAN NODDING IN SATISFACTION FROM THE BOX INTO MY VEINS
+
+[sad] labels= split=validation id=1247
+[NAME]! He was just amazing, best contract ever, so sad when we lost him. 
+
+[sad] labels= split=validation id=1247
+[NAME]! He was just amazing, best contract ever, so sad when we lost him. 
+
+[sad] labels= split=validation id=1607
+You sound quite childish and unable to engage with any information that doesn’t conform to your narrative. Sad.
+
+[sad] labels= split=validation id=1607
+You sound quite childish and unable to engage with any information that doesn’t conform to your narrative. Sad.
+
+[sad] labels= split=validation id=1667
+It's so really sad how praising the Creator ([NAME]) has become something associated with terrorism... Astaghfirullah.
+
+[sad] labels= split=validation id=1667
+It's so really sad how praising the Creator ([NAME]) has become something associated with terrorism... Astaghfirullah.
+
+[enjoyment] labels= split=validation id=1728
+You think that hearing deathcries is **funny** ? Personally, hearing cries of pain and dispair don't cause me enjoyment, but I guess I'm a weirdo.
+
+[sad] labels= split=validation id=1756
+I'm sad, but I just want a new Metroid game, and if this is what it takes to make it great then I understand
+
+[sad] labels= split=validation id=1756
+I'm sad, but I just want a new Metroid game, and if this is what it takes to make it great then I understand
+
+[sad] labels= split=validation id=1859
+Kinda sad but... Okay then
+
+[sad] labels= split=validation id=1859
+Kinda sad but... Okay then
+
+[sad] labels= split=validation id=1945
+The sad result of far too many gamers needing addiction mechanics to continue playing one of the greatest card games of all time.
+
+[sad] labels= split=validation id=1945
+The sad result of far too many gamers needing addiction mechanics to continue playing one of the greatest card games of all time.
+
+[anxiety] labels= split=validation id=2117
+Okay, gotcha. Does your wife have a lot of stress and anxiety from her job, or just in general?
+
+[sad] labels= split=validation id=2145
+sad to see [NAME] the man go but realy happy for [NAME]!!
+
+[sad] labels= split=validation id=2145
+sad to see [NAME] the man go but realy happy for [NAME]!!
+
+[vitality] labels= split=validation id=2192
+The opposite of depression isnt happiness, its vitality.
+
+[vitality] labels= split=validation id=2192
+The opposite of depression isnt happiness, its vitality.
+
+[sad] labels= split=validation id=2206
+I am sad to hear about your cat. Pets become like a family member. I am glad to hear you are doing better.
+
+[sad] labels= split=validation id=2206
+I am sad to hear about your cat. Pets become like a family member. I am glad to hear you are doing better.
+
+[mood] labels= split=validation id=2375
+The mood changes are semi controllable with medication (at least it’s the case for me). Please seek psychiatric help to get a proper diagnosis.
+
+[mood] labels= split=validation id=2375
+The mood changes are semi controllable with medication (at least it’s the case for me). Please seek psychiatric help to get a proper diagnosis.
+
+[mood] labels= split=validation id=2375
+The mood changes are semi controllable with medication (at least it’s the case for me). Please seek psychiatric help to get a proper diagnosis.
+
+[mood] labels= split=validation id=2375
+The mood changes are semi controllable with medication (at least it’s the case for me). Please seek psychiatric help to get a proper diagnosis.
+
+[mood] labels= split=validation id=2384
+Even if this was true who would want to take medication that causes such rapid mood swings
+
+[mood] labels= split=validation id=2384
+Even if this was true who would want to take medication that causes such rapid mood swings
+
+[mood] labels= split=validation id=2384
+Even if this was true who would want to take medication that causes such rapid mood swings
+
+[mood] labels= split=validation id=2384
+Even if this was true who would want to take medication that causes such rapid mood swings
+
+[libido] labels= split=validation id=2453
+Haha just loose all your libido because of dysphoria nerd
+
+[libido] labels= split=validation id=2453
+Haha just loose all your libido because of dysphoria nerd
+
+[libido] labels= split=validation id=2453
+Haha just loose all your libido because of dysphoria nerd
+
+[sad] labels= split=validation id=2578
+It was extremely sad ... because you can tell the reason why [NAME] is the way he is.
+
+[sad] labels= split=validation id=2578
+It was extremely sad ... because you can tell the reason why [NAME] is the way he is.
+
+[energy] labels= split=validation id=2621
+That's amazing that it had 3-4 years' worth of stored energy in the trunk.
+
+[energy] labels= split=validation id=2621
+That's amazing that it had 3-4 years' worth of stored energy in the trunk.
+
+[energy] labels= split=validation id=2621
+That's amazing that it had 3-4 years' worth of stored energy in the trunk.
+
+[energy] labels= split=validation id=2621
+That's amazing that it had 3-4 years' worth of stored energy in the trunk.
+
+[sad] labels= split=validation id=2684
+Really sad how often people don't go into the closest lane first and then change lanes when safe to do so.
+
+[sad] labels= split=validation id=2684
+Really sad how often people don't go into the closest lane first and then change lanes when safe to do so.
+
+[strength] labels= split=validation id=2704
+Good luck to you darling. I hope you feel strength and happiness.
+
+[strength] labels= split=validation id=2704
+Good luck to you darling. I hope you feel strength and happiness.
+
+[sad] labels= split=validation id=2826
+Sad but true.
+
+[sad] labels= split=validation id=2826
+Sad but true.
+
+[sad] labels= split=validation id=2876
+Hm so sad. Am I supposed to feel bad for you because you don't look like [NAME] phelps? Btw, he's on steroids no doubt
+
+[sad] labels= split=validation id=2876
+Hm so sad. Am I supposed to feel bad for you because you don't look like [NAME] phelps? Btw, he's on steroids no doubt
+
+[sad] labels= split=validation id=2906
+Yeah this bothers me. Family should be off limits, and this scene was really sad
+
+[sad] labels= split=validation id=2906
+Yeah this bothers me. Family should be off limits, and this scene was really sad
+
+[burnt out] labels= split=validation id=3159
+He burnt out. Give it some time. Other option is he never really cared, but I find that unlikely. Also maybe life just happened.
+
+[sad] labels= split=validation id=3161
+Exactly! The mob mentality of these people is sad! Let's bring some love and peace into the world!
+
+[sad] labels= split=validation id=3161
+Exactly! The mob mentality of these people is sad! Let's bring some love and peace into the world!
+
+[energy] labels= split=validation id=3191
+I like that energy
+
+[energy] labels= split=validation id=3191
+I like that energy
+
+[energy] labels= split=validation id=3191
+I like that energy
+
+[energy] labels= split=validation id=3191
+I like that energy
+
+[sad] labels= split=validation id=3440
+The thought of him having to schedule me in really turns me off and makes me sad. Has the reduced gaming time helped with intimacy in any way?
+
+[sad] labels= split=validation id=3440
+The thought of him having to schedule me in really turns me off and makes me sad. Has the reduced gaming time helped with intimacy in any way?
+
+[sad] labels= split=validation id=3442
+I don’t think there’s anything sad about how many people are attending from their country, but I am doubtful of their prospects!
+
+[sad] labels= split=validation id=3442
+I don’t think there’s anything sad about how many people are attending from their country, but I am doubtful of their prospects!
+
+[sad] labels= split=validation id=3516
+The only part of church I'm sad my kids will miss.
+
+[sad] labels= split=validation id=3516
+The only part of church I'm sad my kids will miss.
+
+[anxiety] labels= split=validation id=3583
+Its probably just related to something she is dealing with. Stress/anxiety often causes nightmares. But there are plenty of potential
+
+[strength] labels= split=validation id=3599
+Ignorance is strength.
+
+[strength] labels= split=validation id=3599
+Ignorance is strength.
+
+[sad] labels= split=validation id=3650
+Honestly it makes me sad but [NAME] does need less time:/
+
+[sad] labels= split=validation id=3650
+Honestly it makes me sad but [NAME] does need less time:/
+
+[anxiety] labels= split=validation id=3751
+I’m battling depression and anxiety and having a healthy diet and loosing weight has helped me
+
+[sad] labels= split=validation id=3897
+Yeah I could definitely see that, which is sad.
+
+[sad] labels= split=validation id=3897
+Yeah I could definitely see that, which is sad.
+
+[energy] labels= split=validation id=3924
+If [NAME], upon becomming Premier actually funds solar, wind or other renewable energy projects with Government of Alberta money I will eat my tuque.
+
+[energy] labels= split=validation id=3924
+If [NAME], upon becomming Premier actually funds solar, wind or other renewable energy projects with Government of Alberta money I will eat my tuque.
+
+[energy] labels= split=validation id=3924
+If [NAME], upon becomming Premier actually funds solar, wind or other renewable energy projects with Government of Alberta money I will eat my tuque.
+
+[energy] labels= split=validation id=3924
+If [NAME], upon becomming Premier actually funds solar, wind or other renewable energy projects with Government of Alberta money I will eat my tuque.
+
+[tired] labels= split=validation id=3930
+Eh, some people grow up, get tired of banging their heads and decide to start using them instead 😜
+
+[erection] labels= split=validation id=3969
+Did you miss the massive throbbing erection the Dems had over the no fly no buy thing?
+
+[erection] labels= split=validation id=3969
+Did you miss the massive throbbing erection the Dems had over the no fly no buy thing?
+
+[erection] labels= split=validation id=3969
+Did you miss the massive throbbing erection the Dems had over the no fly no buy thing?
+
+[erection] labels= split=validation id=3969
+Did you miss the massive throbbing erection the Dems had over the no fly no buy thing?
+
+[erection] labels= split=validation id=3969
+Did you miss the massive throbbing erection the Dems had over the no fly no buy thing?
+
+[sad] labels= split=validation id=4009
+This made me sad. I hope you find happiness.
+
+[sad] labels= split=validation id=4009
+This made me sad. I hope you find happiness.
+
+[sad] labels= split=validation id=4186
+I'm sad I had to come this far down to find this.
+
+[sad] labels= split=validation id=4186
+I'm sad I had to come this far down to find this.
+
+[mood] labels= split=validation id=4423
+I completely agree with you just the whole mood against abortion gets my blood boiling.
+
+[mood] labels= split=validation id=4423
+I completely agree with you just the whole mood against abortion gets my blood boiling.
+
+[mood] labels= split=validation id=4423
+I completely agree with you just the whole mood against abortion gets my blood boiling.
+
+[mood] labels= split=validation id=4423
+I completely agree with you just the whole mood against abortion gets my blood boiling.
+
+[sad] labels= split=validation id=4495
+To show themself in public like that they never did grow up. A 11 year old in a 25 year old body. Sad, really.
+
+[sad] labels= split=validation id=4495
+To show themself in public like that they never did grow up. A 11 year old in a 25 year old body. Sad, really.
+
+[sad] labels= split=validation id=4559
+I am really sad because my innocent nieces are brainwashed by my crazy sister
+
+[sad] labels= split=validation id=4559
+I am really sad because my innocent nieces are brainwashed by my crazy sister
+
+[tired] labels= split=validation id=4577
+I know. Honestly, I'm applying to other districts. Tired of 56 miles round trip daily for a miserable job. 
+
+[anxiety] labels= split=validation id=4616
+Not sure about OP, but caffeine tends to make many people more anxious (especially those with a co-morbid anxiety disorder(s)).
+
+[tired] labels= split=validation id=4659
+Someone somewhere decided that today is the day they're tired of their job. We've all been there.
+
+[sad] labels= split=validation id=4688
+Newcomers have never heard of the flippening ever since :( that’s sad
+
+[sad] labels= split=validation id=4688
+Newcomers have never heard of the flippening ever since :( that’s sad
+
+[sad] labels= split=validation id=4861
+Which one had to shower outside with the hose... [NAME]? That one was so sad to me
+
+[sad] labels= split=validation id=4861
+Which one had to shower outside with the hose... [NAME]? That one was so sad to me
+
+[satisfaction] labels= split=validation id=4906
+I *demand* satisfaction
+
+[satisfaction] labels= split=validation id=4906
+I *demand* satisfaction
+
+[satisfaction] labels= split=validation id=4906
+I *demand* satisfaction
+
+[sad] labels= split=validation id=4963
+This one is sad but also very good
+
+[sad] labels= split=validation id=4963
+This one is sad but also very good
+
+[sad] labels= split=validation id=5002
+It must be really sad and lonely under your bridge troll.
+
+[sad] labels= split=validation id=5002
+It must be really sad and lonely under your bridge troll.
+
+[anxiety] labels= split=validation id=5009
+Work on your anxiety and self-esteem. Do things for YOU. Love yourself.
+
+[energy] labels= split=validation id=5062
+Thank you for your kind words! Your energy is contagious!
+
+[energy] labels= split=validation id=5062
+Thank you for your kind words! Your energy is contagious!
+
+[energy] labels= split=validation id=5062
+Thank you for your kind words! Your energy is contagious!
+
+[energy] labels= split=validation id=5062
+Thank you for your kind words! Your energy is contagious!
+
+[sad] labels= split=validation id=5184
+Actually there are some terminals now that let you disable it lmao. Very sad.
+
+[sad] labels= split=validation id=5184
+Actually there are some terminals now that let you disable it lmao. Very sad.
+
+[height] labels= split=validation id=5218
+So funny, I just watched this one today and was struck by [NAME] in the height of his coked out glory. He is absolutely so gross. 
+
+[height] labels= split=validation id=5218
+So funny, I just watched this one today and was struck by [NAME] in the height of his coked out glory. He is absolutely so gross. 
+
+[tired] labels= split=validation id=5229
+supposed to be brain ache but I am too tired with all these losses i have
+
+[tired] labels= split=validation id=5382
+BUT THEYRE TIRED
+
+[tired] labels= split=test id=29
+What's your source for that? Just curious (and yes I know it sounds like a tired contrarian statement).
+
+[satisfaction] labels= split=test id=119
+Ghost them. It’ll drive them crazy and give you the satisfaction
+
+[satisfaction] labels= split=test id=119
+Ghost them. It’ll drive them crazy and give you the satisfaction
+
+[satisfaction] labels= split=test id=119
+Ghost them. It’ll drive them crazy and give you the satisfaction
+
+[sad] labels= split=test id=180
+No, what’s sad is saying the same message like it’s news. He’s a copy paste machine. No original thought.
+
+[sad] labels= split=test id=180
+No, what’s sad is saying the same message like it’s news. He’s a copy paste machine. No original thought.
+
+[anxiety] labels= split=test id=192
+I got a lot of withholding to throw me into anxiety.
+
+[sad] labels= split=test id=233
+Not sad enough fo here the skeleton is dead so he can't comit sucide
+
+[sad] labels= split=test id=233
+Not sad enough fo here the skeleton is dead so he can't comit sucide
+
+[sad] labels= split=test id=255
+The sad part about this is that these memes are more Gen Z if anything...
+
+[sad] labels= split=test id=255
+The sad part about this is that these memes are more Gen Z if anything...
+
+[sad] labels= split=test id=279
+This is scary and so very sad. Eleven??? A baby! I was still building forts. I weep for this child.
+
+[sad] labels= split=test id=279
+This is scary and so very sad. Eleven??? A baby! I was still building forts. I weep for this child.
+
+[ejaculation] labels= split=test id=509
+People like you with premature ejaculation and poor hygiene should not write long posts. Am I doing it right?
+
+[ejaculation] labels= split=test id=509
+People like you with premature ejaculation and poor hygiene should not write long posts. Am I doing it right?
+
+[ejaculation] labels= split=test id=509
+People like you with premature ejaculation and poor hygiene should not write long posts. Am I doing it right?
+
+[sad] labels= split=test id=532
+Must be a tough life when all you can think about is sad stories to keep you from enjoying anything.
+
+[sad] labels= split=test id=532
+Must be a tough life when all you can think about is sad stories to keep you from enjoying anything.
+
+[sad] labels= split=test id=536
+That's sad. I'm 16 and where I am there are loads of athiests my age. It's great.
+
+[sad] labels= split=test id=536
+That's sad. I'm 16 and where I am there are loads of athiests my age. It's great.
+
+[anxiety] labels= split=test id=651
+I wouldnt go that far, but paranoid schizophrenia can definitely do that to someone. Even mild social anxiety can also cause it, though
+
+[orgasm] labels= split=test id=710
+Someone with erectile dysfunction already can't (conventionally) orgasm. What the fuck are you talking about?
+
+[sad] labels= split=test id=787
+If it's true i'm sad he's leaving but I wish him nothing but the best.
+
+[sad] labels= split=test id=787
+If it's true i'm sad he's leaving but I wish him nothing but the best.
+
+[strength] labels= split=test id=1020
+Gotta pay sincere condiments for this rant... if I mustard the strength I'll ketchup to the topic.
+
+[strength] labels= split=test id=1020
+Gotta pay sincere condiments for this rant... if I mustard the strength I'll ketchup to the topic.
+
+[mood] labels= split=test id=1025
+Is this a mood?
+
+[mood] labels= split=test id=1025
+Is this a mood?
+
+[mood] labels= split=test id=1025
+Is this a mood?
+
+[mood] labels= split=test id=1025
+Is this a mood?
+
+[anxiety] labels= split=test id=1117
+This really tickled my anxiety. I hate it
+
+[strength] labels= split=test id=1248
+That's way dangerous to keep then together they may break out and start feedig on the other ear buds to gain heir strength
+
+[strength] labels= split=test id=1248
+That's way dangerous to keep then together they may break out and start feedig on the other ear buds to gain heir strength
+
+[tired] labels= split=test id=1363
+Just get him out of my sight I’m tired of losing and those who contribute to it
+
+[sad] labels= split=test id=1368
+Please post any news you may find about her fate. This is so sad and so wrong. We need to know what happens to her.
+
+[sad] labels= split=test id=1368
+Please post any news you may find about her fate. This is so sad and so wrong. We need to know what happens to her.
+
+[sad] labels= split=test id=1437
+This is something kids do on their twitch streams to get subs, pretty sad.
+
+[sad] labels= split=test id=1437
+This is something kids do on their twitch streams to get subs, pretty sad.
+
+[sad] labels= split=test id=1587
+I'm just really sad all that cake was wasted.
+
+[sad] labels= split=test id=1587
+I'm just really sad all that cake was wasted.
+
+[sad] labels= split=test id=1609
+Honestly his post was a little sad. The fact that it got upvotes makes me want to avoid this sub over the summer.
+
+[sad] labels= split=test id=1609
+Honestly his post was a little sad. The fact that it got upvotes makes me want to avoid this sub over the summer.
+
+[sad] labels= split=test id=1681
+Sad, but American
+
+[sad] labels= split=test id=1681
+Sad, but American
+
+[sad] labels= split=test id=1697
+The bitch doesnt need drag race (bc shes amazing) but im still sad.
+
+[sad] labels= split=test id=1697
+The bitch doesnt need drag race (bc shes amazing) but im still sad.
+
+[sad] labels= split=test id=1731
+Outrage over something that isnt even true. Thats sad man Edit: well the bandwaggoning part is true
+
+[sad] labels= split=test id=1731
+Outrage over something that isnt even true. Thats sad man Edit: well the bandwaggoning part is true
+
+[tired] labels= split=test id=1827
+Feeling is exhausting. They used to feel those things and now they feel nothing because they're so burnt out and tired
+
+[burnt out] labels= split=test id=1827
+Feeling is exhausting. They used to feel those things and now they feel nothing because they're so burnt out and tired
+
+[tired] labels= split=test id=2200
+I love it when kids shut down these tired lines we adults feed them. She probably needed that. Well done.
+
+[sad] labels= split=test id=2240
+I doubt people are *happy*, but they probably aren’t sad about someone who was potentially endangering others through their anti-science views.
+
+[sad] labels= split=test id=2240
+I doubt people are *happy*, but they probably aren’t sad about someone who was potentially endangering others through their anti-science views.
+
+[sad] labels= split=test id=2251
+I just want to live. You're the sad loser for going out of your way to comment something so completely stupid
+
+[sad] labels= split=test id=2251
+I just want to live. You're the sad loser for going out of your way to comment something so completely stupid
+
+[tired] labels= split=test id=2318
+No particular sauce, I'm just kinda tired of having to search that tiny lil speck of pan for at least 2 minutes before I find it.
+
+[anxiety] labels= split=test id=2339
+just realized the pic is unrelated kinda, whatever though. proud of me despite my anxiety about puttin myself or there 
+
+[tired] labels= split=test id=2660
+Gotta think [NAME] was also tired after all the hard work they put out Most likely it'd be easier for a fresh player to run passed players
+
+[tired] labels= split=test id=3049
+Like you said your tired probably mentally and physically. You need a dam break is what it sounds like my friend.
+
+[anxiety] labels= split=test id=3113
+Make sure you actually try sativas. Don't just listen to people bsing about Sativa causing paranoia/anxiety etc.
+
+[sad] labels= split=test id=3250
+Still is glitched to this day.... sad
+
+[sad] labels= split=test id=3250
+Still is glitched to this day.... sad
+
+[sad] labels= split=test id=3356
+Im so sad how that movie turned out. We could have achived something good
+
+[sad] labels= split=test id=3356
+Im so sad how that movie turned out. We could have achived something good
+
+[sad] labels= split=test id=3414
+that was so sad :(
+
+[sad] labels= split=test id=3414
+that was so sad :(
+
+[anxiety] labels= split=test id=3482
+Oh. I have anxiety for her and this conversation.
+
+[anxiety] labels= split=test id=3576
+I’ve massively improved but it never really gets cured. There are always situations that will give you anxiety.
+
+[anxiety] labels= split=test id=3630
+I have little to no anxiety and it really helps me when i have to take a test.
+
+[sad] labels= split=test id=3669
+Calm down snowflake. Comment stalking from a week ago is really sad, especially when you're whining about something that I'm 100% right on. 
+
+[sad] labels= split=test id=3669
+Calm down snowflake. Comment stalking from a week ago is really sad, especially when you're whining about something that I'm 100% right on. 
+
+[sad] labels= split=test id=3695
+Gah sad high five. I tried once for a few weeks and will never try again. I need that support in my life.
+
+[sad] labels= split=test id=3695
+Gah sad high five. I tried once for a few weeks and will never try again. I need that support in my life.
+
+[strength] labels= split=test id=3864
+Sending love and strength vibes <3
+
+[strength] labels= split=test id=3864
+Sending love and strength vibes <3
+
+[height] labels= split=test id=3922
+Whats your height and weight out of curiosity?
+
+[height] labels= split=test id=3922
+Whats your height and weight out of curiosity?
+
+[sad] labels= split=test id=3999
+Me me big sad.
+
+[sad] labels= split=test id=3999
+Me me big sad.
+
+[sad] labels= split=test id=4070
+Not really cringe. Just sad.
+
+[sad] labels= split=test id=4070
+Not really cringe. Just sad.
+
+[sex life] labels= split=test id=4086
+Wow! Congratulations on taking your sex life back! Nice to wake up and see such positivity.
+
+[tired] labels= split=test id=4156
+I'm tired, but I can't sleep.
+
+[sad] labels= split=test id=4214
+Terribly sad story. I loved it.
+
+[sad] labels= split=test id=4214
+Terribly sad story. I loved it.
+
+[sad] labels= split=test id=4253
+I'm sad for the bot. They only want a purpose
+
+[sad] labels= split=test id=4253
+I'm sad for the bot. They only want a purpose
+
+[sad] labels= split=test id=4262
+[NAME] is phenomenal. It’ll be a sad day once he’s gone
+
+[sad] labels= split=test id=4262
+[NAME] is phenomenal. It’ll be a sad day once he’s gone
+
+[sad] labels= split=test id=4360
+It's okay. One day you won't be so sad and angry, and people will still accept you.
+
+[sad] labels= split=test id=4360
+It's okay. One day you won't be so sad and angry, and people will still accept you.
+
+[sad] labels= split=test id=4394
+Gonna be sad when Gameday is inside a gym for shooty hoops. I already miss CFB :(
+
+[sad] labels= split=test id=4394
+Gonna be sad when Gameday is inside a gym for shooty hoops. I already miss CFB :(
+
+[energy] labels= split=test id=4396
+"one of us will be right!" Or...ya both wrong and wasted your energy being dumb asses instead of enjoying it.
+
+[energy] labels= split=test id=4396
+"one of us will be right!" Or...ya both wrong and wasted your energy being dumb asses instead of enjoying it.
+
+[energy] labels= split=test id=4396
+"one of us will be right!" Or...ya both wrong and wasted your energy being dumb asses instead of enjoying it.
+
+[energy] labels= split=test id=4396
+"one of us will be right!" Or...ya both wrong and wasted your energy being dumb asses instead of enjoying it.
+
+[tired] labels= split=test id=4452
+Oh [NAME]. But I'm sort of confused as to how the pic was taken, sorry if you said it but I'm a bit stupid and tired
+
+[sad] labels= split=test id=4474
+Sad to see this as a one-off. [NAME] seemed to be really enjoy the game and itself. Will give the game a try.
+
+[sad] labels= split=test id=4474
+Sad to see this as a one-off. [NAME] seemed to be really enjoy the game and itself. Will give the game a try.
+
+[sad] labels= split=test id=4491
+The comments on this thread are what I expected and that makes me sad.
+
+[sad] labels= split=test id=4491
+The comments on this thread are what I expected and that makes me sad.
+
+[sad] labels= split=test id=4574
+What a loser, sad. 
+
+[sad] labels= split=test id=4574
+What a loser, sad. 
+
+[sad] labels= split=test id=4675
+I'm sad can someone make me feel better Feel like shit rn just want [NAME] back
+
+[sad] labels= split=test id=4675
+I'm sad can someone make me feel better Feel like shit rn just want [NAME] back
+
+[sad] labels= split=test id=5053
+Damn that’s sad
+
+[sad] labels= split=test id=5053
+Damn that’s sad
+
+[sad] labels= split=test id=5082
+I see you utilized it. 3.5? Sad.
+
+[sad] labels= split=test id=5082
+I see you utilized it. 3.5? Sad.
+
+[sad] labels= split=test id=5097
+It's sad how long it took me to get that. Haha got em
+
+[sad] labels= split=test id=5097
+It's sad how long it took me to get that. Haha got em
+
+[sad] labels= split=test id=5108
+It's too bad that you think helping out the less fortunate is sad and make a joke about it . People like you are the problem.
+
+[sad] labels= split=test id=5108
+It's too bad that you think helping out the less fortunate is sad and make a joke about it . People like you are the problem.
+
+[sad] labels= split=test id=5155
+Sad thing is it would probably forcibly ground the plane.
+
+[sad] labels= split=test id=5155
+Sad thing is it would probably forcibly ground the plane.
+
+[sad] labels= split=test id=5159
+This whole sub makes me sad.
+
+[sad] labels= split=test id=5159
+This whole sub makes me sad.
+
+[sad] labels= split=test id=5251
+I can't tell if this is a happy or sad ending. 😐
+
+[sad] labels= split=test id=5251
+I can't tell if this is a happy or sad ending. 😐
+
+[sad] labels= split=test id=5301
+I'm a little sad that there's not actually a video called Dance of the Hillary, virus or not.
+
+[sad] labels= split=test id=5301
+I'm a little sad that there's not actually a video called Dance of the Hillary, virus or not.
+
+[sad] labels= split=test id=5339
+I really pity those unfree Cuban babies. It’s just sad.
+
+[sad] labels= split=test id=5339
+I really pity those unfree Cuban babies. It’s just sad.
+
+[energy] labels= split=test id=5347
+Everyone's probs already said it, but lats and chest, legs are big quad energy. Keep up the good work
+
+[energy] labels= split=test id=5347
+Everyone's probs already said it, but lats and chest, legs are big quad energy. Keep up the good work
+
+[energy] labels= split=test id=5347
+Everyone's probs already said it, but lats and chest, legs are big quad energy. Keep up the good work
+
+[energy] labels= split=test id=5347
+Everyone's probs already said it, but lats and chest, legs are big quad energy. Keep up the good work
