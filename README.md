@@ -96,13 +96,12 @@ and real-world discourse in social and clinical contexts using co-occurrence net
 
 ---
 
-## ▶️ Reproduction / 解析再現手順  
+## ▶️ Reproduction / 解析再現手順
 
 ### 1️⃣ Install environment
 ```bash
-pip install pandas numpy nltk networkx matplotlib python-louvain igraph leidenalg unidecode scikit-learn
+pip install pandas numpy nltk networkx matplotlib python-louvain igraph leidenalg
 
----
 
 ### 2️⃣ Run main analysis
 python network_analysis_script.py \
@@ -167,3 +166,29 @@ Email: k.ichino.xc@juntendo.ac.jp
 この版は研究再現に最適化されています。  
 希望があれば、このREADMEに対応する `.gitignore`（Python研究用）と `LICENSE`（MITまたはCC-BY）も作成します。  
 どちらを追加しますか？
+
+
+---
+
+## 🔍 ポイント解説
+
+| 問題 | 原因 | 解決策 |
+|------|------|--------|
+| 2〜4番が内側に入る | `###` 見出しの前に全角スペース or 改行不足 | 各「##」の前に**空行1つ**入れる |
+| コードブロックが崩れる | ```bash の直前に空行なし | コードブロックの前後に**空行1行**入れる |
+| 番号順のレベルが揃わない | `###` の数が違う | すべて `##` に統一 |
+
+---
+
+このまま上の内容をGitHubの `README.md` に貼り付けて  
+「Commit changes」を押せば、  
+すべての段がきれいに左揃えになります。
+
+---
+
+もし今後、  
+「セクションタイトル（Install, Run, Visualize）」をもう少し小さく見せたい場合は、  
+`##` を `###` にするだけでOKです。  
+
+希望があれば、  
+このREADME全体を **GitHub用に最適化した完全フォーマット版（英日併記）** に整えて出しますか？
