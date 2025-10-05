@@ -109,22 +109,28 @@ pip install pandas numpy nltk networkx matplotlib python-louvain igraph leidenal
 ```
 
 ###  2️⃣ Run main analysis
+```bash
 python network_analysis_script.py \
   --input "AMS-GoEmotions.TXT.txt" \
   --ams_terms "AMS_terms.txt" \
   --stopwords "extra_stop.txt" \
   --window 2 \
   --outdir "outputs"
+```
 
 ### 3️⃣ Optional: Sensitivity analysis
+```bash
 python network_analysis_script.py --window 5
 python network_analysis_script.py --window 7
 python network_analysis_script.py --window 15
+```
 
 ### 4️⃣ Visualization
+```bash
 Use any network viewer (e.g., Gephi, Cytoscape) to open:
 network_top300_withpos.graphml
 graph_weighted.gexf
+```
 
 ---
 ## 📊 Key Results / 主な結果
@@ -163,5 +169,6 @@ Random seed fixed at 42 for reproducibility.
 Author: Kenta Ichino
 Affiliation: Juntendo University, Department of Urology
 Email: k.ichino.xc@juntendo.ac.jp
+
 ---
 
