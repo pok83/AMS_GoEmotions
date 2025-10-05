@@ -102,8 +102,7 @@ and real-world discourse in social and clinical contexts using co-occurrence net
 ```bash
 pip install pandas numpy nltk networkx matplotlib python-louvain igraph leidenalg
 
-
-### 2️⃣ Run main analysis
+2️⃣ Run main analysis
 python network_analysis_script.py \
   --input "AMS-GoEmotions.TXT.txt" \
   --ams_terms "AMS_terms.txt" \
@@ -111,9 +110,7 @@ python network_analysis_script.py \
   --window 2 \
   --outdir "outputs"
 
----
-
-### 3️⃣ Optional: Sensitivity analysis
+3️⃣ Optional: Sensitivity analysis
 python network_analysis_script.py --window 5
 python network_analysis_script.py --window 7
 ...
@@ -121,7 +118,7 @@ python network_analysis_script.py --window 15
 
 ---
 
-### 4️⃣ Visualization
+4️⃣ Visualization
 Use any network viewer (e.g., Gephi, Cytoscape) to open:
 network_top300_withpos.graphml or graph_weighted.gexf
 
@@ -162,33 +159,3 @@ Author: Kenta Ichino
 Affiliation: Juntendo University, Department of Urology
 Email: k.ichino.xc@juntendo.ac.jp
 ---
-
-この版は研究再現に最適化されています。  
-希望があれば、このREADMEに対応する `.gitignore`（Python研究用）と `LICENSE`（MITまたはCC-BY）も作成します。  
-どちらを追加しますか？
-
-
----
-
-## 🔍 ポイント解説
-
-| 問題 | 原因 | 解決策 |
-|------|------|--------|
-| 2〜4番が内側に入る | `###` 見出しの前に全角スペース or 改行不足 | 各「##」の前に**空行1つ**入れる |
-| コードブロックが崩れる | ```bash の直前に空行なし | コードブロックの前後に**空行1行**入れる |
-| 番号順のレベルが揃わない | `###` の数が違う | すべて `##` に統一 |
-
----
-
-このまま上の内容をGitHubの `README.md` に貼り付けて  
-「Commit changes」を押せば、  
-すべての段がきれいに左揃えになります。
-
----
-
-もし今後、  
-「セクションタイトル（Install, Run, Visualize）」をもう少し小さく見せたい場合は、  
-`##` を `###` にするだけでOKです。  
-
-希望があれば、  
-このREADME全体を **GitHub用に最適化した完全フォーマット版（英日併記）** に整えて出しますか？
