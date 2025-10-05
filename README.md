@@ -102,6 +102,8 @@ and real-world discourse in social and clinical contexts using co-occurrence net
 ```bash
 pip install pandas numpy nltk networkx matplotlib python-louvain igraph leidenalg unidecode scikit-learn
 
+---
+
 ### 2️⃣ Run main analysis
 python network_analysis_script.py \
   --input "AMS-GoEmotions.TXT.txt" \
@@ -110,11 +112,15 @@ python network_analysis_script.py \
   --window 2 \
   --outdir "outputs"
 
+---
+
 ### 3️⃣ Optional: Sensitivity analysis
 python network_analysis_script.py --window 5
 python network_analysis_script.py --window 7
 ...
 python network_analysis_script.py --window 15
+
+---
 
 ### 4️⃣ Visualization
 Use any network viewer (e.g., Gephi, Cytoscape) to open:
