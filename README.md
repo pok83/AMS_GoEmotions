@@ -96,13 +96,13 @@ and real-world discourse in social and clinical contexts using co-occurrence net
 
 ---
 
-## ▶️ Reproduction / 解析再現手順
+# ▶️ Reproduction / 解析再現手順
 
-### 1️⃣ Install environment
 ```bash
+# 1️⃣ Install environment
 pip install pandas numpy nltk networkx matplotlib python-louvain igraph leidenalg
 
-2️⃣ Run main analysis
+# 2️⃣ Run main analysis
 python network_analysis_script.py \
   --input "AMS-GoEmotions.TXT.txt" \
   --ams_terms "AMS_terms.txt" \
@@ -110,17 +110,15 @@ python network_analysis_script.py \
   --window 2 \
   --outdir "outputs"
 
-3️⃣ Optional: Sensitivity analysis
+# 3️⃣ Optional: Sensitivity analysis
 python network_analysis_script.py --window 5
 python network_analysis_script.py --window 7
-...
 python network_analysis_script.py --window 15
 
----
-
-4️⃣ Visualization
-Use any network viewer (e.g., Gephi, Cytoscape) to open:
-network_top300_withpos.graphml or graph_weighted.gexf
+# 4️⃣ Visualization
+# Open the resulting network in Gephi or Cytoscape
+network_top300_withpos.graphml
+graph_weighted.gexf
 
 ## 📊 Key Results / 主な結果
 | Figure       | Description                                                                             |
