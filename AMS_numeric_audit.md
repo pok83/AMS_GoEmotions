@@ -1,0 +1,53 @@
+# Numeric Audit (extracted values)
+
+- **00_network_summaries_copy.csv** — rows: 3
+- **00_network_summaries_copy.csv** — cols: 8
+- **01_ams_vs_nonams.csv** — rows: 4
+- **01_ams_vs_nonams.csv** — cols: 7
+- **02_comm_overrep.csv** — rows: 12
+- **02_comm_overrep.csv** — cols: 6
+- **03_top20_deg.csv** — rows: 20
+- **03_top20_deg.csv** — cols: 3
+- **03_top20_eigenvector.csv** — rows: 20
+- **03_top20_eigenvector.csv** — cols: 3
+- **03_top20_pagerank.csv** — rows: 20
+- **03_top20_pagerank.csv** — cols: 3
+- **AMS_centrality_w10_only.csv** — rows: 13
+- **AMS_centrality_w10_only.csv** — cols: 14
+- **AMS_community_distribution_w10.csv** — rows: 2
+- **AMS_community_distribution_w10.csv** — cols: 3
+- **AMS_results_w10_significant.xlsx** — rows: 4
+- **AMS_results_w10_significant.xlsx** — cols: 8
+- **AMS_ego_neighbors_w10.csv** — rows: 260
+- **AMS_ego_neighbors_w10.csv** — cols: 4
+- **fig_ams_ego_w10_k2_blueEdges_positions.csv** — rows: 140
+- **fig_ams_ego_w10_k2_blueEdges_positions.csv** — cols: 4
+- **cluster_results_louvain.xlsx** — rows: 6920
+- **cluster_results_louvain.xlsx** — cols: 10
+- **Leiden_vs_Louvain.xlsx** — rows: 4
+- **Leiden_vs_Louvain.xlsx** — cols: 8
+- **perm_overrep_louvain.csv** — rows: 13
+- **perm_overrep_louvain.csv** — cols: 2
+- **cluster1_ams_subclusters.csv** — rows: 12
+- **cluster1_ams_subclusters.csv** — cols: 7
+- **Global** — Nodes N: 6920
+- **Global** — Edges E: 223520
+- **Global** — Density: 0.009337
+- **Global** — Average degree: 64.6
+- **03_top20_deg.csv** — AMS in top-20 (count): 0
+- **03_top20_deg.csv** — AMS in top-20 (list): None
+- **03_top20_eigenvector.csv** — AMS in top-20 (count): 0
+- **03_top20_eigenvector.csv** — AMS in top-20 (list): None
+- **03_top20_pagerank.csv** — AMS in top-20 (count): 0
+- **03_top20_pagerank.csv** — AMS in top-20 (list): None
+- **AMS community** — Clusters with ≥1 AMS: 2
+- **AMS community** — AMS terms per cluster (top 10): 0=1, 6=1
+- **Leiden vs Louvain** — NMI: 0.468
+- **Leiden vs Louvain** — ARI: 0.445
+- **AMS significant** — Rows with p<0.05: 4
+- **AMS centrality** — Top degree: muscle (1015)
+- **AMS centrality** — Top eigenvector: weight (0.03363)
+- **AMS centrality** — Top PageRank: erectile (0.0006756)
+- **Cluster1 subclusters** — Number of subclusters: 3
+- **Cluster1 subclusters** — AMS terms per subcluster: 0=5, 2=4, 1=3
+- **Ego networks** — error: You have to supply one of 'by' and 'level'
