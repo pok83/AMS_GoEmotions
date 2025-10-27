@@ -1,174 +1,155 @@
-# AMS_GoEmotions  
-*(Bilingual: English / 日本語併記)*  
+# AMS Language Project
+
+**Title:** Divergence between clinical questionnaires and patients’ everyday language revealed by network analysis of symptom vocabulary  
+**Authors:** Ichino, K., Okui, H., Horie, T., et al.  
+**Version:** Final (October 2025)  
+**Target Journal:** *Scientific Reports*  
+**Repository:** https://github.com/pok83/AMS_GoEmotions  
 
 ---
 
-## 📘 Overview / 概要  
+## 🧭 Overview
 
-This repository provides all data, scripts, and figures used in the AMS–GoEmotions project.  
-The study compares linguistic patterns between standardized LOH (Late-Onset Hypogonadism) questionnaires (AMS terms)  
-and large-scale social and clinical texts, to explore how symptom vocabulary differs across contexts.  
+This repository contains the complete dataset, code, and manuscript for the AMS Language Project,  
+which investigates linguistic divergence between standardized questionnaires and patients’ natural language in late-onset hypogonadism (LOH).  
+By combining large-scale natural language processing (NLP) and network analysis, the project compares the vocabulary of LOH questionnaires—especially the Aging Males’ Symptoms (AMS) scale—with two large corpora:
 
-本リポジトリは、AMSスケール（男性更年期質問票）に基づく語彙と、  
-大規模SNSおよび臨床教育文書における自然言語表現を比較し、  
-その共起ネットワーク構造を解析した研究の再現データ一式を提供します。  
-
----
-
-## 📂 Repository Structure / フォルダ構成  
-
-AMS_GoEmotions/
-├─ 📄 AMS-GoEmotions.TXT.txt # GoEmotions-based corpus
-├─ 📄 AMS_terms.txt # AMS vocabulary list (14 terms)
-├─ 📄 AMS_terms_domains.xlsx # AMS terms by domain (psychological / sexual / vitality)
-├─ 📄 extra_stop.txt # Additional stopword list
-├─ 📄 network_analysis_script.py # Network construction & analysis script
-│
-├─ 📊 Nodes2612.xlsx # Node attributes (N=2,612)
-├─ 📊 edges_weighted10709.csv # Weighted edge list (E=10,709)
-│
-├─ 📈 cooccurrence_5.csv ... cooccurrence_15.csv # Sensitivity analysis (window size 5–15)
-├─ 📈 cooccurrence_all.csv # Merged co-occurrence matrix
-├─ 📈 centrality_summary.csv # Summary of centrality metrics
-├─ 📈 centrality_table.csv # Raw centrality values
-│
-├─ 📑 clusters_louvain_summary.csv # Louvain community summary
-├─ 📑 clusters_leiden_summary.csv # Leiden community summary
-├─ 📑 cluster_level_AMS_vs_nonAMS.csv # AMS vs non-AMS cluster-level stats
-├─ 📑 cluster_within_centrality_summary_weighted.csv # Within-cluster centrality
-├─ 📑 nodes_with_clusters_and_ranks.csv # Cluster assignment with ranks
-├─ 📑 N2612_Louvain_vs_Leiden.xlsx # Louvain vs Leiden comparison
-├─ 📑 louvain_leiden_agreement.csv # Agreement indices (NMI, ARI)
-│
-├─ 📊 AMS_bootstrap_degree_results.xlsx # Bootstrap stability (degree)
-├─ 📊 AMS_bootstrap_eigenvector_results.xlsx # Bootstrap stability (eigenvector)
-├─ 📊 AMS_bootstrap_betweenness_results.xlsx # Bootstrap stability (betweenness)
-│
-├─ 🧠 cluster_analysis.xlsx # Cluster-level analysis summary
-├─ 🧠 cluster_spread_stats.csv # Cluster size & dispersion metrics
-│
-├─ 🩺 clinical_corpus/
-│ ├─ Mayo Clinic – Male hypogonadism.txt
-│ ├─ Stanford Health Care – Low testosterone.txt
-│ ├─ UCSF Health – Hypogonadism.txt
-│ ├─ UCSF Health – Erectile dysfunction.txt
-│ ├─ mayo_hypogonadism_tokens.txt
-│ ├─ stanford_lowtestosterone_tokens.txt
-│ ├─ ucsf_hypogonadism_tokens.txt
-│ ├─ ucsf_ed_tokens.txt
-│ └─ tokens_all.txt
-│
-├─ 📊 AMC.xlsx # Academic medical corpus summary
-├─ 📊 LOH_Questionnaires.xlsx # Original AMS/LOH questionnaire list
-│
-├─ 🎨 Figure1.png # Global co-occurrence network (GoEmotions)
-├─ 🎨 Figure2.png # Domain-colored AMS clusters
-├─ 🎨 Figure3.png # Clinical corpus network
-│
-└─ 📁 outputs/ (user-generated)
-├─ centrality_all.csv
-├─ graph_weighted.gexf
-├─ Leiden_summary.xlsx
-└─ bootstrap_results/
+- **SNS Corpus:** GoEmotions dataset (58,009 Reddit comments)
+- **Clinical Corpus:** 177 patient-education documents from 59 U.S. medical institutions
 
 ---
 
-## 🧠 Research Objective / 研究目的  
+## 📂 Repository Structure
 
-To quantify lexical and structural differences between standardized questionnaire language (AMS terms)  
-and real-world discourse in social and clinical contexts using co-occurrence networks and community detection.  
+├── manuscript_AMS.docx # Final manuscript (Scientific Reports submission)
+│
+├── SNSCorpus.zip # Social-media corpus data (GoEmotions + Reddit subset)
+│ ├── edges_weighted10709.csv
+│ ├── nodes_2612.xlsx
+│ ├── positions_2612.csv
+│ ├── bootstrap_outputs_bundle.zip
+│ └── figures/ (network plots, community visuals)
+│
+├── ClinicalCorpus.zip # Patient-education corpus data
+│ ├── nodes_6920.xlsx
+│ ├── edges_weighted373748.csv
+│ ├── Leiden_Louvain_results.csv
+│ ├── bootstrap_outputs_clinical.zip
+│ └── figures/ (community diagrams, cluster maps)
+│
+├── code/
+│ ├── 01_tokenization.py
+│ ├── 02_network_construction.py
+│ ├── 03_centrality_analysis.py
+│ ├── 04_bootstrap_validation.py
+│ └── 05_visualization.ipynb
+│
+├── results/
+│ ├── figures/
+│ │ ├── Figure1_network.png
+│ │ ├── Figure2_communities.png
+│ │ └── Figure3_clinical.png
+│ └── tables/
+│ ├── Table1_vocabulary.xlsx
+│ ├── Table2_centrality.xlsx
+│ ├── Table5_bootstrap.xlsx
+│
+└── README.md
 
-標準化質問票（AMS）語彙と自然発話言語との語彙的・構造的差異を、  
-共起ネットワークおよびクラスタ解析によって定量化します。
-
----
-
-## ⚙️ Method Summary / 手法概要  
-
-| Step | Process | Key Files |
-|------|----------|------------|
-| **1. Preprocessing** | Tokenization, lemmatization, stopword removal | `AMS-GoEmotions.TXT.txt`, `extra_stop.txt` |
-| **2. Co-occurrence Construction** | Sliding window (size=2–15), PMI normalization | `cooccurrence_*.csv` |
-| **3. Network Analysis** | Weighted graph creation, centrality computation | `edges_weighted10709.csv`, `centrality_summary.csv` |
-| **4. Community Detection** | Louvain & Leiden algorithms, resolution=1.0/1.5 | `clusters_louvain_summary.csv`, `clusters_leiden_summary.csv` |
-| **5. Bootstrap Stability** | 1,000 resamples for AMS term stability | `AMS_bootstrap_*.xlsx` |
-| **6. Visualization** | Top 300 nodes with AMS labels and domain colors | `Figure1.png`, `Figure2.png`, `Figure3.png` |
-
----
-
-# 🧠 AMS–GoEmotions Network Analysis
-*Linguistic network study of late-onset hypogonadism (LOH) symptoms using the GoEmotions corpus*
-
----
-
-## ▶️ Reproduction / 解析再現手順
-
-### 1️⃣ Install environment
-```bash
-pip install pandas numpy nltk networkx matplotlib python-louvain igraph leidenalg
-```
-
-###  2️⃣ Run main analysis
-```bash
-python network_analysis_script.py \
-  --input "AMS-GoEmotions.TXT.txt" \
-  --ams_terms "AMS_terms.txt" \
-  --stopwords "extra_stop.txt" \
-  --window 2 \
-  --outdir "outputs"
-```
-
-### 3️⃣ Optional: Sensitivity analysis
-```bash
-python network_analysis_script.py --window 5
-python network_analysis_script.py --window 7
-python network_analysis_script.py --window 15
-```
-
-### 4️⃣ Visualization
-```bash
-Use any network viewer (e.g., Gephi, Cytoscape) to open:
-network_top300_withpos.graphml
-graph_weighted.gexf
-```
-
----
-## 📊 Key Results / 主な結果
-| Figure       | Description                                                                             |
-| ------------ | --------------------------------------------------------------------------------------- |
-| **Figure 1** | Global co-occurrence network (AMS terms in red, non-AMS in blue).                       |
-| **Figure 2** | Domain-colored clusters (psychological=purple, sexual=orange, vitality/physical=green). |
-| **Figure 3** | Clinical corpus network showing AMS-related lexical clusters in educational texts.      |
-
-## 📂 Related Data Summaries / 補足データ
-| File                                 | Content                                                 |
-| ------------------------------------ | ------------------------------------------------------- |
-| `centrality_summary.csv`             | Mean/SD of degree, eigenvector, betweenness             |
-| `cluster_level_AMS_vs_nonAMS.csv`    | Comparison of AMS vs non-AMS terms within clusters      |
-| `louvain_leiden_agreement.csv`       | Agreement indices (NMI, ARI) between clustering methods |
-| `AMS_terms_within_cluster_ranks.csv` | Rank of AMS terms within their communities              |
-| `cluster_spread_stats.csv`           | Cluster size, edge density, domain dispersion           |
-
-## 🩺 Clinical Corpus Overview / 臨床コーパス概要
-| Source                   | Document                              | Focus                                           |
-| ------------------------ | ------------------------------------- | ----------------------------------------------- |
-| **Mayo Clinic**          | *Male hypogonadism*                   | Symptoms, causes, treatment overview            |
-| **Stanford Health Care** | *Low testosterone*                    | Clinical overview and endocrine/urology context |
-| **UCSF Health**          | *Hypogonadism / Erectile dysfunction* | Endocrine and urologic patient education texts  |
-
-## 🧮 Environment / 実行環境
-Python 3.10
-NetworkX v2.8
-igraph + leidenalg
-pandas, numpy, scikit-learn
-matplotlib, unidecode, nltk
-Random seed fixed at 42 for reproducibility.
-
-## 👤 Contact / 連絡先
-
-Author: Kenta Ichino
-Affiliation: Juntendo University, Department of Urology
-Email: k.ichino.xc@juntendo.ac.jp
 
 ---
 
+## 🧪 Methods Summary
+
+- **Network construction:**  
+  Co-occurrence networks built using Positive Pointwise Mutual Information (PPMI) weighting.  
+  - Window size = 2 (SNS corpus)  
+  - Window size = 10 (clinical corpus)
+
+- **Community detection:**  
+  Louvain + Leiden algorithms (resolution = 1.0, random seed = 42)
+
+- **Bootstrap stability:**  
+  Poisson resampling (B = 1000 for SNS corpus; B = 400 for clinical corpus)
+
+- **Statistical validation:**  
+  Spearman’s ρ, Kendall’s τ, and Jaccard overlap indices for top-k hub sets (k = 10, 20, 50, 100)
+
+- **Software environment:**  
+  Python 3.10, NetworkX v2.8, spaCy v3.7, NLTK v3.8, NumPy, Pandas, SciPy, Matplotlib v3.9,  
+  Gephi v0.10 (visualization). Executed on Google Colab Pro.
+
+---
+
+## 📊 Key Results
+
+### Social-Media Corpus (GoEmotions)
+- 2,612 nodes, 10,709 edges (density = 0.00314)  
+- **Anxiety** emerged as the most central and stable hub.  
+- Physical and sexual AMS terms (e.g., *libido*, *muscle*) appeared peripherally.  
+- Psychological terms dominated the network core, reflecting greater expressibility and social acceptability.
+
+### Clinical Corpus
+- 6,920 nodes, 373,748 edges (density = 0.0156)  
+- AMS terms were overrepresented in a single integrated cluster connecting sexual, physical, and psychological domains.  
+- High centrality values for *muscle*, *erectile*, *weight*, and *libido*.  
+- AMS terms acted as **lexical bridges** linking medical and everyday vocabulary.
+
+### Interpretation
+- Patients’ spontaneous language emphasizes psychological and emotional terms.  
+- Clinical documents emphasize sexual and physical terms for diagnostic clarity.  
+- Questionnaires omit contextual cues, forcing isolated interpretation of polysemous terms.  
+- This linguistic divergence highlights the need for **linguistically grounded** patient-reported measures.
+
+---
+
+## 🔍 Figures and Tables
+
+- **Figure 1:** Global co-occurrence network (top 300 nodes)  
+- **Figure 2:** Community structure (SNS corpus)  
+- **Figure 3:** Clinical corpus network (top 300 nodes, AMS terms highlighted)  
+- **Table 1:** AMS vocabulary by domain  
+- **Table 2:** Centrality of AMS terms  
+- **Table 5:** Bootstrap stability metrics  
+
+All figures and tables are available under `/results/`.
+
+---
+
+## 🔐 Data Availability
+
+All datasets are **publicly available and anonymized**:
+
+- **GoEmotions dataset:** [https://github.com/google-research/goemotions](https://github.com/google-research/goemotions)  
+- **Reddit corpus:** Used in accordance with Reddit’s Terms of Service (not redistributed)  
+- **Clinical corpus:** Compiled from official patient-education pages of 59 U.S. medical institutions  
+- No personally identifiable information was collected; all analyses complied with **GDPR** and **HIPAA**.
+
+---
+
+## 💾 Code Availability
+
+All scripts, configuration files, and intermediate outputs are version-controlled within this repository.  
+For reproducibility, fix random seeds (42) and execute in Google Colab Pro or Python 3.10 environment.
+
+---
+
+## 📚 Citation
+
+If you use this repository, please cite:
+
+Ichino K., Okui H., Horie T., et al. (2025).
+Divergence between clinical questionnaires and patients’ everyday language revealed by network analysis of symptom vocabulary.
+Scientific Reports (under review).
+
+
+---
+
+## 🧠 Contact
+
+For questions or collaboration inquiries:  
+📧 [Insert your preferred email or GitHub handle here]
+
+---
+
+© 2025 AMS Language Project. All rights reserved.
