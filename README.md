@@ -23,14 +23,14 @@ By combining large-scale natural language processing (NLP) and network analysis,
 
 ├── manuscript_AMS.docx # Final manuscript (Scientific Reports submission)
 │
-├── SNSCorpus.zip # Social-media corpus data (GoEmotions + Reddit subset)
+├── # Social-media corpus data (GoEmotions + Reddit subset)
 │ ├── edges_weighted10709.csv
 │ ├── nodes_2612.xlsx
 │ ├── positions_2612.csv
 │ ├── bootstrap_outputs_bundle.zip
 │ └── figures/ (network plots, community visuals)
 │
-├── ClinicalCorpus.zip # Patient-education corpus data
+├── # Clinical corpus data
 │ ├── nodes_6920.xlsx
 │ ├── edges_weighted373748.csv
 │ ├── Leiden_Louvain_results.csv
